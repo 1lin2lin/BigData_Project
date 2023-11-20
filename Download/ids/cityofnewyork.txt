@@ -1,0 +1,3464 @@
+vx8i-nprf - Civil Service List (Active)
+8wbx-tsch - For Hire Vehicles (FHV) - Active
+ic3t-wcy2 - DOB Job Application Filings
+dpec-ucu7 - TLC New Driver Application Status
+xjfq-wh2d - For Hire Vehicles (FHV) - Active Drivers
+erm2-nwe9 - 311 Service Requests from 2010 to Present
+a9md-ynri - Civil Service List Certification
+k397-673e - Citywide Payroll Data (Fiscal Year)
+h9gi-nx95 - Motor Vehicle Collisions - Crashes
+ipu4-2q9a - DOB Permit Issuance
+5tub-eh45 - Street Hail Livery (SHL) Drivers - Active
+jb3k-j3gp - Medallion Drivers - Active
+tg4x-b46p - Film Permits
+jb7j-dtam - New York City Leading Causes of Death
+rhe8-mgbb - Medallion  Vehicles - Authorized
+43nn-pn8j - DOHMH New York City Restaurant Inspection Results
+dg92-zbpx - City Record Online
+jz4z-kudi - OATH Hearings Division Case Status
+nc67-uf89 - Open Parking and Camera Violations
+vfnx-vebw - 2018 Central Park Squirrel Census - Squirrel Data
+qgea-i56i - NYPD Complaint Data Historic
+uip8-fykc - NYPD Arrest Data (Year to Date)
+nzjr-3966 - NYC Civil Service Titles
+r8nu-ymqj - School Districts
+nqwf-w8eh - Building Footprints
+2v9c-2k7f - FHV Base Aggregate Report
+rbx6-tga4 - DOB NOW: Build – Approved Permits
+eabe-havv - DOB Complaints Received
+i9rv-hdr5 - Map of NYCHA Developments
+8586-3zfm - Active Projects Under Construction
+tqmj-j8zm - Borough Boundaries
+yhuu-4pt3 - Street Hail Livery (SHL) Permits
+rc75-m7u3 - COVID-19 Daily Counts of Cases, Hospitalizations, and Deaths
+8h9b-rp9u - NYPD Arrests Data (Historic)
+kpav-sd4t - Jobs NYC Postings
+kku6-nxdu - DYCD Participant Demographic Statistics By Zip Code
+3h2n-5cm9 - DOB Violations
+wvxf-dwi5 - Housing Maintenance Code Violations
+5uac-w243 - NYPD Complaint Data Current (Year To Date)
+78dh-3ptz - Police Precincts
+bnx9-e6tj - ACRIS - Real Property Master
+hc8x-tcnd - FDNY Firehouse Listing
+ye3c-m4ga - Civil List
+w7w3-xahh - Legally Operating Businesses
+f9bf-2cp4 - 2012 SAT Results
+6z8x-wfk4 - Evictions
+pvqr-7yc4 - Parking Violations Issued - Fiscal Year 2024
+ia2d-e54m - Water Consumption in the City of New York
+c3uy-2p5r - Air Quality
+833y-fsy8 - NYPD Shooting Incident Data (Historic)
+xywu-7bv9 - New York City Population by Borough, 1950 - 2040
+w9ak-ipjd - DOB NOW: Build – Job Application Filings
+9rz4-mjek - Tax Lien Sale Lists
+dzgh-ja44 - Projects in Construction Map
+pi5s-9p35 - 2015 Street Tree Census - Tree Data
+qyyg-4tf5 - Recent Contract Awards
+25th-nujf - Popular Baby Names
+6bgk-3dad - DOB ECB Violations
+t29m-gskq - 2018 Yellow Taxi Trip Data
+jgtb-hmpg - Medallion Vehicles - Inactive
+muvi-b6kx - Property Exemption Detail
+uvpi-gqnh - 2015 Street Tree Census - Tree Data
+hg8x-zxpr - Affordable Housing Production by Building
+867j-5pgi - Trade Waste Hauler Licensees
+smk3-tmxj - Department of Finance Digital Tax Map
+eccv-9dzr - CURRENT BASES
+uiay-nctu - Open Streets Locations
+cpf4-rkhq - 2010 Neighborhood Tabulation Areas (NTAs)
+uyj8-7rv5 - Sandy Inundation Zone
+k46n-sa2m - DHS Daily Report
+7vsa-caz7 - New York City Bike Routes
+utqd-4534 - Voting/Poll Sites Map
+5ucz-vwe8 - NYPD Shooting Incident Data (Year To Date)
+pasr-j7fb - Emergency Response Incidents
+pe54-wf39 - TLC Approved LabCorp Patient Services Drug Test Locations
+ncbg-6agr - DOF Parking Violation Codes
+6pui-xhxz - NYCDEP Citywide Hydrants
+xzxm-9msq - TLC Approved LabCorp Patient Services Drug Test Locations (Map)
+exjm-f27b - NYC Street Centerline (CSCL)
+i4p3-pe6a - Open Parking and Camera Violations
+bs8b-p36w - DOB Certificate Of Occupancy
+yfnk-k7r4 - Community Districts
+swpk-hqdp - New York City Population By Neighborhood Tabulation Areas
+y7az-s7wc - J-51 Exemption and Abatement
+76xm-jjuj - EMS Incident Dispatch Data
+mdcw-n682 - Greenbook
+7ahn-ypff - 311 Service Requests from 2010 to Present
+7479-ugqb - Daily Inmates In Custody
+f7dc-2q9f - SARS-CoV-2 concentrations measured in NYC Wastewater
+h2n3-98hq - Election Districts
+3qz8-muuu - Subway Lines
+qwca-zqw3 - Sea Level Rise Maps (2050s 500-year Floodplain)
+7t6i-mkth - Open Data Plan Update 2016
+a9we-mtpn - NYC Wi-Fi Hotspot Locations
+d3c5-ddgc - NYC Taxi Zones
+mnz3-dyi8 - 2011 NYC School Survey
+rjaj-zgq7 - ARCHIVED - Parks Zones
+xi7c-iiu2 - New York City Population By Community Districts
+8m42-w767 - Fire Incident Dispatch Data
+f7b6-v6v3 - NYC Health + Hospitals patient care locations - 2011
+c5dk-m6ea - Citywide Crime Statistics
+ci93-uc8s - SBS Certified Business List
+e98g-f8hy - Property Data (Buildings Information System)
+g84h-jbjm - 2014 Planimetric Survey - Open Space (Parks)
+zkky-n5j3 - Current Reservoir Levels
+fxpq-c8ku - 2010 Census Tracts
+nu7n-tubp - NYC Dog Licensing Dataset
+4e2n-s75z - Suitability of City-Owned and Leased Property for Urban Agriculture (LL 48 of 2011)
+ba8s-jw6u - 2015 Yellow Taxi Trip Data
+dpc8-z3jc - 1 foot Digital Elevation Model (DEM)
+zt9s-n5aj - SAT (College Board) 2010 School Level Results
+3khw-qi8f - Current Solicitations
+tesw-yqqr - Multiple Dwelling Registrations
+biws-g3hs - 2017 Yellow Taxi Trip Data
+ebb7-mvp5 - DSNY Monthly Tonnage Data
+ymhw-9cz9 - NYC Health + Hospitals Facilities - 2011
+636b-3b5g - ACRIS - Real Property Parties
+2fra-mtpn - NYPD Complaint Map (Year to Date)
+fak5-wcft - 2018 Squirrel Census  Fur Color Map
+kdig-pewd - Zoning GIS Data: Shapefile
+jt7v-77mi - Parking Violations Issued - Fiscal Year 2014
+mzrr-g56e - TLC Driver Education 24 Hour Course Provider (Map)
+wnu3-egq7 - New York City Truck Routes (Map)
+uzf5-f8n2 - NYC Calendar Sales (Archive)
+p937-wjvj - Rodent Inspection
+s3k6-pzi2 - 2017 DOE High School Directory
+cspg-yi7g - Construction Demolition Registrants
+4d7f-74pe - New York City Council Discretionary Funding
+ezfn-5dsb - Sea Level Rise Maps (2020s 100-year Floodplain)
+8y4t-faws - Property Valuation and Assessment Data Tax Classes 1,2,3,4
+qb3k-n8mm - Filming Locations (Scenes from the City)
+2de2-6x2h - Bi-Annual Pedestrian Counts
+szwg-xci6 - Elevation points
+gn7m-em8n - 2014 Yellow Taxi Trip Data
+32y8-s55c - FDNY Line Of Duty Deaths
+99bc-9p23 - Neighborhood Names GIS
+ez4e-fazm - Bus Breakdown and Delays
+8h5j-fqxa - ACRIS - Real Property Legals
+dsg6-ifza - DOHMH Childcare Center Inspections
+7z8d-msnt - 2010 - 2011 School Attendance and Enrollment Statistics by District
+rgy2-tti8 - Property Valuation and Assessment Data
+evjd-dqpz - NYCHA Development Data Book
+vsnr-94wk - Citi Bike System Data
+vfx9-tbb6 - Sidewalk
+rsgh-akpg - DOHMH Dog Bite Data
+jfju-ynrr - School Point Locations
+5uug-f49n - Harbor Water Quality
+yjub-udmw - NYC Wi-Fi Hotspot Locations
+cwmx-mvra - COVID-19 Outcomes by Testing Cohorts: Cases, Hospitalizations, and Deaths
+yusd-j4xi - City Council Districts
+kiv2-tbus - Parking Violations Issued - Fiscal Year 2016
+sxx4-xhzg - Public Recycling Bins
+uwyv-629c - Housing Maintenance Code Complaints
+9a87-6m4x - SBS ICAP Contract Opportunities
+qu8g-sxqf - Civil Service List (Terminated)
+mwzb-yiwb - Expense Budget
+ye4r-qpmp - Census Demographics at the NYC City Council district (CNCLD) level
+ptev-4hud - License Applications
+s52a-8aq6 - 2013 - 2018 Demographic Snapshot School
+wt4d-p43d - NYC Planimetrics
+tvpp-9vvx - NYC Permitted Event Information
+v2h8-6mxf - 2010 Census Blocks
+tqtj-sjs8 - Street Construction Permits (2022-Present)
+cete-9g3v - Directory Of DHS Contacts
+bqiq-cu78 - NYPD Hate Crimes
+uq7m-95z8 - 2019 DOE High School Directory
+ntcm-2w4k - Directory Of Homebase Locations
+hvrh-b6nb - 2016 Green Taxi Trip Data
+bty7-2jhb - Historical DOB Permit Issuance
+kf2b-aeh5 - Workforce1 Recruitment Events
+7agf-bcsq - NYC Wi-Fi Hotspot Locations Map
+2bnn-yakx - Parking Violations Issued - Fiscal Year 2017
+mifw-tguq - Voting/Poll Sites
+t8hj-ruu2 - DOB License Info
+jr24-e7cr - Electric Consumption And Cost (2010 - Feb 2023)
+hq68-rnsi - Affordable Housing Production by Project
+q68s-8qxv - NYCCAS Air Pollution Rasters
+9auy-76zt - Landcover Raster Data (2010) – 3ft Resolution
+vh2h-md7a - 2005-2010 Graduation Outcomes - School Level
+gaq9-z3hz - Recycling Diversion and Capture Rates
+xubg-57si - DOB NOW: Safety – Facades Compliance Filings
+57mv-nv28 - NYPD Complaint Map (Historic)
+krx7-u82t - Trade Waste Broker Registrants
+69bm-3bc2 - Women's Resource Map
+enfh-gkve - Parks Properties
+h922-d8e5 - TLC Driver Exam Testing Center Locations
+rxuy-2muj - Points Of Interest
+g6pj-hd8k - NYC Address Points
+59kj-x8nc - Housing Litigations
+tm6d-hbzd - Incidents Responded to by Fire Companies
+pri4-ifjk - Modified Zip Code Tabulation Areas (MODZCTA)
+yjxr-fw8i - Property Valuation and Assessment Data
+vw9i-7mzq - 2018 DOE High School Directory
+xswq-wnv9 - Parking Regulation Locations and Signs
+2ei9-vg68 - NYCHA Application Priority Codes
+2cav-chmn - Street Pavement Rating (Historical)
+f4rp-2kvy - Clean Air Tracking System (CATS) Permits
+52dp-yji6 - DOB NOW: Safety Boiler
+rnsn-acs2 - Census Demographics at the Neighborhood Tabulation Area (NTA) level
+itfs-ms3e - 2010  AP (College Board) School Level Results
+ihfw-zy9j - 2006 - 2012 School Demographics and Accountability Snapshot
+kh3d-xhq7 - Queens Library Branches
+a8wp-rerh - Self Hauler Registrants
+k67s-dv2t - 2016 Yellow Taxi Trip Data
+87fx-28ei - Wholesale Markets
+35sw-rdxj - DYCD after-school programs:  Beacon Programs
+p32s-yqxq - Historical Driver Application Status
+wz6d-d3jb - Bedbug Reporting
+n3p6-zve2 - 2014 - 2015 DOE High School Directory
+i4gi-tjb9 - DOT Traffic Speeds NBE
+64uk-42ks - Primary Land Use Tax Lot Output (PLUTO)
+spax-mybh - NYC Truck Routes (Historical)
+5r5y-pvs3 - NYCHA Resident Data Book Summary
+ajxm-kzmj - ARCHIVED - NYC Greenthumb Community Gardens
+ht4t-wzcm - Taxi Improvement Fund (TIF) Medallion Payments
+g3vh-kbnw - DYCD Participant School District Breakdowns
+n2zq-pubd - NYPD Calls for Service (Year to Date)
+bm4k-52h4 - Motor Vehicle Collisions - Vehicles
+2fpa-bnsx - Facilities Database - Shapefile
+urz7-pzb3 - 2010-2011 Class Size - School-level detail
+94g4-w6xz - ACRIS - Property Types Codes
+csut-3wpr - New York City Community Health Survey
+pitm-atqc - Open Restaurant Applications (Historic)
+fdkv-4t4z - NYC Zoning Tax Lot Database
+bkwf-xfky - Drinking Water Quality Distribution Monitoring Data
+bmxf-3rd4 - Directory Of Homeless Drop- In Centers
+f4yq-wry5 - Mapped In NY Companies
+tgyc-r5jh - New York City Art Galleries
+f55k-p6yu - Motor Vehicle Collisions - Person
+7zb8-7bpk - Property Tax Rates by Tax Class
+td5q-ry6d - Medallion Drivers – Passenger Assistance Trained
+spjh-pz7h - DEP Green Infrastructure
+6bic-qvek - DYCD Participant Zip code breakdowns
+3cdm-p29e - Contours
+7vpq-4bh4 - Municipal Court Districts
+qchy-end3 - City-owned sites that are available and potentially suitable for urban agriculture (Local Law 46 of 2018)
+5t4n-d72c - Directory Of Homeless Population By Year
+9hzi-kbqb - NYC Council Constituent Services
+8792-ebcp - Directory of Eateries
+ivix-m77e - Use of ARRA Stimulus Funds
+qcdj-rwhu - HISTORICAL Sidewalk Café Licenses and Applications
+i296-73x5 - DOB Stalled Construction Sites
+kvuc-fg9b - Demographic, Social, Economic, and Housing Profiles by Community District/PUMA
+tgrn-h24f - LinkNYC Map
+ezds-sqp6 - NYC Park Crime Data
+a2nx-4u46 - Complaint Problems
+xdc2-zgy3 - New York City Historical Vital Records - Digitized Certificates
+qafz-7myz - Bus Stop Shelters
+sn5i-xuny - Alerts
+qybk-bjjc - 2010 - 2016 School Safety Report
+bc8t-ecyu - Property Address Directory
+v7f4-yzyg - Vision Zero View Data
+8vgb-zm6e - Revised Notice of Property Value (RNOPV)
+7ym2-wayt - Automated Traffic Volume Counts
+feu5-w2e2 - Registration Contacts
+kj4p-ruqc - Buildings Subject to HPD Jurisdiction
+i6b5-j7bu - Street Closures due to construction activities by Block
+qd3c-zuu7 - Congressional Districts
+ftxv-d5ix - The Stop, Question and Frisk Data
+3bkj-34v2 - LCGMS - DOE School Information Report
+usc3-8zwd - Energy and Water Data Disclosure for Local Law 84 2021 (Data for Calendar Year 2020)
+xbvj-gfnw - Historic Districts
+uqqa-hym2 - ACRIS - Personal Property Legals
+mxwn-eh3b - Checkbook NYC 2.0
+s4kf-3yrf - LinkNYC Kiosk Locations
+ejxk-d93y - Business Improvement Districts
+sv7x-dduq - ACRIS - Personal Property Master
+5c4s-jwtq - Total SNAP Recipients
+mdbu-nrqn - Open Market Order (OMO) Charges
+fcau-jc6k - Infant Mortality
+k2ya-ucmv - ARCHIVED - Parks Properties
+kdu2-865w - Theaters
+jufi-gzgp - 2006 - 2011 NYS Math Test Results By Grade - School Level - All Students
+5fn4-dr26 - Department of Consumer and Worker Protection (DCWP) Issued Charges
+swsf-ed7j - Queens Libraries (Map)
+cwiz-gcty - 2010 Public Use Microdata Areas (PUMAs)
+9jgj-bmct - DOHMH Indoor Environmental Complaints
+p4pf-fyc4 - Library
+c7ru-d68s - 2017-18  - 2021-22 Demographic Snapshot
+j34j-vqvt - FDNY Monthly Response Times
+uedp-fegm - Natural Gas Consumption by ZIP Code - 2010
+2v4z-66xt - LION
+rukc-mmqu - Active Projects - Infrastructure (Historical)
+h7zy-iq3d - Parking Lot
+t7p9-n9dy - 911 End-to-End Data
+uczf-rk3c - Bicycle Counts
+kiyv-ks3f - Universal Pre-K (UPK) School Locations
+ykvb-493p - HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity
+vq35-j9qm - Asbestos Control Program (ACP7)
+avir-tzek - 2005-2010  Graduation Outcomes -  By Borough
+vvj6-d5qx - NYC Municipal Building Energy Benchmarking Results
+7isb-wh4c - ACRIS - Document Control Codes
+f888-ni5f - Primary Land Use Tax Lot Output - Map (MapPLUTO)
+dm9a-ab7w - DOB NOW: Electrical Permit Applications
+6y3e-jcrc - ACRIS - Personal Property References
+jzhd-m6uv - Department of Consumer and Worker Protection (DCWP) Inspections
+wvts-6tdf - Real Property Income and Expense Form non-compliance list
+tbgj-tdd6 - Mobile Telecommunications Franchise Pole Reservation Locations
+rfu7-paqe - Deed Restriction Database
+hjae-yuav - Directory Of Toilets In Public Parks
+uihr-hn7s - Hurricane Evacuation Zones
+6kcb-9g8d - 2018 DOE Middle School Directory
+2upf-qytp - 2019 Yellow Taxi Trip Data
+7gmq-dbas - 1995 Street Tree Census
+hbw8-2bah - Sea Level Rise Maps (2050s 100-year Floodplain)
+w9ei-idxz - New York City Locations Providing Seasonal Flu Vaccinations
+tnru-abg2 - 3-D Building Model
+sv2w-rv3k - NYPD Criminal Court Summons (Historic)
+hi3x-y76v - NYC Health + Hospitals patient satisfaction scores – 2009
+69wu-b929 - LinkNYC Usage Statistics (Historical Data)
+dxru-eun8 - Storefront Registration Class 2 and 4 Statistics
+bi53-yph3 - Bureau of Fire Prevention - Active Violation Orders
+6ej9-7qyi - After-School Programs
+nre2-6m2s - Consumer Services Mediated Complaints
+mzbd-kucq - Places
+nyis-y4yr - DOB Sign Application Filings
+nzvw-cjc2 - DOF: Building Classification Codes
+nbbg-wtuz - ACRIS - Personal Property Parties
+9p4w-7npp - ACRIS - Real Property Remarks
+wewp-mm3p - 311 Call Center Inquiry
+x3bb-kg5j - 2018-2019 Daily Attendance
+23z9-6uk9 - 2020 DOE High School Directory
+drh3-e2fd - Hydrography
+wwhr-5ven - Participatory Budgeting Projects
+rrd7-vuvp - 2020-2021 Bilingual Program List (Final Publication)
+kcrm-j9hh - Museums and galleries
+5tqd-u88y - Local Law 251 of 2017: Published Data Asset Inventory
+faiq-9dfq - Parking Violations Issued - Fiscal Year 2019
+crns-fw6u - Directory of NYCHA Community Facilities
+nkn9-ge6x - NYCHA Application - Frequently Asked Questions
+tb8q-a3ar - Order to Repair/Vacate Orders
+9d9t-bmk7 - Directory of Benefits Access Centers
+mv4k-y93f - NYPD Criminal Court Summons Incident Level Data (Year To Date)
+ufu7-zp25 - 2006 - 2012 Math Test Results - Citywide - SWD
+cu9u-3r5e - Demographic and Housing Profiles by Borough
+a5td-mswe - Parking Violations Issued - Fiscal Year 2018
+he6d-2qns - Land Cover Raster Data (2017) – 6in Resolution
+c284-tqph - Parking Violations Issued - Fiscal Year 2015
+gi8d-wdg5 - 2015 Green Taxi Trip Data
+w2pb-icbu - NYC Citywide Annualized Calendar Sales Update
+sp7n-275u - Medallion Taxi Initial Inspection Schedule
+w9uz-8epq - FRESH Food Stores Zoning Boundaries
+6iwb-7euj - 2021 - 2022 Bilingual Program List
+7kuu-zah7 - 1 foot Digital Elevation Model (DEM) Integer Raster
+m6nq-qud6 - 2021 Yellow Taxi Trip Data
+ayer-cga7 - Hurricane Evacuation Centers (Map)
+3rfa-3xsf - 311 Service Requests for 2009
+mbd7-jfnc - DYCD after-school programs
+k5ta-2trh - Forestry Tree Points
+ssq6-fkht - Bureau of Fire Prevention - Inspections
+yh4a-g3fj - Bicycle Parking
+7sc8-jtbz - Topobathymetric LiDAR Data (2017)
+j2iz-mwzu - ACRIS - Country Codes
+gffu-ps8j - Income By Type Of Income And AGI Range
+f34v-uffx - OneNYC Indicators (Historical)
+8yac-vygm - Routes
+pd5h-92mc - GED Plus Locations
+3qty-g4aq - Youth Behavior Risk Survey (High School)
+gua4-p9wg - Bicycle Counts for East River Bridges (Historical)
+dg7a-jiz2 - Lost Property Contact Information
+fuhs-xmg2 - Urban Park Ranger Animal Condition Response
+hcir-3275 - Buildings Selected for the Alternative Enforcement Program (AEP)
+2n4x-d97d - NYC Taxi and Limousine Commission authorized Dispatch Service Providers (DSP)
+y4fw-iqfr - NYC Cooling Tower Registrations
+bnkq-6un4 - Lead Service Line Location Coordinates
+8nqg-ia7v - Mental Health Service Finder Data
+7mgd-s57w - LPC Individual Landmark and Historic District Building Database
+ud4g-9x9z - Recognized Shop Healthy Stores
+eizi-ujye - NYPD Sectors
+i7a5-bsik - Railroad Line
+i4kb-6ab6 - NYC Community Based Organizations
+kxp8-n2sj - 2020 Yellow Taxi Trip Data
+ph5g-sr3v - Projected Population 2010-2040 - Summary
+ghq4-ydq4 - 2017-2018 School Zones
+92iy-9c3n - Storefronts Reported Vacant or Not
+4dx7-axux - Open Restaurants Inspections
+wg9x-4ke6 - 2019 - 2020 School Locations
+5ebm-myj7 - DOF: Summary of Neighborhood Sales by Neighborhood Citywide by Borough
+p6h4-mpyy - 2017 - 2018 School Locations
+4bew-e6kg - View of NYC Health + Hospitals patient care locations – 2011 (Map)
+d4iy-9uh7 - NYCHA Facilities and Service Centers
+7x5e-2fxh - Energy and Water Data Disclosure for Local Law 84 2022 (Data for Calendar Year 2021)
+yvxd-uipr - Board of Standards and Appeals (BSA) Applications Status
+5jat-czce - Topographical Bureau Maps
+ekax-ky3z - New York City Museums
+8vv7-7wx3 - NYCEM Emergency Notifications
+pqg4-dm6b - NYC Women's Resource Network Database
+ydkf-mpxb - Street Construction Inspections and Corrective Action Requests
+f64t-5yiv - Inmate Deaths
+ji82-xba5 - Facilities Database
+4kym-4xw5 - Colleges and Universities
+pwkr-dpni - ACRIS - Real Property References
+grnn-mvqe - New York City Work and Family Leave Survey (WFLS) 2014
+7crd-d9xh - 2016 DOE High School Directory
+da9u-wz3r - Metal Content of Consumer Products Tested by the NYC Health Department
+n6c5-95xh - LinkNYC Kiosk Status
+vdem-2i66 - 2016 NYC Open Data Plan: Future Releases
+iz2q-9x8d - DOB Cellular Antenna Filings
+s5zg-yzea - Building Footprints Historical Shape
+6y5g-5hkj - Waiting List for General Vendor Licenses
+w8eg-8ha6 - NYC Stormwater Flood Map - Extreme Flood with 2080 Sea Level Rise
+2nwg-uqyg - Emergency Department Visits and Admissions for Influenza-like Illness and/or Pneumonia
+y6fv-k6p7 - DCLA Programs Funding
+tjus-cn27 - Hotels Properties Citywide
+5p78-k3zm - Health Areas
+m2vu-mgzw - Digital City Map – Shapefile
+8qgy-ka3v - NYCDEP Recreation Area Maps
+66be-66yr - Water Consumption And Cost (2013 - Feb 2023)
+v2kq-qrx6 - Production studio map
+5vb5-y6cv - Walk-to-a-Park Service area
+n8p9-7jxp - 2013 Campaign Contributions
+vz8c-29aj - Borough Enrollment Offices
+y43c-5n92 - Watershed Water Quality Data
+hnxz-kkn5 - NYC Urban Tree Canopy Assessment Metrics 2010
+4jyz-6b7u - Forestry Planting Spaces
+mq6n-s45c - Energy Usage From DOE Buildings
+y3hw-z6bm - OATH Trials Division Case Status
+btm5-ppia - Traffic Volume Counts
+6smc-7mk6 - Center & Service Locations
+fi97-k4k6 - DOHMH Farmers Markets (Map)
+cqds-77ys - Property Valuation and Assessment data Tax Classes 2,3,4
+uex9-rfq8 - DEP's Citywide Parcel-Based Impervious Area GIS Study
+7n5j-865y - VZV_Speed Limits
+r7rr-2vqh - Motor Vehicle Collisions Summary Reports
+qt6m-xctn - Street Sign Work Orders
+d6m8-cwh9 - DSNY Litter Basket (Map)
+6v9u-ndjg - Building Complaint Disposition Codes
+4nft-bihw - Assessment Actions
+wcm8-aq5w - Energy and Water Data Disclosure for Local Law 84 2020 (Data for Calendar Year 2019)
+8vwk-6iz2 - DOHMH Farmers Markets
+w4v2-rv6b - Street Name Dictionary
+myn9-hwsy - Exemption Classification Codes
+gjm4-k24g - Self-Reported Drinking Water Tank Inspection Results
+dd6w-hnq9 - Citywide Mobility Survey - Main Survey 2017
+2j8u-wtju - Benefits and Programs API (Historical)
+fyf4-hrcu - Air Quality
+p7t3-5i9s - Parking Violations Issued - Fiscal Year 2020
+x3n4-h56k - Storefront Registration Statistics for Designated Class One
+bzxi-2tsw - Certification of No Harassment (CONH) Pilot Building List
+tv64-9x69 - Borough Boundaries (Water Areas Included)
+da76-p95d - Parking Meters- Citywide Rate Zones
+3qem-6v3v - Buildings by Borough and Community District
+vu7w-gbbe - NYCDEP Citywide Catch Basins
+pf5b-73bw - State Assembly Districts
+fju2-rdad - DOHMH HIV/AIDS Annual Report
+kvhd-5fmu - NYC Benefits Platform: Benefits and Programs Dataset
+n5xc-7jfa - NYC Fire Department Building Vacate List
+tn4g-ski5 - 1995 Street Tree Census
+e2f7-cs7i - Parking Lots
+ipc3-2nbm - Personal Income By AGI Range
+x9uq-u3qs - Pavement Edge
+33db-aeds - Citywide HRA- Administered Medicaid Enrollees
+622h-mkfu - NYC Parks Drinking Fountains Map
+kwk4-6u9e - 2017 NYC School Survey
+jwvp-gyiq - DOT Street Lights and Traffic Signals (311 Service Requests from 2010 to Present)
+dze7-citg - NYC Free Tax Prep Sites Map
+qk7d-gecv - 2005 - 2015 Graduation Outcomes
+2xh6-psuq - Capital Project Schedules and Budgets
+j7nh-487d - Primary Care Access and Planning - Health Insurance Enrollment (Map)
+b59s-jsgk - Latin Media Organization Map
+xp25-gxux - LinkNYC New Site Permit Applications
+wi3r-8uzb - DOHMH Community Mental Health Survey
+pvkv-25ck - Historical Medallion  Vehicles - Authorized
+qk6i-zcht - Crime Enforcement Activity
+xgwd-7vhd - Roadbed
+v475-8jcj - 2014 NYC Open Data Plan: Future Releases
+5gj9-2kzx - 2017 Green Taxi Trip Data
+v57i-gtxb - In-Service Alarm Box Locations
+j57c-rqtq - Municipal Separate Storm Sewer System (MS4) Data
+b937-zdky - Directory of Basketball Courts
+5ery-qagt - DOHMH School Cafeteria Inspections (2020-Present)
+hg3c-2jsy - Transportation Sites
+u6fv-5dqe - School Attendance Statistics
+veav-vj3r - Individual Census by Borough, Community District, and Facility Type
+y9b6-624z - Taxicab Partition Manufacturers and Installers
+bw8v-wzdr - Mandatory Inclusionary Housing (MIH)
+34hf-h2fw - DSNY - PlowNYC Data
+qdq3-9eqn - Hyperlocal Temperature Monitoring
+urvc-2kdr - DYCD Participant Neighborhood Development Area Breakdowns
+tc6u-8rnp - Directory of SNAP Centers
+d6zx-ckhd - NYPD Calls for Service (Historic)
+scjx-j6np - DOF: Property Charges Balance
+gqq2-hgxd - 2016-17 - 2020-21 School End-of-Year Attendance and Chronic Absenteeism Data
+kvfd-bves - Parking Violations Issued - Fiscal Year 2021
+u35m-9t32 - DCLA Cultural Organizations
+2qj2-cctx - Shoreline
+m64p-r9hk - Certified Asbestos Investigators
+dvaj-b7yx - Shelter Repair Scorecard
+smn3-rzf9 - Bicycle Counters
+9s68-zggy - Local Law 44 Disqualified List
+hyuz-tij8 - Demographics and profiles at the Neighborhood Tabulation Area (NTA) level
+adax-9mit - Speculation Watch List
+72wx-vdjr - NYCHA PSA (Police Service Areas)
+it56-eyq4 - Heating Gas Consumption And Cost (2010 -  Feb 2023)
+a6nj-cfbz - WiredNYC – All Buildings Data
+kfp4-dz4h - DOB NOW: Build Elevator Permit Applications
+b9km-gdpy - NYC Council Constituent Services
+thbt-gfu9 - Bicycle Parking Shelters
+d9z4-v86m - Waterfront Access Plans
+6teu-xtgp - Inmate Admissions
+29bw-z7pj - 2005 Street Tree Census
+46m8-77gv - Capital Budget
+k3e2-emsq - Inventory of New York City Greenhouse Gas Emissions - Citywide GHG Emissions Summary (2016)
+4j29-i5ry - Parks Zones
+dt2z-amuf - Financial Empowerment Centers
+3wfy-sn5g - 2005 - 2020 Quality Review Ratings
+kuk3-ypca - 2019-2020 School Zones (Elementary)
+w3c6-35wg - DYCD Participant Community District Breakdowns
+rdxc-q253 - Street Hail Livery (SHL) Taxi Initial Inspection Schedule
+ieyi-rqsn - Primary Residential Zoning by lot
+n4kn-dy2y - 2015 Green Taxi Trip Data
+rgyu-ii48 - DOF Property Abatement Detail
+i6bk-bwyv - Latin Cultural Organizations Map
+9b9u-8989 - NYC Business Acceleration Businesses Served and Jobs Created
+9cw8-7heb - .nyc Domain Registrations
+au6c-jqvf - LL87 Energy Audit Data
+9hyh-zkx9 - ACS Community Partners
+ikvd-dex8 - Curbs
+vihk-m25f - Weekday Traffic Updates
+4rix-z2af - TLC Authorized Behind The Wheel Provider (Historical)
+2xir-kwzz - DOHMH Beach Water Quality Data
+svyi-maaj - Minority and Women-Owned  Business Enterprise Statistics
+93d2-wh7s - Local Law 44 - Rent Affordability
+wzur-rhz9 - TLC Driver Education 24 Hour Course Providers
+qj2z-ibhs - NYC Open Data Release Tracker
+bquu-z2ht - NYC Service: Volunteer Opportunities (Historical)
+j7in-ctnu - DOF: Refund List - Real property Tax
+ucdy-byxd - Local Law 44 - Projects
+27x4-cbi6 - Pregnancy-Associated Mortality
+jhjm-vsp8 - FY03 – FY12 MMR Agency Performance Indicators
+uh7r-6nya - Fire Battalions
+j7gw-gcxi - Directory Of Awarded Construction Contracts
+xck4-5xd5 - 2018 Pre-K School Directory
+jjja-shxy - New York City Truck Routes
+388s-pnvc - Waterfront Access Map Data: Shapefile
+5kqf-fg3n - NYC Free Tax Prep Sites
+gc4z-q69i - Citywide Marketing Directory
+4k4u-823g - Water and Sewer Permits (Historic)
+2mhq-um7h - City Owned and Leased Property (COLP) – Shapefile
+fg5j-q5nk - Internet Master Plan: Adoption and Infrastructure Data by Neighborhood
+bkfu-528j - NYC Permitted Event Information - Historical
+6rrm-vxj9 - NYC Parks Monuments
+9ck6-2jew - DOF Condominium Comparable Rental Income in NYC
+uvw5-9znb - Council Members
+a3vc-fsgj - Universal Pre-K (UPK) School Locations
+ydbx-4ufw - 2017 – 2018 Anticipated Bilingual Education Programs
+ph7v-u5f3 - Vision Zero Base Report
+8znf-7b2c - DSNY Litter Basket Inventory
+8b6c-7uty - 2021 DOE High School Directory
+k8ah-28f4 - 2020-2021 SHSAT Admissions Test Offers By Sending School
+2k3g-r445 - Department of Consumer and Worker Protection (DCWP) Fines and Fees
+kwvk-z7i9 - 2017 - 2018 Schools NYPD Crime Data Report
+xnje-s6zf - Significant Noncompliance List
+pwhj-ikym - Primary Commercial Zoning by lot
+799n-b76v - Latin Cultural Organizations
+3wtp-43m9 - 2021 Students In Temporary Housing
+juyv-2jek - DOB NOW: Build Elevator Device Details
+hu6m-9cfi - Local Law 44 - Building
+f4tj-796d - NYPD Use of Force Incidents
+6625-xkgg - Untitled Visualization - Based on NYPD Motor Vehicle Collisions
+5vr7-5fki - NYPD Personnel Demographics
+xmmq-y7za - DOB NOW: Electrical Permit Details
+kyad-zm4j - 1995 Street Tree Census
+rvih-nhyn - Privately Owned Public Spaces (POPS)
+pckb-8r2z - Open Space (Other)
+u5j4-zxpn - NYC 3D Model by Community District
+nvgj-hbht - Bureau of Fire Prevention - Building Summary
+5fzm-kpwv - Modified Zip Code Tabulation Areas (MODZCTA) Map
+kwte-dppd - Daily Tasks Park Cleaning Records
+m3fi-rt3k - New York City Council Discretionary Funding (2009-2013)
+qpsp-bm9z - Property Valuation and Assessment data Tax Class
+jye8-w4d7 - Borough/Community District Report - SNAP Population
+i447-i5u3 - Directory Of New York City Police Pension Fund Contact Numbers
+wymh-dvmd - DOHMH Call Center Summary
+sbnd-xujn - Handyman Work Order (HWO) Charges
+gzfs-3h4m - Agency Spending by Budget Function
+5e9h-x6ak - DHS Data Dashboard
+8ek7-jxw6 - EquityNYC Data (Previously Social Indicator Report Data)
+tnry-kwh5 - Children Under 6 yrs with Elevated Blood Lead Levels (BLL)
+iwdd-99mu - Construction Pipeline (Historical)
+ikqj-pyhc - DOF: Condominium comparable rental income – Manhattan - FY 2010/2011
+s7zi-dgdx - Parking Meters- ParkNYC Blockfaces
+ay9k-vznm - Workforce1 Job Listing
+f6an-2v46 - Moving Violation Summons Statistics
+94ri-3ium - Inmate Discharges
+6an6-9htp - Projected Sea Level Rise
+kjk4-7tzy - 2040 Population Projection Tables
+w7fs-fd9i - 2018 Green Taxi Trip Data
+in83-58q5 - Local Law 84 2021 (Monthly Data for Calendar Year 2020)
+x2s6-6d2j - DEP - Cryptosporidium And Giardia Data Set
+q2ni-ztsb - New York City Council Discretionary Funding (2013)
+2rr4-rfvc - 2018-2019 Quality Review School List
+fgq8-am2v - Courses/Training Provider Listing
+98b7-th5j - Licensed Wholesale Cigarette Dealers
+u9cc-g2u4 - Call Center Data
+7mxj-7a6y - Parking Violations Issued - Fiscal Year 2022
+9ay9-xkek - Local Law 44 - Unit Income Rent
+8ius-dhrr - 2010 Census Tract to Neighborhood Tabulation Area Equivalency table
+ugzk-a6x4 - Revenue Budget & Financial Plan -- Exec\Adpt\Prel
+7r5q-vr7p - NYC Stormwater Flood Map - Moderate Flood with Current Sea Levels
+hgue-hj96 - Wastewater Treatment Plant Performance Data
+hebw-6hze - DYCD Participant Demographics by Zip Code
+mzjp-98aw - E Designations: shapefile
+n7gv-k5yt - Capital Projects
+79z8-9mcf - MINY Vendors
+72ss-25qh - HIV Testing Locations
+p2wf-m8zt - Tobacco Retail Dealer and Electronic Cigarette Retail Dealer Caps by Community District
+mm69-vrje - Zoning GIS Data: Geodatabase
+mpqk-skis - Community Food Connection (CFC)
+37fm-7uaa - NYCHA Customer Contact Centers
+ubdi-jgw2 - DCAS Managed Building Energy Usage
+gx7x-82rk - 2010 Census Tracts (water areas included)
+unw7-yyit - 2015 NYC Open Data Plan: Removed Datasets
+qgc5-ecnb - DOHMH MenuStat (Historical)
+423i-ukqr - Local Law 18 Pay and Demographics Report - Agency Report Table
+krwf-eng6 - SCA Disqualified Firms
+gkne-dk5s - 2014 Yellow Taxi Trip Data
+6khm-nrue - DYCD Participant Demographics by Borough
+97pn-acdf - Projected Population 2010-2040 - Total By Age Groups
+59gn-q4ai - Directory of Playgrounds
+hpid-63r5 - NYC Municipal Building Energy Benchmarking Results (2014)
+5rzh-cyqd - NYC Stormwater Flood Map - Moderate Flood with 2050 Sea Level Rise
+an6v-iuem - NYCHA Resident Jobs Programs and Training
+gi7d-8gt5 - Scenic Landmarks
+7rnv-m532 - 2013 Yellow Taxi Trip Data
+thut-5mdg - COVID-19 Expenditures Report
+2np7-5jsg - 2014 Green Taxi Trip Data
+6fi9-q3ta - Brooklyn Bridge Automated Pedestrian Counts Demonstration Project
+if26-z6xq - Food Scrap Drop-Off Locations in NYC
+ipbu-mtcs - Directory of Dog Runs and Off-Leash Areas
+fudw-fgrp - NYC Parks Events Listing – Event Listing
+63nx-cpi9 - Civilian Complaint Review Board (CCRB) - Complaints Received
+ii3r-svjz - Bureau of Fire Investigations - Fire Causes
+w83z-2kf9 - Inclusionary Housing Designated Areas
+avz8-mqzz - 2017 For Hire Vehicle Trip Data
+rnjn-x48k - Abuse/Neglect by Community District (CD)
+k3ks-jzek - DSNY Waste Characterization: Mainsort
+rqhp-hivt - Scorecard Ratings
+ffnc-f3aa - 2009 - 2010 School Progress Reports - All Schools
+7btz-mnc8 - NYC REACH Members
+9nt8-h7nd - 2020 Neighborhood Tabulation Areas (NTAs) - Tabular
+xx2p-4jnq - DCAS Managed Public Buildings
+99br-frp6 - DYCD after-school programs: Jobs and Internships
+abgy-h8ag - High School Graduation Rates in Foster Care
+4xfb-z29j - Citywide Mobility Survey - Survey Zones
+2bsr-c6qq - Universal Solicitation for Broadband Asset Dataset
+h4i2-acfi - State Senate Districts
+g9ub-hrve - Active Projects - Public Buildings (Historical)
+yrt9-58g8 - 2020 High Volume FHV Trip Records
+ne9z-skhf - New York Public Library (NYPL) Branch Services from 7-2010 to 6-2011
+gysc-yn4h - NYC City Hall Library Catalog
+63us-eqtq - NYC Open Data: Public Dataset Requests
+dxnu-p2qd - HIV/AIDS Diagnoses by Neighborhood, Age Group, and Race/Ethnicity
+qiwj-eg47 - Intimate Partner Violence Related Snapshots: New York City Community Board Districts
+gyrw-gvqc - Social Distancing: Parks Crowds Data
+4kpn-sezh - NYC Condom Availability Program - HIV condom distribution locations
+8b9a-pywy - Enrollment Capacity And Utilization Reports - Target by Organization
+qfs9-xn8t - NYCDCP Manhattan Bike Counts - On Street Weekday
+cts7-vksw - NYCgov Poverty Measure Data (2018)
+hrii-hezj - Botanical Gardens
+na5f-2vg7 - In-Service Alarm Box Locations (Map)
+qsuf-mgjh - Sidewalk Café Regulations GIS: Shapefile
+avhb-5jhc - Cooking Gas Consumption And Cost (2010 - Feb 2023)
+b9ze-z4u4 - Citywide Outfalls
+kxg8-856s - Primary Manufacturing Zoning by lot
+ts56-fkf5 - Individual Landmark Sites
+7f9e-jic4 - VZV_Speed Humps
+hn5i-inap - Forestry Tree Points
+w3wp-dpdi - NYC Parks Public Events – Upcoming 14 Days
+bhwu-wuzu - Heating Oil Consumption And Cost (2010 - Feb 2022)
+yann-8etk - ARCHIVE - Athletic Facilities
+h9sf-7bej - Transportation Structures
+mqt5-ctec - VZV_Leading Pedestrian Interval Signals
+szkz-syh6 - Prequalified Firms
+5yay-3jd5 - DOF: Summary of Neighborhood Sales for Manhattan for Class 1-, 2- and 3-Family homes - 2009
+xfhz-rhsk - Airport Polygon
+4u36-44pe - OACE (Office of Adult and Continuing Education) Sites
+usep-8jbt - NYC Citywide Rolling Calendar Sales
+ej9h-v6g2 - 2018 Central Park Squirrel Census - Hectare Data
+tdt4-7qzu - LinkNYC New-Site Permit Applications - Map
+32yu-maz2 - NYC Health + Hospitals Options - income eligibility - 2011
+ircm-rcjd - Environmental Justice Area Census Tract Designation (Map)
+36hn-wea6 - DYCD after-school programs: OSY Out Of School Youth Employment Programs
+vsgi-eeb5 - 2017-2018 SHSAT Admissions Test Offers By Sending School
+cpcf-tcxs - Transit Zones
+x2hp-8ukt - 2005 - 2011 Graduation Outcomes - Borough - Ethnicity
+3mrr-8h5c - 2006 - 2012  Math Test Results  - All Students
+9k82-ys7w - Bid Tabulations (Historical)
+ur7y-ziyb - Associated Address by Borough and Community District
+cr93-x2xf - iZone School List
+vjbm-hsyr - Parks Trails
+i3na-cf9d - Protected Streets Map - Block (Map)
+6umk-irkx - Housing Database
+csps-2ne9 - 2014-15 To 2016-17 School- Level NYC Regents Report For All Variables
+3nja-bsch - NYPL Branch Services - Manhattan
+478a-yykk - Street Closures due to construction activities by Intersection
+smdw-73pj - Steam Consumption And Cost (2010 -  Feb 2023)
+ty8z-v9d2 - DYCD Literacy Programs Map
+quxm-hmyr - LinkNYC Kiosk Status (Historical)
+6phq-6kwz - 2009 Yellow Taxi Trip Data
+vmdx-uykr - 2021 -2022 Guidance Counselor
+by9k-vhck - Tree Canopy Change (2010 - 2017)
+cuzb-dmcd - Citywide Public Computer Centers (FY2019)
+ck4n-5h6x - Landmarks Complaints
+r3dx-pew9 - Neighborhood Financial Health Digital Mapping and Data Tool
+p4u2-3jgx - Sidewalk Dismissal Inspection Tracking
+2t2c-qih9 - Full-Time And Full-Time Equivalent Staffing Levels
+qpm9-j523 - Directory Of Business Improvement Districts
+ycrg-ses3 - Bus Lanes - Local Streets
+uvks-tn5n - DYCD  after-school programs: Out Of School Time
+5hjv-bjbv - New York City Seasonally Adjusted Employment
+p78i-pat6 - GreenThumb Garden Info
+sp4a-vevi - COVID-19 Free Meals Locations
+7xq6-k6zy - Appeals Filed In 2017
+qxbt-vysj - 2020-21 SMH Service Coverage
+gfqj-f768 - 2018 Central Park Squirrel Census - Stories
+dvzp-h4k9 - DOF: Condominium Comparable Rental Income – Manhattan – FY 2011/2012
+gfej-by6h - Primary Care Access and Planning - Health Insurance Enrollment
+6bqn-qdwq - Citywide Mobility Survey - Person Survey 2019
+d5zb-ragj - NYC.gov Web Analytics
+vwpc-kje2 - 311 Web Content - Services
+3w89-mz4u - 2017-2018 Class Size Report Borough K-8 Average Class Size
+sqcr-6mww - 311 Service Requests for 2004
+emrz-5p35 - Invoices for Open Market Order (OMO) Charges
+kmt4-jkta - Imagery and Map Services
+355w-xvp2 - DOB Sustainability Compliance Map: Local Law 33
+upii-frjc - BIC Issued Violations
+3m2q-9maw - Child Welfare Indicators -Annual and quarterly report indicators
+bdjm-n7q4 - Forestry Work Orders
+yizy-365y - NYCHA Applicant Income Limits
+rqgf-94xs - Pregnancy Risk Assessment Monitoring System (PRAMS)
+tqkr-fgym - SHL Vehicles - TLC Licensed Bases with SHL Endorsement
+wyih-3nzf - Protected Streets Map - Block (Dataset)
+w5ea-ydu3 - DOF: Refund List - Real Property Tax
+fuzi-5ks9 - ACRIS - Personal Property Remarks
+ajyu-7sgg - Sea Level Rise Maps (2020s 500-year Floodplain)
+xmzf-uf2w - BPL Branches
+cp6j-7bjj - Fee Charges
+28rh-vpvr - Vehicles
+pc34-d3sx - Safe Routes to Schools - Priority Schools
+mpk5-48av - Citywide Mobility Survey - Trip Diary 2017
+3955-c36a - NYC Health + Hospitals/Options - fees - 2011
+i8f4-bu5r - Directory of Hiking Trails
+e4ej-j6hn - Directory of Accessible Parks Facilities and Programs
+q9kp-jvxv - ACRIS - UCC Collateral Codes
+i8d5-5ciu - Municipal Parking Facilities (Manhattan)
+gpny-cuvw - 911 Open Data Local Law 119
+am94-epxh - 2018 For Hire Vehicles Trip Data
+wshr-5vic - Electronics Drop Off Locations in NYC
+xuek-2su9 - 2016 Orthoimagery Manhattan
+w8dz-xpjh - Referral Centers For High School Alternatives
+i6mn-amj2 - DSNY Districts
+k5us-nav4 - Free Residential at-the-tap Lead and Copper Data
+9z9b-6hvk - Latin Media Organizations
+kevu-8hby - Property Valuation and Assessment data Tax Classes 2,3,4
+y52e-hp89 - Small Business Administration (SBA) Size Standards Table
+3279-pp7v - OER Cleanup Sites
+8sdw-8vja - Asset Management Parks System (AMPS) - Work Orders
+q5x3-7piv - DYCD after-school-programs: SYEP Summer Youth Employment Programs
+2cmn-uidm - Capital Commitment Plan
+zyf6-z3xt - Directory of Beaches
+8nac-uner - NYC Parks Dog Runs
+au2v-djg4 - NYC Health + Hospitals WTC 9/11 Health Center – common disorders – 2011
+fgqh-vfzz - Routes by Transportation Sites
+zhrf-jnt6 - Directory of Temporary Public Art
+w9dc-u4ik - Citywide Mobility Survey - Trip Survey 2019
+kfum-nzw3 - Newsstands
+483x-fy9e - Directory Of Unsheltered Street Homeless To General Population Ratio 2012
+45j8-f6um - 2018-2019 School Demographic Snapshot
+ysjj-vb9j - 2000 Census Tracts
+6yag-pnij - DSNY Other Organics Collection Tonnages
+8isn-pgv3 - NYC Clean Heat Dataset (Historical)
+pdiy-9ae5 - Bureau of Fire Prevention - Certificates of Fitness
+dqkt-8x6u - 2011-2012 School Zones
+c9sj-fmsg - Street Construction Permits (2013-2021)
+weqx-t5xr - 2020 Census Tracts - Mapped
+vvdx-b56i - Community Parks Initiative Zone Boundaries
+4p5c-cbgn - 2019 High Volume FHV Trip Records
+djnb-wcxt - 2021 Green Taxi Trip Data
+2xab-argn - Payments Received for DCWP Fines and Fees
+p39r-nm7f - Enforcement Fines
+ujsc-un6m - DYCD after-school programs: Runaway And Homeless Youth
+5unr-w4sc - Census Demographics at the NYC Community District (CD) level
+yig9-9zum - 2010 - 2011 School Progress Reports - All Schools
+4hft-v355 - 2020 Neighborhood Tabulation Areas (NTAs) - Mapped
+sknu-4f6s - Landcover Raster Data (2010) – 6in Resolution
+pp5b-95kq - 2013-2014 School Zones
+7fuk-i2af - ARCHIVE - Greenstreets
+5ps9-yuef - DOF: Summary of Neighborhood Sales Citywide for Class 1-, 2- and 3-Family homes - 2009
+eddp-3v5g - Aggregate Employee Statistics
+qnuk-aubm - NYC Open Data Plan - Datasets Added  Since The Publication NYC Open Data Plan ( September 2013)
+2yzn-sicd - Yellow Tripdata 2015
+yini-w76t - 2016 For Hire Vehicle Trip Data
+7u63-ib3x - 2017 - 2018  Current Year Monthly Attendance
+75e9-fg2t - DYCD Contractors
+ghpb-fpea - 2013 Green Taxi Trip Data
+6anw-twe4 - Local Law 44 - Development Team
+4fnu-iufz - FY2013 PMMR Agency Performance Indicators
+tsak-vtv3 - Upcoming contracts to be awarded (CIP)
+ii5c-g6sq - VZV_Bike Priority Areas
+5uei-swth - Bike Share Inspections
+825b-niea - 2006 - 2011 NYS Math Test Results by Grade - Citywide - by Race-Ethnicity
+72r6-mtgs - 2019 Volunteers Count Report - Neighborhoods
+8cwr-7pqn - Demographic Profiles of ACS 5 Year Estimates at the Neighborhood Tabulation Area (NTA) level
+hkpx-aaxc - Fire Divisions
+x9wy-ing4 - Street Pothole Work Orders - Closed (Dataset)
+r528-jcks - Sidewalk Weekly Construction Schedule
+xiyt-f6tz - NYCDCP Manhattan Bike Count Locations
+bnea-fu3k - 2014-15 to 2017-19 NYC Regents Exam Results - Public
+mqdy-gu73 - City Store - The Official Store of the City of New York
+rpeq-j89e - License Revocations, Suspensions, Surrenders, and Reinstatements
+sx92-yn4a - DSNY Waste Characterization: Comparison Table
+knr6-vurn - Collisions involving vehicles managed by Department of Health and Mental Hygiene (DOHMH)
+6v4b-5gp4 - Parks Special Events
+utnf-u4xf - WalkNYC Base Map Data 2017
+bzjf-rmtp - Current RFP
+tap2-dwrw - Mayor’s Office of Operations: Demographic Survey
+k5d2-tkrr - Learning Preference City Remote Learning - as of Jan 4, 2021
+ayeb-p4mv - TLC Authorized Wheelchair Passenger Assistance Training Providers
+d7n3-sf2d - PATH Line
+q5mz-t52e - 2019 Green Taxi Trip Data
+aht6-vxai - Open Article 7 Petitions
+krz2-j7bn - Parks Properties Map
+x9i6-ckbm - ECS Conduit Data
+66u4-mf33 - Community Data Asset: BetaNYC BoardStat Brooklyn
+gs56-euca - Broadway Events Calendar
+mu46-p9is - Forestry Service Requests
+vnwz-ihnf - Sustainability Indicators (2012)
+hxm3-23vy - E-Designations: CSV file
+vn4m-mk4t - Register of Community Board Budget Requests
+9n6h-pt9g - Speed Reducer Tracking System (SRTS)
+3aim-ipk8 - Empire Zones
+nfid-uabd - Parking Regulation Locations and Signs
+chv4-k4fa - DYCD after-school programs: Neighborhood Development Area (NDA) Family Support
+myei-c3fa - DOF: Cooperative Comparable Rental Income (Citywide)
+5c9e-33xj - ACRIS - State Codes
+ae5u-upr6 - Vehicle Classification Counts (2012-2013)
+yqz9-aduk - Summer Youth Employment Programs (SYEP)  Map
+82zj-84is - Forestry Planting Spaces
+6gvx-hydd - Landfills
+3ub5-4ph8 - NYCHA Residential Addresses
+uzcy-9puk - 311 Service Requests for 2008
+9ct9-prf9 - 2012  AP Results
+f6s7-vytj - 2021 DOE Middle School Directory
+56u9-ryj4 - DYCD after-school programs: ISY In-School Youth Employment Programs
+8ev8-jjxq - DSNY Planned Commercial Waste Zones
+2pmt-skyq - Steam Consumption by ZIP Code - 2010
+rear-wh5i - 2016 - 2017 School Safety Report
+bvug-v3mm - Clergy Parking Permits
+i3a3-qxkf - Election District Poll Sites
+gbgg-xjuf - NYCHA ACCESSolar Opportunities
+qiwj-i2jk - Capital Project Tracker
+x98t-3bbk - DOHMH COVID-19 Antibody-by-Borough
+sci4-yqgk - Daily Report Of Single Adult And Family Intake
+gpxw-bq7a - Post Office
+7ewi-9cdf - City Marshals Revenue
+gezn-7mgk - CEQR Projects
+t5n6-gx8c - NYC Ferry Ridership
+3wxk-qa8q - Compliance at-the-tap Lead and Copper Data
+u553-m549 - DOE High School Directory 2013-2014
+r9ca-6t4q - Historic Land Use Data
+w76s-c5u4 - Traffic Signal and All-Way Stop Study Requests
+e649-r223 - Statistical Forecasting Demographic Projection Report - Enrollment Projections - New York City Public Schools
+s2d8-h5fg - DYCD YAIP (Young Adult Internship Programs)
+j8nm-zs7q - Criminal Court Summonses
+pkmi-4kfn - 2020 Green Taxi Trip Data
+m8p6-tp4b - Property Valuation and Assessment Data Tax Class 1
+26je-vkp6 - 2020-2021 School Quality Reports - High School
+pv8j-5ywy - Map of NYCHA Community Facilities
+ju3b-rwpy - 2015 Street Tree Census - Blockface Data
+ncre-qhxs - Designated and Calendared Buildings and Sites
+n84m-kx4j - Licensees and Registrants Fleet Information
+cs9t-e3x8 - 311 Service Level Agreements
+a4qt-mpr5 - Parks Closure Status Due to COVID-19: Playgrounds
+57p3-pdcj - NYPD B Summons (Year to Date)
+dgg9-jkx8 - NYC Health + Hospitals WTC 9/11 Health Center - patient categories – 2011
+6xgr-kwjq - Civilian Complaint Review Board: Allegations Against Police Officers
+9wzr-uhik - Electronics Drop Off Locations in NYC (Map)
+rx8t-6euq - Bus Lanes - Local Streets (Map)
+vmmu-wj3w - 2020-2021 Demographic Snapshot School
+mzpm-a6vd - Community Districts (Water Areas Included)
+txxa-5nhg - DOITT CLASSICAL MUSIC
+unse-x4pq - 2022 SHSAT + DISCOVERY OVERALL SUMMARY
+cm6g-t7ye - Inclusionary Housing Properties
+k2zg-756q - 2019 NYC School Survey - Student
+nb39-jx2v - 2016-2017 Graduation Outcomes School
+gzdv-qiga - Completed Percent for Art projects with artist information
+k5k6-6jex - NYC DOT Pedestrian Plazas
+6r4h-c2y6 - Sustainability Indicators (2012)
+qmh3-uvgq - DOF Scofftow Case Information
+yg3y-7juh - Parks Inspection Program – Inspections
+uqxv-h2se - 2019 DOE Middle School Directory
+psx2-aqx3 - Voter Analysis 2008-2018
+u9au-h79y - Step Streets Locations
+jqy3-ybjq - DYCD Participant Council district breakdown
+rfpq-hs49 - 2009 - 2010 School Attendance And Enrollment By District
+gsj6-6rwm - Agency Performance Mapping Indicators – Annual (Historical Data)
+39g5-gbp3 - Expense Budget Funding - All Source
+fwpa-qxaf - Pedestrian Mobility Plan Pedestrian Demand
+4fvw-nn9c - Work Order Management Module
+ibs4-k445 - Medicaid Offices
+rn6p-xvjd - Inspections of Municipal Solid Waste Disposal Locations (No Longer Maintained)
+j46y-iqiq - NYC Mobile Services Study
+tncb-agv4 - 2015-2016 Demographic Data - Diversity Efforts
+tavr-zknk - DSNY Salt Usage
+vr8g-vfny - MillionTreesNYC Block Planting Locations
+pjgc-h7uv - Case-Related Information About Civil Litigation
+yggg-xf4b - 2010 Local Film Festivals
+wa2y-rh4b - Capital Project Detail Data - Dollars
+tiyn-ajjm - DSNY Organics Collection Participation
+a5nd-6mit - DOF Property Assessment Change
+cwy2-px8b - Local Law 8 of 2020 – Complaints of Illegal Parking of Vehicles Operated on Behalf of the City
+6yzk-rwz2 - Internet Master Plan: Broadband Adoption & Demographic Citywide
+2cd9-59fr - 2015 Street Tree Census - Blockface Data
+whux-iuiu - Oil Usage For Select City Owned Buildings (Historical)
+wavz-fkw8 - DOE Building Space Usage
+9hxz-c2kj - DOHMH School Cafeteria inspections
+5v6p-rtfu - NYC Parks Water Features
+su38-ur5m - 2021 - 2022 Community Schools List
+fzh2-sxib - Children Tested for Lead by Age 3
+bme5-7ty4 - NYPD B Summons (Historic)
+jr6k-xwua - 2011 Yellow Taxi Trip Data
+h682-ywyg - DYCD RHY (Runaway and Homeless Youth) Services
+gkgs-za6m - DSNY DonateNYC Directory
+xc44-2jrh - 2018-2021 Daily Attendance by School
+bymk-vktx - Street Network Changes (Historical)
+b55q-34ps - Health Center Districts
+34zf-iv73 - Local Law 44 - Wage Information
+wffy-3iyg - Percent Live Births by Infant Sex and Mother’s Race/Ethnicity
+nie4-bv6q - 2019-20 Demographic Snapshot - School
+hi8h-gudb - 2021 Public Data File - Teacher
+vzuc-vmd8 - 2020-2021 Student Discipline Annual Report - All
+avcv-kcyf - Topographical Bureau Maps - Final Sections
+42et-jh9v - 2013 - 2014 DOE High School Performance-Directory
+2eq2-trdu - Directory Of Competitive Bid
+hy4q-igkk - 311 Service Requests for 2006
+jvk9-k4re - Street and Highway Capital Reconstruction Projects - Block
+h2bn-gu9k - Cool It! NYC 2020 - Cooling Sites
+mxbm-493w - Georeferenced NYC Zoning Maps
+e266-vpg7 - Directory Of New York City Police Pension Fund Financial Reports
+n8q6-i44s - NYC Parks Structures
+m4mp-ji5y - Public Plazas
+63ge-mke6 - 2020 Census Tracts - Tabular
+xxbr-ypig - DOB NOW: Build – Limited Alteration Applications
+jafx-rvrb - Inclusionary Housing Projects
+w49t-5gha - MBPO Broadway Storefront Vacancy Survey 2020
+bheb-sjfi - Sidewalk Correspondences
+q5u8-89nv - DARP-ROTOW Enrollment Status of Active Tow Truck Companies
+8eux-rfe8 - Blood pressure checks on NYC HealthMap
+3kfa-rvez - NYC Pool Inspections
+de8q-estm - Business Solutions Business Courses
+urxm-vzzk - ARCHIVE - Schoolyards To Playgrounds
+4t62-jm4m - Energy and Water Data Disclosure for Local Law 84 2018 (Data for Calendar Year 2017)
+kuxa-tauh - City Bench Locations (Historical)
+sgsi-66kk - 2016-17 - 2020-21 Citywide End-of-Year Attendance and Chronic Absenteeism Data
+aiww-p3af - 311 Service Requests for 2007
+uqhg-h4at - DSNY District (Map)
+2nj7-jxah - VZV_Priority Intersections
+q5xz-reje - Student COVID Vaccinations (3-24-2022)
+ux7j-iww6 - 2016-2017 School Zones
+kyvb-rbwd - Encroachments and Defacements
+did2-qzw3 - CEQR Project Locations
+zmut-au2w - DYCD after-school programs: Immigrant Services
+ven4-h25u - 2014 - 2015 School Budget Overview
+sxmw-f24h - 311 Service Requests for 2005
+hxws-3mbm - 2018 Orthoimagery Manhattan
+8fei-z6rz - Weights, Measures, and Other Tests
+hrsu-3w2q - Statistical Summary Period Attendance Reporting (PAR)
+3nxf-gbay - Day Care Center
+4tqt-y424 - Drivers and Attendants
+v5w4-adxa - Where Are the Unbanked and Underbanked in New York City
+qirg-qbv8 - 2010 School Survey
+fn4k-qyk2 - City Owned and Leased Property (COLP) – Table
+kyz5-72x5 - Housing Database by 2020 NTA
+kjgh-ywbx - PreK Riders by Transportation Site
+b4mf-rg6h - Commissioner's Correspondence
+yv6j-r66f - DSNY - Solid Waste Management Freshkills documents
+gcvr-n8qw - 2013 - 2015 New York State Mathematics Exam by School
+vrfr-9k4d - 2014-2015 School Quality Reports Results For High Schools
+4pt5-3vv4 - Forestry Inspections
+g3xg-qtbc - Parks Closure Status Due to COVID-19: Athletic Facilities
+x57r-az25 - Directory of Indoor Swimming Pools
+a35y-93e7 - Family Violence Related Snapshots: New York City Community Board Districts
+2jg5-6hqv - 2019 - 2020 School Year Local Law 226 Report for the Demographics of School Staff - Ethnicity
+7b32-6xny - LinkNYC Locations Shapefile
+gx5n-2nma - Adolescents in Foster Care (permanency outcomes)
+fmf3-knd8 - City Clerk eLobbyist Data
+ye4j-rp7z - 2005 Street Tree Census
+y4yc-78a4 - NYC Health + Hospitals WTC 9/11 Health Center - patient population – 2011
+k8hv-56d7 - 2009 - 2010 Graduation Outcomes - Regents-based Math- ELA APM - School Level
+pbi9-jd5i - NYC Street Tree Map - Favorite Trees
+kjtf-e6kp - Skateparks
+mvib-nh9w - Parking Meters Locations and Status (Map)
+rv63-53db - DSNY Frequencies
+u4g8-wkku - 2015 - 2018 Demographic Snapshot Pre- K For All
+gakf-suji - Inmate Incidents - Slashing and Stabbing
+djze-f4qi - Atomic Polygons
+fd5y-xikb - 2012 Yellow Taxi Trip Data
+gsgx-6efw - Street Construction Permits - Stipulations
+a7bv-5698 - DSNY Planned Commercial Waste Zones (Map)
+x4ud-jhxu - Tourism Grants
+a444-au9b - 2021 For Hire Vehicles Trip Data
+72mk-a8z7 - Doing Business Search - Entities
+3gkd-ddzn - Community Board Leadership
+4dxw-kr73 - 2020-2021 School Quality Reports - Elementary Middle School
+ry9a-ubra - 2010 Yellow Taxi Trip Data
+4tys-3tzj - Energy and Water Data Disclosure for Local Law 84 2019 (Data for Calendar Year 2018)
+7s3q-rztu - DOF: Summary of Neighborhood Sales in Manhattan for Class 1-, 2- and 3-Family homes - 2008
+qm5f-frjb - Participatory Budgeting Project Tracker
+dbmp-698d - Schoolyard to Playgrounds
+m3yx-mvk4 - 2020 For Hire Vehicles Trip Data
+6yyb-pb25 - Street Pavement Rating
+xg3x-h3g7 - Foster Care Placements by Community District (CD)
+4hcv-tc5r - Capital Project Tracker
+f5mc-f3zp - DOC Hart Island Burial Records
+qtrj-g3nm - Cash Assistance Recipients in NYC
+pkdm-hqz6 - DOB NOW: Certificate of Occupancy
+frre-6z6q - Low Income Housing Tax Credits Awarded by HPD: Project-Level (9% Awards)
+njuk-taxk - Local Law 84 2019 (Monthly Data for Calendar Year 2018)
+cj3v-xdpd - Street Construction Permits - Related Agency
+4ptz-hmtc - Annual Examination Schedule of Each Fiscal Year
+tyjc-nqc2 - 2016 NYC Open Data Plan: Future Releases
+p3e6-t4zv - Office of The Comptroller: NYC Employee Retirement System (NYCERS) Holdings Data
+itd7-gx3g - Risk Based Inspections (RBIS)
+yu9n-iqyk - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - School level - All Students
+ymvu-4x4s - .nyc Domain Registrations by Zip Code
+upwt-zvh3 - 2010 - 2011 School Progress Report
+7fnf-kyf4 - DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2005
+ak2e-nbe8 - DSNY Zones
+9ixa-eggw - Recording Studios
+79sh-heg3 - VZV_Street Improvement Projects (SIPs) intersections
+32cj-z7va - Department for the Aging (NYC Aging) - Social Adult Day Care Services
+4n6u-rqyh - 2019-20 Demographic Data In NYC Public Schools Suppressed - Pre-K, K-8 & 9-12 Grades
+uh2s-ftgh - Raised Crosswalk Locations
+qvir-knu3 - 2016 DOE High School Performance  Directory
+hn6c-5qkb - Private Ferry Monthly Passenger Counts
+yphg-6fug - 2020-21 Guidance Counselor/Social Worker Data - Demographic, Post Secondary
+q49j-2bun - WalkNYC Sign Locations
+fuvx-wqd7 - 2011-2012 NYC Family Guides
+vuae-w6cg - FY2014 PMMR Agency Performance Indicators
+wed3-5i35 - 2012 - 2017 Historical Monthly Grade Level Attendance By School
+aqqw-n6ec - NYCgov Poverty Measure Data (2014)
+eivx-q94q - 2016 NYC Open Data Plan: Removed Datasets
+2z24-2htf - Office of Labor Policy & Standards Workplace Inquiries
+buk3-3qpr - Parks Inspection Program – All Sites (MAPPED)
+rn6h-i66u - Citywide Low Bridges
+kcey-vehy - Citywide Mobility Survey - Trip Diary 2018
+k65y-fzgq - 2019 DOE Gifted and Talented Admissions Guide
+3vjv-6tf5 - Pools
+56u5-n9sa - DCAS Managed Building Fuel Usage (Historical)
+fx4z-5xg2 - Civilian Complaint Review Board (CCRB) - Complaints Closed
+ndq3-kuef - DOB Disciplinary Actions
+bpt7-i8t8 - Zoning Map Index: Section
+dpm2-m9mq - LPC Permit Application Information
+wjvv-6yxq - HASA Facts
+t4s6-khpm - Special Traffic Updates
+uzgy-xh4j - Automatic Public Toilets
+u6nh-b56h - 2019 For Hire Vehicles Trip Data
+jvwx-xnsr - Outdoor Swimming Pool Attendance
+wycc-5aqt - Landmarks Violations
+5dic-xnxs - Railroad Structure
+uyiw-98i7 - HHS Accelerator Prequalified Providers
+iiv7-jaj9 - Fire Companies
+2wuc-x56b - Local Law 33 - Security Indicators Report
+emex-8upu - Street Pothole Work Orders - Closed (Map)
+m6ap-zcwi - Overhead Electronic Signs (Map)
+bvna-6j7v - Production office space
+cpcm-i88g - NYC Parks Events Listing – Event Locations
+29nk-6u2k - NYC Public School Indicators
+scjj-6yaf - Bikes in Buildings Requests
+hyur-qpyf - Ready NY Events
+paab-n3s5 - DOF: Open Balance Summary (Replaced by Property Charges Summary)
+7hgn-sgmk - DCLA Cultural Organizations Capital Funding
+nk7g-qeep - DOHMH Health Map - Hepatitis
+b2m2-7ih3 - NYC Department of Design and Construction (DDC): Open and Closed Requests for Proposals
+nbun-wekj - Energy and Water Data Disclosure for Local Law 84 2015 (Data for Calendar Year 2014)
+irs3-wn2g - Vendor List by Commodity
+xphm-ebrs - 2000 Census Blocks
+phkb-tkts - DSNY Waste Characterization: Citywide Subsort
+8kic-uvpz - MBPO Pedestrian Ramp Report
+mshx-yvwq - 2014-2015 School Zones
+uu87-uz8m - Intimate Partner Homicide Suicide in New York City (2010-2018)
+j9q2-y739 - Open Data Coordinators (ODCs)
+hvwa-bi3h - 2019 Public Data File - Teachers
+9ix2-uc5v - DSNY Zones (Map)
+yv25-wqf9 - Social Distancing and Enforcement: Parks Patrol Data
+ufzp-rrqu - Pedestrian Ramp Locations
+kjxa-7ccf - SCOUT (Street Condition Observation Unit)
+b9yk-4pzk - Action Taken Against Process Servers
+ab4a-qhzt - Parks Zones Map
+p48c-iqtu - NYC Wetlands
+c292-vzrn - Office of Labor Policy & Standards Enforcement Matters
+wapz-jfhq - DCWP Language Line Interpretation Services
+fc53-9hrv - NYC EV Fleet Station Network
+242c-ru4i - DSNY Special Waste Drop-off Sites
+buv4-at34 - COVID-19 Loan/Grant Report
+97nd-ff3i - Street and Highway Capital Reconstruction Projects - Intersection
+jpcp-ic7c - Citywide Mobility Survey - Main Survey 2018
+6eng-46dm - Staten Island Ferry Passenger Counts by Trip
+2t32-hbca - DYCD Participant Assembly District Breakdowns
+tbf6-u8ea - HRA Domestic Violence Partners
+w9cy-nnma - DYCD after-school programs: Reading And Writing Literacy Programs
+wip6-ytad - Mayor's Office to Combat Domestic Violence Annual Fact Sheet 2015-2016
+p2d7-vcsb - BIC Complaints Inquiries
+3mpc-kqwk - Citywide Mobility Survey - October 2020
+48pb-zy2g - Directory Of NYC Cable Providers
+q7bn-wnne - ENDGBV Social Media Outreach, Paid Advertising, and the NYC HOPE Resource Directory during COVID-19
+mn2p-34if - Real-World Fuel Efficiency
+gdx6-nrns - 2021 Public Data File -Student
+hcv3-zacv - Street Construction Permits - Cranes
+y5rm-wagw - NYC Parks Pools
+8vk5-fzts - 2020 - 2021 Diversity Report
+dies-sqgi - Directory of Tennis Courts
+wqhs-q6wd - VZV_Street Improvement Projects (SIPs) Corridor
+3w3r-v568 - JFK Airtrain
+9fnm-j6if - Street Construction Permits - Fee
+j7ww-5ipv - Swimming Pools
+xuij-x4t4 - 2019-2020 SHSAT Admissions Test Offers By Sending School
+erra-pzy8 - Inmate Assault on Staff
+ex6k-ym48 - Claims Report - Underlying Settlements and Claims Filed Data
+kkjw-ny95 - Annual Child Abuse Allegation Detention and Placement
+erdf-2akx - EZ Pass Readers (Tabular)
+qhen-5rve - Weekend Traffic Updates
+xeg4-ic28 - Summer Sports Experience
+vww9-qguh - 2013-2019 Attendance Results - School
+g9jx-npbk - Real Time Passenger Information Sign Locations
+fd95-5ihz - NYC Rezoning Tracker
+5zyy-y8am - NYC Building Energy and Water Data Disclosure for Local Law 84 (2023-Present)
+n4hs-fahn - VZV_Priority Zones or Areas
+k548-32d3 - Inmate Incidents - Inmate Fights
+5cxm-c27f - 2018 - 2019 Arts Data Survey
+r75y-8qe7 - 2013 - 2015 New York State Mathematics Exam
+jstn-jaut - Policy and Procedure Recommendations (PPR) Portal
+hz4p-9f7s - VZV_Turn Traffic Calming
+99rv-74dm - Board of Standards and Appeals (BSA) Decisions Map
+aabe-yfm9 - NYC City Council Committee Membership
+ud6j-d73w - DYCD Participant Demographics by Community District
+f264-qcv3 - Other Tobacco Products License
+qt5r-nqxp - PLUTO Change File
+vijr-8gr7 - Community Connect: Bronx Information Portal
+2kdb-mfqb - DSNY Garages (Map)
+xt4f-xvjw - P-Card Purchase
+d7da-9deh - 2018 - 2020 CLASS and ECERS-R Data
+43ab-v68i - FY16 BID Trends Report Data
+gzvm-na49 - Contractor / Sub Contractor Change Order Report
+96ay-ea4r - Vehicle Classification Counts (2011-2020)
+xzy8-qqgf - Demographic Projection Report - Enrollment Projections - New York City Public Schools prepared by Statistical Forecasting
+xuid-t5nk - 2017 - 2020 Monthly Grade Level Attendance by School
+pa5t-ktd3 - Projected New Housing Starts - as Used in Enrollment Projection
+acxp-7ep7 - Path Station Locations
+56e3-rp8d - SHL - Meter Shops
+cxrn-zyvb - 2017 School Quality Report
+8wi4-bsy4 - Local Law 7-2018 Qualified Transactions
+53au-zf7x - Hydrography Structures
+qvtg-k2hn - ARCHIVE - Beaches
+exsg-kpya - Denied TW and Wholesale Market Companies
+xcah-6evp - 2017 NYC Open Data Plan - Address Standardization
+4f23-ddz6 - Community Data Asset: BetaNYC BoardStat Bronx
+xyq2-jjkn - Civilian Complaint Review Board (CCRB) - Allegations Closed
+eukp-v77b - NYC Covered Building's List (2020)
+8fhn-c4v3 - Play Areas
+fw4n-6ehm - 2016 Green Taxi Trip Data
+icbf-663g - Watershed Water Quality - Wastewater
+kdda-2wcy - VZV_Priority Corridors
+kfgh-h6re - Mandatory Inspections by Fire Companies
+qeta-4kqg - Privately Owned Public Spaces (POPS) - Map
+dnjp-mkjx - Reasonable Suspicion Stops
+vspn-8tzq - Office Of Adult And Continuing Education Location Directory
+sebv-z45x - Community Data Asset: BetaNYC BoardStat Manhattan
+bbs3-q5us - 2009 Campaign Contributions
+evu4-6zyr - Local Law 84 2020 (Monthly Data for Calendar Year 2019)
+ka27-qx5k - DCLA Cultural Institutions Group Funding
+7umd-hdjb - DOHMH COVID Antibody-by-Age
+5ziv-wcy4 - Mayor’s Office to End Domestic and Gender-Based Violence  Resource Directory
+uu62-ifvu - Parking Violations Issued - Fiscal Year 2016
+ac9y-je94 - Directory of Concessions
+rmhc-afj9 - DSNY - PlowNYC Data
+kegn-anvq - OpenRecords FOIL Requests
+7iqz-npua - NYCHA Citywide Special Events
+bvzk-auuz - 2013-2014 - 2017- 2018 Demographic Snapshot Citywide
+4yue-vjfc - Bridge Ratings
+2mby-ccnw - Civilian Complaint Review Board: Complaints Against Police Officers
+ebkm-iyma - DYCD Program Sites
+8k4x-9mp5 - Citywide Auto Fringe Benefits
+vajk-p37e - DOHMH COVID-19 Antibody-by-Neighborhood Poverty
+g5gn-bmye - DOHMH Severe Maternal Morbidity
+y7z5-rhh5 - Directory Of Family Shelter Performance Ranking FY 2012 Q4 and 2013 Q1
+bsuh-ywiw - VZV_Safe Streets for Seniors
+un72-4nix - Directory of Historic Houses
+jxs5-ygaz - Citywide Mobility Survey - Vehicle Survey 2019
+d83i-6us7 - Street Seats - 2014-2019
+ut9y-2ptp - DYCD after-school programs: NDA Educational High School Progams
+m56g-jpua - DOF: Cooperative Comparable Rental Income – Manhattan– FY 2011/2012
+7pza-ynkh - MOCS 15 Largest Contracts
+5vu2-shu8 - 2021 Public Data File - Parent
+e3qr-idgg - For Local Law 19 - Annual Report DHS Shelter
+sgr7-hhwp - 2021 - 2022 Average Class Size by School
+nzf8-y8wb - 2022 Fall Diversity in Admissions Outcomes - MS
+rqvv-d722 - Largest Requirements Contracts
+8ess-ssnw - Internet Master Plan: Broadband Choice and Speed by Census Block
+bssx-36gg - VZV_Enhanced Crossings- Historical
+8mzw-jfss - 2011 - 2016 Demographic Snapshot
+bss9-579f - DOF: Condominium Comparable Rental Income – Brooklyn – FY 2011/2012
+w5he-u64t - Inventory of New York City Greenhouse Gas Emissions - Electricity Emission Factors (2005-2016)
+ec4f-sy8r - 2019-20 Students In Temporary Housing
+7bjc-nmt5 - Annual Concession Report (FCRC Report)
+4hxk-b29t - DOB Sustainability Compliance Map
+3vjp-ybhy - 2050s Mean Sea Level
+kdm9-vp7d - 2013-2017 ELA Test Results by Grade - School - All
+2n64-63dq - DYCD OSY (Out-of-School Youth)
+9n9z-hh9p - 2005 - 2017 School Quality Review Ratings
+e64w-ctmw - Financial Plan Baseline & Initiatives By Funding
+985h-mtct - PATH and AFIC Monthly Eligibility Rate
+xw3j-2yxf - DSNY Garages
+735p-zed8 - 2001 Campaign Contributions
+azp6-hepu - Licensing Center Customer Information
+uxsz-6j5j - Worker Coops
+a2w2-wg79 - Change Orders Cycle Time and Volume
+mran-v46w - Sidewalk Café Regulations GIS: Geodatabase
+dsyc-npkh - Air Quality Testing at Saratoga Village
+tfrc-rjtr - Public Design Commission Monthly Design Review
+tfbb-gszk - Directory Of DOP Office Locations
+d6di-qmzq - Competitive Sealed Bid Cycle Time by Agency and Fiscal Year
+khkb-h6hx - Empower Zones
+pn7c-bqri - MillionTreesNYC Forest Restoration Planting Sites
+7r6i-tdj2 - Local Law 44 - Other City Financial Assistance
+e3xf-jwmj - Watershed Water Quality - Hydrology
+nbun-a9vi - DOF: Summary of Neighborhood Sales for Brooklyn for Class 1-, 2- and 3-Family homes - 2009
+fnkv-pyhj - NYC DOT Pedestrian Plazas (Map)
+ykru-djh7 - Environmental Justice Area Census Tract Designation
+un8d-rbed - SBS ICAP Contract Opportunities - Historical
+qrb4-aqtx - Manhattan Community Garden Sites Data
+eku7-63g8 - 2017 - 2018 Quality Review Schools List
+8kuj-2n3u - Exclusive Pedestrian Signal (Barnes Dance) Locations
+wye7-nyek - Interagency Coordination and Construction Permits Data (MOSYS)
+824w-7c8u - Local Law 63 Plan
+yne3-pqfu - NYC Street Tree Map - Eco Benefits
+6thv-9wgt - Students Receiving Recommended Special Education Programs by Program Type
+genf-2k76 - General Issuer's Allocation Percentage Report
+ismp-xffj - Inventory of New York City Greenhouse Gas Emissions - Con Edison District Steam Emission Factors (2005-2016)
+bug8-9f3g - Value of Energy Cost Savings Program Savings for Businesses
+9tn4-3mgm - Local Law 83 – Ethnic and Community Media Agency Ad Spend
+fijd-wye8 - DYCD after-school programs: Teen ACTION Programs
+2fir-qns4 - Civilian Complaint Review Board: Police Officers
+w8cn-6mjd - NYC Parks Districts Map
+p8e4-uwuv - Anticipated RFP
+f6st-pb23 - Airport Point
+pfys-fabf - NYPL Branch Services - Bronx
+dy27-rrad - Community Board Contact List
+ding-39n6 - Children Served in Preventive Services by Borough and CD
+hdnu-nbrh - NYC Independent Budget Office (IBO) Tax Revenue FY 1980 - FY 2020
+2pg3-gcaa - Public Design Commission Outdoor Public Art Inventory
+4p5v-sqmv - Map of NYCHA Community Engagement & Partnership Zones
+5dmv-5d3w - Disciplinary Actions
+yhdx-itry - Overhead Electronic Signs
+gmi7-62cd - Local Law 44 - Funding
+7gic-pibm - Staten Island Ferry – Daily Performance data
+esmb-8zkm - School Based Programs by Borough
+mbdi-zpep - Untitled Visualization - Based on HIV/AIDS Diagnoses by Neighborhood, Sex, and Race/Ethnicity
+2bmr-jdsv - FHV Base Aggregate Report - Historical
+8wr3-qeap - SY 2021-2022 Community Schools
+nd82-bi9f - Procurement By Industry
+aviq-jvfs - Directory of Handball Courts
+t8xi-d5wb - Summary of Syringe Data in NYC Parks
+a5rk-jemi - Citywide Mobility Survey - Household Survey 2019
+9jf7-zn7b - Inventory of New York City Greenhouse Gas Emissions - Fuel Emission Factors (2016)
+k233-bk49 - 2017 NYC Open Data Plan: Scheduled Releases
+kybe-9iex - 2017 - 2018 Graduation Outcomes School
+fzv4-jan3 - 2006-07 School Progress Reports - All Schools
+ruce-cnp6 - FY2015 PMMR Agency Performance Indicators
+q974-2uuf - NYCHA ACCESSolar Opportunities Map
+46g3-savk - 2015-2017 Historical Daily Attendance By School
+5694-9szk - Love Your Local Business List
+ydj7-rk56 - Directory of Recreation Centers
+gkd7-3vk7 - Enrollment Capacity And Utilization Reports - Target by Building
+d28w-n2x4 - 2016-2017 Student Discipline Annual Report - RACE
+rb38-kd48 - Citywide Mobility Survey - May 2020
+npnk-wrj8 - Wi-Fi in Public Space (Open Space)
+e25p-jzfy - Asset Management Parks System (AMPS) – Assets
+y4nf-25nw - VZV_Neighborhood Slow Zones
+rsnd-bbih - Manhattan Community Grants - Historical
+a94k-kjys - Capacity Projects by School
+pbk5-6r7z - Street Construction Permits - Stipulations (Historical)
+vzj6-pcjy - Greenstreets
+de3m-c5p4 - Accessible Pedestrian Signal Locations
+xqbk-beh5 - GreenThumb Site Visits
+6m3u-8rbh - Upcoming contracts to be awarded (CAP)
+d3ge-anaz - 2009 - 2010 Class Size - School-level Detail
+hb7y-b986 - Cash Assistance Engagement Report
+mfmf-gtvc - NYCDCP Manhattan Bike Counts - Off Street
+4c8i-cnte - SNAP Program Access Index (PAI)
+qz5f-yx82 - Broadband Adoption and Infrastructure by Zip Code
+d6ee-k2sh - 2015 School Allocation Memorandum (SAM)
+72vt-ykjc - Local Law 44 - Tax Incentive
+8r6c-ydwk - Monthly Indicators
+s7yh-frbm - Capital Project Detail Data - Milestones
+gqk4-hny9 - SNAP Center Wait Time
+ebsy-4b6x - 2020s Mean Monthly High Water
+esmy-s8q5 - Seating Locations
+dx8z-6nev - Donations to Not-for-Profit Organizations Affiliated with Elected Officials
+by6m-6zpb - DOE High School Programs 2014-2015
+q7ra-ebu4 - Underutilized Space Report
+jhn3-4vdj - Directory Of Adult Shelter Performance Ranking FY 2011 Q3 2011 Q4
+5rzx-3686 - New York City Fleet Daily Service Report
+eak9-f97n - Digital City Map – Geodatabase
+e27m-uhjk - Banking Corporation Issuer's Allocation Percentage Report
+iidj-gxys - Parks Trails Map
+3tfu-x2qk - 2006-2012 Math Test Results - School - Ethnicity
+b7t4-zm44 - BPL Electronic Resources
+a9xv-vek9 - Sidewalk Centerline
+8fj8-3sgg - CEQR Project Milestones
+6w36-zfn5 - Project Labor Agreements and Apprenticeship Directive
+kswi-37bp - Energy and Water Data Disclosure for Local Law 84 2011 (Data for Calendar Year 2010)
+kha6-7i9i - 2013-2017 School Math Results - All
+8a4n-zmpj - Art in DOE buildings
+ad4c-mphb - DOF: Condominium Comparable Rental Income – Manhattan – FY 2009/2010
+f9tw-8p66 - 2009 Yellow Taxi Trip Data
+fdpt-nzk4 - 2020 DOE Middle School Directory
+xahu-rkwn - 2014-2015 DOE High School Performance-Directory
+8c77-xxaj - 2018 Kindergarten Directory - Manhattan
+37it-gmcp - WiredNYC – Certified Buildings
+78sp-6jhj - Concrete/Hardware Weekly Repair Schedule
+nfkx-wd79 - 2016 - 2017 SQS PK
+kjcq-h8d9 - Borough/Community District Report - CA Population
+fq4m-vjs9 - Benefits Access Center Wait Times
+g76y-dcqj - DOB After Hour Variance Permits
+rb2h-bgai - DCLA Cultural Organization Resources
+i595-2byq - Radiation Producing Equipment
+s47t-kwt5 - 2020-2021 Local Law 102 Physical Education
+bhs9-p657 - Detention and Placement  Demographic reports
+9ned-hmak - Directory of Running Tracks
+88da-cha7 - NYC Media Video Directory
+utpj-74fz - Energy and Water Data Disclosure for Local Law 84 2017 (Data for Calendar Year 2016)
+k7nh-aufb - Energy and Water Data Disclosure for Local Law 84 2012 (Data for Calendar Year 2011)
+82rt-zc4y - 2010-2011 Class Size - District-level Summary
+cr7v-v529 - Student COVID Vaccinations (04/16 - 05/03/2022
+sg2s-hjt6 - Adopt-a-Tree Inventory
+ru7m-mpyz - Sandy Funding Tracker - Program Milestones
+hags-jh3e - 2016-17 - 2020-21 District End-of-Year Attendance and Chronic Absenteeism Data
+hfa5-7rzg - Children In 24-hour Foster Care by Community District
+nn5y-wmuj - Agency Service Center
+5f9p-h9ar - 2020 Fall Admission LL1486
+4szu-rxzq - 2012-2013 School Zones
+edk2-vkjh - Pharmaceutical and Syringe Drop-Off Locations in NYC
+r4c5-ndkx - Lot Cleaning Dispositions (No Longer Maintained)
+sgvu-nui7 - Local Law 44 - LIHTC
+n7ta-pz8k - Projected Public School Ratio
+ypm7-drwf - 2006-2011 NYS Math Test Results By Grade - Boro - By Race- Ethnicity
+m6ad-jy3s - FY18 BID Trends Report Data
+5ar6-qxhs - Street Seats (2021-)
+sh4i-rsb8 - DSNY - Snow Priority Designation
+9bmk-bbj5 - 2006-2011 English Language Arts (ELA) Test Results by Grade - Citywide - All Students
+rm4p-5usz - Universal Pre-K
+bm9v-cvch - 2013 - 2014 School Quality Reports Results for High Schools
+jdn9-td9w - NYC Bridge Strike Data
+rwa3-b3wr - 2006 - 2011 School Progress Reports - All Schools -  Multiyear Summary
+7yig-nj52 - 2006 - 2012  Math Test Results - District - All Students
+ixwf-56db - VZV_Arterial Slow Zones
+6ctv-n46c - City Council Legislative Items
+c5up-ki6j - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Contract)
+uf53-ree9 - 2018-2019 SHSAT Admissions Test Offers By Sending School
+jgqm-ccbd - City Council Districts (water areas included)
+6pwv-zmgh - SHL Vehicles – LPEP Provider
+mf9g-zhbw - DSNY Disposal Vendors
+bryy-vqd9 - Protected Streets Map - Intersection (Dataset)
+djyq-adqm - NYC Parks Ice Skating Rinks
+fpv2-r9br - DSNY Districts With Disposal Vendor Assignments
+jk35-yh5p - 2013 - 2015 New York State English Language Arts (ELA) Exam by School
+pvvr-75zk - Parks Closure Status Due to COVID-19: Skate Parks
+7t9i-jsfp - Annual Report on Domestic Violence Initiatives, Indicators and Factors
+e3uq-vht9 - ARCHIVED - Functional Parkland
+j55h-3upk - Children's Play Areas (CPAs)
+urzf-q2g5 - 2019 DOE Kindergarten Admissions Guide
+qbvv-9nzz - Revenue Actuals
+k2ye-5mmh - DOP Adult Violations of Probation Filed by Calendar Year
+8wau-idzf - PreK Vendors by Transportation Site
+s79c-jgrm - 2003 Campaign Contributions
+7tpn-47kj - COVID-19 Revenue Report
+gt6r-wh7c - FY19 BID Trends Report Data
+7piy-bhr9 - NYC Wetlands Map
+pwts-g83w - DOHMH HIV Service Directory
+wr4r-bue7 - Fair Student Funding Budget Detail 1
+64vf-hxyb - Construction Pipeline
+vy67-bzq3 - 2014-2015 School Quality Reports Results For Elementary, Middle and K-8 Schools
+pqdc-ncdn - OneNYC 2050 (Historical)
+mrxb-9w9v - DYCD after-school programs: NDA Youth Employment Programs
+9vaq-mvvx - Appeals Filed In 2018
+uxpt-rzip - NYC Street Centerline (CSCL) for PlowNYC Winter 2016/17
+693u-uax6 - Parking Meters Locations and Status
+f4wx-5ve6 - Position Schedule
+fxgv-ba35 - Swimming Beach Attendance
+4fwc-j3vn - Weigh in Motion
+nsk4-4pvs - New York City Employment Forecast
+c5sh-m8tb - 2006-2011 NYS Math Test Results by Grade - Citywide - by Gender
+jcih-dj9q - DOF: Condominium Comparable Rental Income – Queens – FY 2011/2012
+g63j-swsd - Distribution Sites LCR Monitoring Results
+pfn4-vjwr - 2012-2013 Young Adult Borough Centers
+4cjm-3vyv - 2019-2020 Local Law 14 Health Education Report - Final
+77q4-nkfh - Energy and Water Data Disclosure for Local Law 84 2016 (Data for Calendar Year 2015)
+t9nw-j73k - Vehicle Classification Counts (2011-2012)
+yusc-bz4f - Midtown Bicycle Counts
+nbgq-j9jt - Fair Student Funding Budget Detail 2
+ige5-v6sk - LION Differences File
+5hwa-9qfj - DSNY Sections (Map)
+xwtc-hedq - DOHMH Covid-19 Milestone Data: New Cases of Covid-19 (7 Day Average)
+b9uf-7skp - 2006 - 2012 Math Test Results - School - Gender
+kwmq-dbub - 2013 Campaign Expenditures
+hphy-6g7m - Water and Sewer Permits
+qfk7-6ens - 2006-07 Class Size - School-level Detail
+naa7-pasa - 2021 Fall Admission LL1486
+khqi-x3p3 - 2005 - 2011 Graduation Outcomes - School Level - - Gender
+diks-hcwd - 2014-2015 VADIR INCIDENTS-3
+8s5k-n45n - LinkNYC Kiosk Status (Archived)
+rjqi-t95z - ARCHIVE - Golf Courses
+9umc-3b2y - Capital Grant Awards 2014
+62mr-ukqs - DOF: Cooperative Comparable Rental Income – Brooklyn – FY 2008/2009
+97zg-4p9t - Grant Applications Tracking Table
+3y5p-x48f - 2015-2018 Historical Daily Attendance By School
+rskq-5bfv - DCLA Program Funding for FY11
+7tu6-bcih - Local Law 19 of 1999 Report - Quarterly Unsheltered Street Homeless Individuals
+afsf-hz68 - Credited Job Placement Report (Historical)
+n4tc-j6kh - Inspections Requested
+g5vn-nwqt - VZV_Signal Timing/25MPH Signal Retiming
+xtsw-fqvh - NYC Parks Events Listing – Event Categories
+jcj6-zji6 - Designated and Calendared Buildings and Sites (Map)
+395v-hkhg - Inquiries Received
+yqkf-i7a4 - DYCD after-school programs: Healthy Families
+v9xd-tt3e - 2010 Census Blocks (water areas included)
+q7rf-ks4h - 2100s Mean Sea Level
+t572-gp5u - 2018 Squirrel Census - Hectare Grid Map
+whjh-s3x7 - City Bench Locations (Map)
+ivbu-e2q7 - Directory Of Unsheltered Street Homeless To General Population Ratio 2011
+fdx7-6jsr - Directory Of Land Use Application Fees
+piri-jns7 - 2005 - 2012 Quality Review
+9p9k-tusd - Protected Streets - Segments
+r6ub-zhff - Energy and Water Data Disclosure for Local Law 84 2013 (Data for Calendar Year 2012)
+vg63-xw6u - 2009 Campaign Expenditures
+i762-rk6i - 2008 NYC School Survey -  - General Education
+thrx-b6bc - DOF: Summary of Neighborhood Sales in Brooklyn for Class 1-, 2- and 3-Family homes - 2008
+ga3c-v25a - Trust Fund Invasions
+4se9-mk53 - LAW Divisions
+m48u-yjt8 - Council Committees And Meetings
+evdj-a5z2 - Municipal Parking Facilities (Brooklyn)
+5qcq-w32p - DSNY Frequencies (Map)
+3r2x-bnmj - Temporary Art Program
+hsst-tgws - City Council January 2021 Attendance
+b2gb-nkrq - Community Emergency Response Team (CERT)
+ewhs-k7um - 2016 - 2017 School Quality Report Results for High Schools
+7yhi-h8kc - Directory of Nature Preserves
+8kiv-2ukd - Directory Of Unsheltered Street Homeless To General Population Ratio 2010
+6jad-5sav - 2005 - 2011 Graduation Outcomes - School Level - - Ethnicity
+sf92-v8wr - 2018 NYC Open Data Plan: Civic Engagements
+hxay-3qcw - New York City Water Trail (Kayak and Canoe Launch Sites)
+9y7k-h295 - Local Law 8 of 2020 Report – Monthly Complaints of Illegal Parking of Vehicles Operated on Behalf of the City
+3vje-du8p - 2005-2019 Graduation Rates - All
+ge8j-uqbf - 2016 DOE High School Programs
+tphr-wtjd - NYC Covered Building's List (2019)
+emuv-tx7t - FY17 BID Trends Report Data
+446w-773i - 2018 School Quality Report Results for PreK
+xrwg-eczf - SCOUT CORE
+jat2-irw9 - Inventory of New York City Greenhouse Gas Emissions - City Government GHG Emissions Summary (2016)
+64gx-bycn - 2005 Campaign Contributions
+c4kr-96ik - Pedestrian Mobility Plan Pedestrian Demand Map
+dzrn-z4d7 - 2018 NYC Open Data Plan: Future Releases
+39yy-hdfd - Land Acquisition Statistics
+ekck-c5sb - 2020 - 2021 LL Settlement Data
+kkum-y97z - Agency Voter Registration Activity
+ht2g-4cs2 - 2005 - 2010 Graduation Outcomes
+7yay-m4ae - Expense Actuals
+3qfc-4tta - DOF: Condominium Comparable Rental Income – Bronx – FY 2011/2012
+qad5-y26n - 2018 Central Park Squirrel Census - Hectare Grid
+phth-xf25 - 2006-2012 English Language Arts (ELA) Test Results - School - SWD
+sgxc-mnpk - Prelim Average Class Size School - K - 8TH
+64pa-8bza - 2018 -2019 Monthly Grade Level Attendance By School
+8eq5-dtjb - FY20 BID Trends Report Data
+kubx-z7zd - NYC Recovery & Resiliency Projects Map - Points
+ax85-bzte - DOHMH Tuberculosis Surveillance: Data from the Tuberculosis Control Annual Summary
+qkpp-pbi8 - 2013 - 2018 School ELA REsults
+fuzb-9jre - Archaeology Reports Database
+m27t-ht3h - 2013 -2018 School Math Results
+c2g8-ercv - City Owned and Leased Property (COLP) – Geodatabase
+x5tk-fa54 - Expense Financial Plan - Exec
+pawq-tjb4 - Tidally Coordinated Shoreline
+b37a-3faw - Ten-Year Capital Strategy
+yr5p-wjer - Energy and Water Data Disclosure for Local Law 84 2014 (Data for Calendar Year 2013)
+i9pf-sj7c - 2013-2014 DOE High School Programs
+66yh-nemi - Capital Grant Awards 2018
+3ss8-m844 - Active Projects
+tkzt-zfpz - Parks Closure Status Due to COVID-19: Adult Exercise Equipment
+uetw-jfrg - Appeals Closed In 2018
+7t2y-4fke - List of Automated Datasets
+ge3f-inui - Bridge Hold Location Stipulations
+rew8-qrvr - Designated Areas in M districts Appendix J
+8h5p-ccrz - 2017 - 2018 Bullying Harassment Dicrimination Bi- Annual Report
+2sps-j9st - Doing Business Search - People
+27b5-th78 - Median
+vyk9-wyct - Civil Service Exams for NYCHA Residents - Local Law 163
+jkdk-6p97 - Highway Sign Installations
+2rd2-9uwy - Local Law 50 New York State Food Purchasing FY15
+htur-iwux - Boardwalk
+d54t-ywim - Open Storefronts Applications (Historical)
+ume6-8kxp - EZ Pass Reader- Midtown in Motion
+jcs8-anmt - New York City Domestic Violence Fatality Review Committee Annual Report: 2006 - 2020
+4iha-m5jk - Social Distancing: Park Areas
+xpbf-ithr - Buildings Selected for the Underlying Conditions Program
+sjxh-har6 - 2017 - 2018 NYC School Survey Teacher Data
+epjz-e3up - 2020-2021 Annual Report on Special Education
+6qs8-44ki - DOHMH COVID-19 Antibody-by-Modified ZIP Code Tabulation Area
+xqmg-7z3j - 2015-2016 Physical Education - PE Space
+brud-mdtt - NYC Early Intervention's: Local Early Intervention Coordinating Council (LEICC) Report
+n3et-mfjw - Beacon Programs  Map
+sp9a-cd2a - Waterfront Access Map Data: Geodatabase
+gf36-w2jr - 2019-2020 Local Law 102 Physical Education Report -Final
+5x8i-3c5b - 2019 Public Data File - Students
+ia9u-k3t3 - DYCD after-school programs: NDA Adult Literacy Programs
+hukm-snmq - NYC Independent Budget Office (IBO) Capital Expenditures Since 1985
+yp6n-7jdy - Parks Inspection Program – Public Restroom Individual Room Inspections
+ay6v-3gm3 - SNAP and Cash Assistance for NYCHA Residents - Local Law 163
+d33y-i2m7 - Financial Plan Headcount Baseline & Initiatives By Funding
+qy7q-cb9e - Address Assignments
+abnr-s7g4 - Local Law 44 - Developer Selection
+8ws3-956v - 2016-2017 SHSAT Admissions Test Offers By Sending School
+uk9f-6y9n - Hurricane Inundation by Evacuation Zone
+r67x-e97r - NYC Open Data: Questions and Error Reporting
+uk7t-q4s9 - 2018-2019 Bullying Harassment Discrimination Bi- Annual Report
+as69-ew8f - Over Dimensional Vehicle Permits (ODVP)
+sjpy-4cc9 - DOF: Cooperative Comparable Rental Income – Queens – FY 2011/2012
+wswf-9pts - Parks Closure Status Due to COVID-19: Dog Runs
+p26e-k6k9 - School Spending Since 1990
+xefy-6ent - 2010-2011 Class Size - Borough Distribution
+guiy-frxt - Street Name Signs Work Orders
+tbmp-nmim - Street Seats (Map) 2014-2019
+cma4-zi8m - 2005 - 2011 Graduation Outcomes - School Level - Classes of - Total Cohort
+xjur-zbxw - Home Care Caseload
+fsjc-9fyh - GreenThumb Block-Lot
+im58-6hb9 - NYC Parks Spray Showers Map
+p373-rwkn - NYC Condom Availability Program - Inactive HIV condom distribution locations
+xu8q-aip5 - VZV_Senior Centers
+nxmt-wszr - LinkNYC Weekly Usage (Updated)
+kiy2-qiem - DOE Special Education City Council Report June 14, 2021
+ud2m-5tb4 - Entitation
+7hi3-kaps - Staff Injuries - Class A Injuries
+kz4v-8ai2 - Greenbelt Native Plant Center Inventory
+73kr-kt5y - Pedestrian Zone Shapefile (Map)
+i8ua-bnkj - Monthly Performance Management Reports (includes Corruption Lectures and Customer Service indicators)
+gzk5-mux8 - Directory of Zoos and Aquariums
+acvt-i9fr - 20th Annual Report of the Commission
+ty7c-8rmq - 2006 - 2011 NYS Math Test Results By Grade - School Level - By Race- Ethnicity
+thqd-deec - Cash Assistance Recipients Since 1955
+udtw-swpa - 2019 - 2020 Quality Review School List
+wibz-uqui - NYPL Branch Services - Staten Island
+k3cd-yu9d - 2001 Campaign Expenditures
+qtrb-nhaa - DSNY DonateNYC Directory (Map)
+fpxc-zjtm - Proxy Voting Records
+956m-xy24 - DOF: Condominium Comparable Rental Income –Manhattan – FY 2008/2009
+c87b-2j3i - DOP Juvenile Rearrest Rate (Monthly Average)
+rbed-zzin - Mayor's Management Report - Agency Performance Indicators
+x5ra-hhdw - Citywide Mobility Survey - Day Survey 2019
+akzx-fghb - Social Distancing: Citywide Ambassador Data
+dufe-vxb7 - NYPD Use of Force: Subjects
+5npv-j6gn - Canine Waste Dispensers
+ssqc-a9e6 - DSNY Snow Priority Designation (Map)
+ycfm-qijh - 2019-20 Demographic Snapshot - Citywide
+v9z6-t6nq - 2013 - 2018 Demographic Snapshot Borough
+sivq-4tyd - Forest Restoration Tracking
+5i9t-mvdt - NYC Independent Budget Office (IBO) Debt Outstanding Since FY 2000
+7su9-xgtn - Recurring Resident Economic Empowerment and Sustainability Programs
+he5b-24yw - 2015-16 Demographic Data - Diversity Efforts
+68k5-hdzw - Recoupment for Damaged City-owned Property
+5u2d-n46s - Office of The Comptroller: Teachers Retirement System Holdings Data
+auj6-ur3j - Cash Assistance Applications for Youth Heads of Household, Ages 16 - 20
+wg68-84sr - 2012-2013 NYC High School Directory
+67up-ztdf - New York City Health Opinion Poll
+av3y-hmjv - Inventory of New York City Greenhouse Gas Emissions - Heating And Cooling Degree Days (2004-2016)
+a3nt-yts4 - 2019 - 2020 School Point Locations
+jfsk-arcd - Walk to a Park Service Area for CEQR Open Space Assessment
+cgz5-877h - 2008 - 2009 School Progress Reports - All Schools
+5dck-9m6g - NYC DOT Pedestrian Plazas (Point Feature)
+9ss3-avyg - Internet Access by Select Demographics in New York City - 2016
+9gs9-zhxw - Selection Criteria for Fall 2021 High School Admissions
+uqmk-4y2w - Youth Risk Behavior Survey (Middle School)
+pzz2-ca2q - 2015-2016 NYC High School Directory
+br7w-st33 - NYC Parks Forever Wild Map
+aa5e-digs - Entry Point LCR Monitoring Results
+ge9t-ywzs - ENDGBV: The Intersection of Domestic Violence, Race/Ethnicity and Sex
+j7yn-nvq9 - DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2006
+j4t9-dyts - Educational Continuity of Children in Foster Care
+sage-tgxd - Directory of Ice Skating Rinks
+szfr-d24y - Hepatitis B Surveillance Registry
+dj4e-3xrn - 2007 - 2008 School Progress Reports - All Schools
+weh8-3ujf - Synthetic Turf Fields
+a2ju-qb9a - Preventive New Cases
+hq56-zhrp - Enrollment Capacity And Utilization Reports - Historical by Building
+tm5c-buy3 - Dataset Removals
+268n-a7em - 2001- 2013 Graduation Outcomes Borough- ALL STUDENTS,SWD,GENDER,ELL,ETHNICITY,EVER ELL
+vf4p-p8ui - Revenue Budget & Financial Plan--Qtr1
+dhs7-q59e - DYCD after-school programs: Family Support  Programs for Seniors
+wue3-68ab - Election Districts (water areas included)
+tngj-drbu - Target Community District
+58k2-kgtb - Zoning Map Index: Quartersection
+w6yt-hctp - DOF: Condominium Comparable Rental Income – Brooklyn – FY 2009/2010
+8zyi-kxay - Housing Database by 2020 Census Block
+635b-dk9f - Student Covid Vaccinations (4/1/22)
+sbvv-hpwv - 2020 Census Blocks - Mapped
+h426-x5gi - Block Planting
+wa6b-r9jh - Participatory Budgeting Survey Data
+ygfr-ij6t - Department for the Aging (NYC Aging) - Senior Center Local Law 140 Provider Data - FY 2020
+kmtx-45c9 - Low Income Housing Tax Credits Awarded by HPD: Building-Level (9% Awards)
+e4p3-6ecr - Expense Financial Plan - Adpt\Prel
+njjd-3gve - 2019-2020 Arts Survey Data
+f2cz-q2ik - DOP Adult Violations of Probation Disposed by Calendar Year
+fu34-wamz - NYC Independent Budget Office (IBO) State And Federal Categorical Aid, FY 1980 - 2020
+7acq-q3tq - Miscellaneous Structures
+8bug-hj9w - 2018 Graduation Rates - Charter Schools - All Students
+64pu-zyr2 - 2015-16 Student Discipline Annual Report - D Code
+ws4c-4g69 - HHS Accelerator Past Procurements
+gcys-vvnq - Asset Management Parks System (AMPS) – Transactions
+33c5-b922 - Summary of DBP Quarterly Report
+4ggh-um8t - District Resource Statement - SNAP Population
+fsis-j6x5 - DOP Juvenile Investigations by Calendar Year
+35ey-ieq4 - 2005-2015 Graduation Rates Public - School
+2bh6-qmgg - 2006-2012 Math Test Results - Citywide - Gender
+f9mb-fgwp - Community Data Asset: BetaNYC BoardStat Staten Island
+xnfm-u3k5 - Street Resurfacing Schedule
+uvgd-xsc8 - Retaining Wall
+nn83-afrt - Directory of Boating and Marinas
+2ubh-v9er - Monthly Flash Report indicators
+7vgu-qbur - DSNY Sections
+9h53-fsqa - 2021 Arts Data Report
+tgzg-ssan - Uptown Bicycle Counts
+qpgi-ckmp - Athletic Facilities
+29km-avyc - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Location)
+7zhs-43jt - NYC Independent Budget Office (IBO) Revenue And Spending Summary FY 1980 - FY 2020
+keep-pkmh - Civilian Complaint Review Board: Penalties
+hm78-6dwm - 2020 Census Tracts to 2020 NTAs and CDTAs Equivalency
+ruf7-3wgc - NYC Community Boards
+sjdi-a6us - 2018 NYC Open Data Plan: FOIL Datasets
+2y2t-x83x - Carshare Locations - Municipal Garages and Lots
+qfxy-c6k3 - Municipal Parking Facilities (Queens)
+7h99-xsqt - Appeals Filed In 2016
+rcd4-qkns - Urban Park Ranger Engagement Tracker
+w4v6-3sdt - DOF: Summary of Neighborhood Sales for the Bronx for Class 1-, 2- and 3-Family homes - 2009
+xdkk-pvdv - Directory Historical Signs
+uisg-ivwv - Parks Inspection Program – PIP Plus
+pxfd-dpcz - 2006 - 2011 NYS Math Test Results By Grade - School Level - By Gender
+bjmk-35w5 - Current Plan Programs
+v7hc-c85a - Workforce 1 for NYCHA Residents by Borough - Local Law 163
+73bd-vkmx - DYCD after-school programs: Young Adult Internship Programs
+6rf2-gv9k - DOF: Summary of Neighborhood Sales Citywide Class 1-, 2- and 3-Family homes
+mric-ye48 - Annual Tax Effort in NYC since 1929
+cqhz-kkvd - DOHMH COVID-19 Antibody-by-Week
+xjpe-rx7t - Students Receiving Recommended Special Education Programs by Program Type
+wxhr-qbhz - Cool It! NYC 2020 - Drinking Fountains
+9f5k-vxxv - DYCD after-school programs: Health Stat
+9ck8-hj3u - 2018 - 2019 School Locations
+yk6f-pa7p - LAW Public Service Program
+fqcv-e9sg - DYCD after-school-programs: Housing
+cfzn-4iza - WiredNYC – Participating Buildings
+v3zf-nci8 - Directory of Barbecuing Areas
+tvfr-dhen - 2016-17 Physical Education - PE Space
+dggd-3jfu - Resident Economic Empowerment and Sustainability (REES) for NYCHA Residents – NYCHA Development - Local Law 163
+8p6c-94pc - "Kids In Motion" Playground Programming
+m2z7-dx25 - 2013 - 2018 Demographic Snapshot District
+7i33-iphh - VZV_Taxi & Car Service Trainings
+q9xk-w9iv - Enrollment Capacity And Utilization Reports - Historical by Organization
+6eti-k994 - NYC Parks Events Listing – Event Images
+5mdy-gux8 - New York City Personal Income Tax Collections By Component
+8i9k-4gi5 - Leaf Drop-Off Locations in NYC
+2jnq-tef6 - Detention and Placement Incident Reports
+tg3t-nh4h - Commercial Bicycle Unit Inspections
+bsin-59hv - Building Elevation and Subgrade (BES)
+yrf7-4wry - DOF: Cooperative Comparable Rental Income – Bronx – FY 2011/2012
+hfa3-euj3 - Protected Streets - Intersections
+arhf-esqb - DOP Adult Probationers Rearrested As A Percentage Of NYPD Arrest Report (Monthly Average)
+u6p4-fsey - DOP Adult Case Closings By Reason
+wunb-i9sc - April_2021_21-993 New York City Transportation Reporting
+ac4n-c5re - 2013 - 2014 School Locations
+g2p7-76t7 - 2018 Kindergarten Directory - Brooklyn
+jgf2-kw9q - NYC Parks Pools Map
+yitc-zzrc - Directory of Cricket Fields
+8hgr-brxd - DCA Monthly Compliance Report Date for Process Servers
+c49b-3kmd - DOP Juvenile Case Count By Type
+rtws-c2ai - 2015 - 2016 Final Class Size Report Pupil-to-Teacher Ratio (PTR)
+psr5-vz6y - Office of Climate and Sustainability: 2019 Fuel Oil Sales
+8gpu-s594 - Application for State Aid
+iaig-3vs5 - Leaning Bars (Historic)
+nyuc-6mit - 2019-2020 Local Law 15 Health Education Report - Final
+xphq-immx - Non-Public School Security Guard Reimbursement Program - Qualified Provider List
+qmcw-ur37 - Community Development Block Grant (CDBG) Eligibility by Census Tract - CSV
+7m8q-jgtg - DOP Juvenile Probationers Rearrested As A Percentage Of NYPD Arrest Report (Monthly Average)
+vhah-kvpj - Workforce 1 for NYCHA Residents by NYCHA Development - Local Law 163
+v7gg-i7xs - Community Data Asset: BetaNYC BoardStat Queens
+9byw-znpj - Parks Inspection Program – Public Restrooms
+5mw2-hzqx - DOF: Condominium comparable rental income – Brooklyn - FY 2010/2011
+t5qg-w9sq - 2016-2017 Student Discipline Annual Report - D CODE
+rnnj-5mmi - NYC Street Tree Map – Stewardship Activity
+62dw-nwnq - Congressional Districts (water areas included)
+43qc-8vv8 - 2006 - 2012 Math Test Results - Charter Schools
+6rg9-pfbz - DYCD after-school programs: NDA Educational Middle School Programs
+r465-fr2q - Parks Syringe Disposal Kiosks
+ajin-gkbp - Population and Languages of the Limited English Proficient (LEP) Speakers by Community District
+259a-b6s7 - Forestry Risk Assessments
+7yds-6i8e - 2010-2011 Class Size - Borough Summary
+5a8g-vpdd - 2013 - 2014 School Survey Data
+aa5u-mys6 - DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2008
+6246-94tp - Observations And Statuses For Inspections
+ke6f-vhnd - Independent Budget Office: NYC COVID 19 Spending by Date - Citywide and by Agency
+ahjc-fdu3 - 2016 - 2017 School Locations
+h4jn-x3ty - Partners in Preparedness
+ci36-d7ea - 2019-20 School Quality Guide High Schools
+amfa-s2y8 - 2080s Mean Monthly High Water
+avsi-2fp7 - 2005 - 2011 Graduation Outcomes - School Level - SWD
+9sys-2i9y - DOP Adult Violations of Probation Disposed by Fiscal Year
+mse5-qs8i - Public Wi-Fi Systems NYC
+gshi-yqza - Transportable Classroom Units- Buildings & Schools
+j8p3-8ufc - DCLA: Programs Funding for FY2010
+vntq-qu86 - Three-Quarter Housing Report - Placements
+ijhz-pu2a - Carshare Locations - Curbside
+4j6i-9rmr - Uniform Land Use Review Procedure (ULURP) Recommendations
+mefg-rpis - JobStat
+948r-3ads - DOF: Summary of Neighborhood Sales for Queens for Class 1-, 2- and 3-Family homes - 2009
+rma9-fm39 - Tourism Grants
+7kc8-z939 - FCRC Annual Concession Plan
+d7b6-byut - Prelim Average Class Size School - MS & HS
+jphp-xt7k - 2006 - 2012 Math Test Results - Borough - All Students
+cqc8-am9x - Department for the Aging (NYC Aging) - All Contracted Providers
+ujre-m2tj - Discretionary Award Tracker
+uaj7-9szf - NYC Independent Budget Office (IBO) Full Time Positions in city government, by fiscal year
+nwrb-z58j - 2006-07 Class Size - By District
+tfa9-aubf - 2021 - 2022 Average Class Size Pilot
+kcfe-uypz - Tree Contract Work Details
+a8rp-fpnn - DYCD after-school programs: Adolescent Literacy
+sj3k-gzyx - DOHMH Covid-19 Milestone Data: Daily Number of People Admitted to NYC hospitals for Covid-19 like Illness
+uqtr-3rjs - 2022 Annual Sustainability Project Grant
+weg5-33pj - 2006-2007 School Progress Report
+nmue-7zq2 - Intercity Bus Stop Permits
+8u85-k342 - Capital Commitment Actuals
+peyw-qepe - 2016-17 - 2020-21 End-of-Year Borough Attendance and Chronic Absenteeism Data
+xeqp-qz8h - Serious Injury Response, Tracking & Analysis Program (SIRTA)
+fw3w-apxs - Cable Franchise Areas
+cwjy-rrh3 - NYC Independent Budget Office (IBO) Agency Expenditures FY 1980 - 2018
+ie4z-reuy - 2019-2020 School Zones (Middle School)
+tesz-9suw - Capacity Project Site Location
+sqmu-2ixd - Expense Financial Plan - Qtr1
+xffd-vsgf - 2017-2018 Monthly Attendance
+42p9-q6fd - 2010 NYC School Survey
+qtma-k4hh - 2015 - 2016 Special Education Report
+umfn-twbz - Accessible Pedestrian Signal Locations (Map)
+5w2t-dbac - Local Law 76 of 2020 - COVID-19 Contracts
+iqmu-i4pa - 2021_Prelim_Avg_ClassSize_School
+aizm-q3sx - Newsrack Inspections
+2pmj-y4p4 - 2015 - 2016 Audited Register Data
+i37z-2ty9 - 2005 - 2011 Graduation Outcomes - School Level- ELL
+77d2-9ebr - DYCD Participant Congress District Breakdowns
+esw6-z4id - DYCD after-school programs: Fatherhood
+7zf5-7vum - Local Law 44 (2009-2012)
+ph29-5mxy - DOP Adult Cases Snapshot by Calendar Year
+fxdy-q85h - FY2015 MMR Agency Performance Indicators
+bhau-5xgs - DOHMH COVID-19 Antibody-by-Sex
+sms6-sm5p - 2016 Orthoimagery Tile Index
+easq-ubfe - 2005 Campaign Expenditures
+4g4r-7dfb - 2006-07 Class Size - By Borough
+xiyj-m4sj - 2012 NYC General Education School Survey
+xi2y-szfs - 2020 Summer School Remote Learning
+ks4m-pn8b - 2020-2021 School Quality Reports - Early Childhood Schools
+phxt-vb3r - Agency Performance Mapping Indicators - Monthly (Historical Data)
+7xqy-uv7r - Municipal Parking Facilities (Bronx)
+y237-iita - 2016 Orthoimagery Brooklyn
+fnzt-d3f7 - 2019 - 2020 School Year Local Law 226 Report for the Demographics of School Staff - Gender
+pyif-r8qe - DYCD after-school programs: Beacon Satellite At NYCHA Programs
+k3qa-jvkc - DYCD after-school programs: NDA Family Literacy
+j7wp-ax4x - Total HASA Cases
+icps-nwdu - 2015 - 2016 Final Class Size Report Middle & High School
+nurr-mhyi - 2010-2011 Class Size - District-level Distribution
+pgrs-2cjd - 2006 - 2011 NYS Math Test Results By Grade - District - By Race- Ethnicity
+86a8-pqby - Parks Inspection Program – Inventory
+3btx-p4av - DOF: Cooperative Comparable Rental Income – Manhattan– FY 2008/2009
+g993-cbry - iZone PLS School List
+pqmq-sk82 - Youth Engagement By Category
+k2bb-k6p8 - Municipal Court Districts (water areas included)
+2hr8-czpv - Directory of Nature Centers
+9n2i-9h9s - 2016-2017 School Quality Report - Elem, Middle & K-8 Schools
+qcru-xhuq - Inclusionary Housing Floor Area Generated
+4twk-9yq2 - Borough Engineering Tracking System
+uxt4-ugwr - Housing Database Project Level Files
+6cne-um3h - 2000 Census Blocks (water areas included)
+u7vp-i37z - 2017-2021 NYC KIDS Survey
+ibip-ftv5 - Parks Inspection Program – Conditions & Hazards
+fp78-wt5b - 2019 Pre-Kindergarten Admissions Guide
+p8i7-ix2s - Low Income Housing Tax Credits Awarded by HPD: Project-Level (4% Awards)
+kkwv-djnk - DOP Adult Investigations Ordered
+ynic-uz5i - Vehicle Auction List
+5fsg-d8c9 - 2007 - 2011 School Progress Report Multi-year
+rbvx-jqnh - FCRC Annual Concession Plan Franchises
+usap-qc7e - 2006 - 2012 Math Test Results - District - Ethnicity
+48va-85tp - NYC Parks Forever Wild
+ej3f-9dad - Inclusionary Housing Transfers
+9azj-tmjp - Government Publication - Required Reports
+datr-f3ru - 2019-2020 Arts Report
+kw4v-6nqf - Watershed Water Quality - Sites
+v5jd-6wqn - NYPD Use of Force: Members of Service
+98ef-fxnm - Social Distancing: Parks Ambassador Data
+wnm5-hbzp - Kayak and Canoe Launch
+s9xf-ztqu - 2010 - 2011 Graduation Outcomes - School Level - Regents-based Math/ELA APM - ELL
+xzj8-i3jk - Asset Management Parks System (AMPS) – Labor
+mk9u-qu7i - Greenstreets
+75g4-kk7x - Office of Climate and Sustainability: 2017 Fuel Oil Sales
+x4ai-kstz - 2013-2017 School Math Results - Gender
+xggi-kgx9 - Directory of Family Justice Centers
+r63n-8hf3 - DOHMH and DEP Waterborne Disease Risk Assessment Program Annual Report Data: Cryptosporidiosis by race/ethnicity and borough of residence
+n23c-ym2g - Entitation Map
+qjqq-8zh3 - Directory of Bocce Courts
+b4dv-8mq4 - NYC Clean Soil Bank Generating and Receiving Sites
+ugqd-j3dx - 2020-2021 Co-Location Report
+xdsd-mmyu - NYC Media Video Directory (Mobile)
+sqb7-p8nz - 2005 - 2011 Graduation Outcomes - Borough - Classes of - Gender
+ub9z-gccp - Asset Management Parks System (AMPS) – Transaction Details
+uwx4-aafe - Local Law 49 Reporting
+5fn2-n363 - Graduation Outcomes - School Level - Classes 2010-2011 - Regents-based Math/ELA APM - Ethnicity
+cbn4-bn4p - Waterfront Revitalization Program (WRP)
+auuc-fqzi - TLC Authorized Behind The Wheel Providers (Historical)
+x56h-7iwp - Directory Of Unsheltered Street Homeless To General Population Ratio 2009
+4cga-5i5v - Outdoor Lap Swimming
+jbtw-tj3x - School Bus Report October_2021_21-993
+dsmz-77k9 - 2018 Kindergarten Directory - Queens
+5k4d-a692 - 2016 Orthoimagery Staten Island
+cbrh-qrk4 - 2014 - 2017 Regents
+g3iw-w5rt - VZV_Street Teams
+g9pi-q9mx - Pharmaceutical and Syringe Drop-Off Locations in NYC (Map)
+iwqd-w8tu - Elementary School Zones (2017-2018)
+4ubz-8kkx - Financial Plan Statements - Cash Flow
+fypi-ruxh - NYC Office of The Comptroller: Board of Education Retirement System (BERS) Holdings Data
+fbaw-uq4e - 2003 Campaign Expenditures
+mjaj-dbuh - DSNY Districts With Disposal Vendors Assignments (Map)
+xhvt-s4va - Functional Parkland
+tar7-vww3 - New Jersey Transit Station
+ae3f-9i8x - Office of Climate and Sustainability: 2018 Fuel Oil Sales
+fq9e-fd84 - 2005-2015 Graduation Rates District - All
+caav-grv8 - FY2016-2017 Administrative Code 18-144 Park Maintenance Report Payroll Data
+qh62-9utz - State Assembly Districts (water areas included)
+vdgp-ddvg - 2011 - 2014 Annual Arts in School Reports
+6bgt-eg8b - Ice Ladders
+e5aq-a4j2 - DOB NOW Elevator Safety Compliance
+h9ws-rfd9 - Low Income Housing Tax Credits Awarded by HPD: Building-Level (4% Awards)
+shpd-5q9m - Volunteer Opportunities and Finding Organizations
+v959-5k2w - Entitation Parsed Species
+xd8h-7j2h - NYC Planimetrics Historic (2000)
+fpuh-f5mr - NYC Recovery & Resiliency Projects Map- Polygons
+ign9-rzrp - 2021 - 2022 Class Size Distribution by District
+26kp-bgdh - 2013 - 2015 New York State English Language Arts (ELA) Exam
+vnwq-9b7b - Special Initiatives Moveouts and Placements
+rbfe-xwgv - Curbside Composting Sign-Up Program - Summary of Service and Demand
+68qr-38va - Special Waste Drop-Off Sites (Map)
+crbs-vur7 - DOF: Condominium Comparable Rental Income – Queens – FY 2009/2010
+g844-z9rd - 2019-2020 School Zones (High School)
+qphc-zrtc - 2006 - 2012 Math Test Results - District - Gender
+6wcu-cfa3 - 2008-09 Class Size - School-level Detail
+abgn-8q46 - 2010-2011 Class Size - Citywide Summary
+bmax-4kci - 2000 Census Tracts (water areas included)
+fiar-9bv5 - DSNY Disposal Vendors (Map)
+3kcn-nsb5 - 2006-2011 English Language Arts (ELA) Test Results by Grade - Citywide - by Race-Ethnicity
+4mfq-ds6b - 2001-2013 Graduation Outcome School Level - ALL/ELL/SWD/ETHNICITY/GENDER/EVER_ELL/TRANSFER SCHOOLS
+ens7-ac7e - 2009 School Survey
+irhv-jqz7 - DOF: Cooperative Comparable Rental Income – Brooklyn – FY 2011/2012
+h933-akrx - Street Pavement Rating - Map
+q9mx-gjyn - 2006 - 2012 Math Test Results - Borough - Gender
+y3gq-zv28 - DOP Adult Case Count By Type
+msid-end4 - Mosquito control events in NYC – Adult Mosquito Truck Spraying and Aerial Larviciding Events
+cvh6-nmyi - Schools Progress Report 2012-2013
+di8r-g5w9 - 2005 - 2011 Graduation Outcomes - Borough  - Total Cohort
+gyaz-82xj - 2006 - 2011 NYS Math Test Results By Grade 2006-2011 - District - All Students
+gt5i-dmde - ULURP Recommendations
+r2j4-rc64 - Pupil Transportation General & Special Education Student Bussing by Vendors & Routes updated 21-993
+qnem-b8re - Athletic Facilities
+8iee-pzu6 - 2018 - 2019 Students in Temporary Housing School Level Report
+2dzy-e7cu - 2016 - 2017 Health Education Report
+ijzq-5wy8 - Citywide Mobility Survey - July 2020
+3bkg-usya - Local Law 159 of 2019: Vacate Relocation Charges By Building
+c9ex-t8kt - Housing Database by 2020 Census Block (Map)
+u7ws-2dus - Pedestrian Ramp Locations (Map)
+vbgf-ket3 - DOP Juvenile Violations of Probation Filed by Calendar Year
+9jbx-hna8 - Citywide Cash Assistance Cases
+hyer-4e39 - Hepatitis C Surveillance Registry
+cvqn-xqrr - FY2020 Local Law 16 Final Report
+ys48-9d3c - Annual Overweight Load (AOL) Permits
+dbpt-pbmd - EEO-4 Reports
+3miu-myq2 - DOF: Cooperative Comparable Rental Income – Bronx – FY 2009/2010
+9ji4-nien - Population of the Limited English Proficient (LEP) Speakers by Community District
+7yc5-fec2 - 2015-2016 Demographic Data - Grades K-8 School
+qb86-fg8z - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Organization)
+s6dm-mdan - Parks Inspection Program – Daily Immediate Attentions
+p8e8-yh4m - 2050s Mean Monthly High Water
+rxpf-yca2 - Internet Master Plan: Broadband Adoption and Infrastructure by Community District
+7434-7ua6 - DOHMH Covid-19 Milestone Data: Percent of NYC residents tested who tested positive
+b8yg-sprn - Protected Streets Map - Intersection (Map)
+3nr6-bnks - NYC Planimetrics Historic (2012)
+at9c-pdf7 - DOHMH and DEP Waterborne Disease Risk Assessment Program Annual Report Data: Percentage of interviewed cryptosporidiosis case-patients by type of tap water exposure before disease onset, by Immune Status
+jk6k-yab4 - NYC Parks Events Listing – Event Organizers
+8ujr-b4gc - Veterans Services Report
+c5vm-g2dk - Parks Permit Areas
+h4mf-f24e - Buildings Selected for the Heat Sensor Program (HSP)
+niy5-4j7q - DOF: Cooperative Comparable Rental Income – Manhattan– FY 2009/2010
+k659-gwja - DOP Adult Investigations by Calendar Year
+bj6m-ydtj - MWBE Waivers
+2a5f-5ryi - 2019-20 Demographic Snapshot - Borough
+3ydk-du45 - 2018-2019 Citywide Demographic Snapshot
+nfz9-tzba - Pre-K Projects By School
+gcx5-axug - 2017 - 2018 2018 NYC School Survey Student Data
+fxwm-3t4n - 2006 - 2012 Math Test Results - Citywide - All Students
+i6as-kc83 - 2010 - 2011 Graduation Outcomes - School Level - Regents-based Math/ELA APM - Total Cohort
+qhm5-h46t - Where the Dollar Comes From and Goes To
+5mma-5n3h - Parks Inspection Program – Feature Ratings
+jiwc-ncpi - Local Law 79/2022 - Temporary Housing Assistance Usage
+2rb7-7eqa - ENDGBV: The Intersection of Domestic Violence, Race/Ethnicity and Sex
+3f5t-9dqu - Traffic Bollards Tracking and Installations
+jxyc-rxiv - DOF: Cooperative Comparable Rental Income – Manhattan– FY 2010/2011
+kewa-q4dq - LAW Press Releases
+s65f-sqe8 - Childcare Regulated Programs Map
+jzhx-pept - High School Zones (2017-2018)
+wn9v-p3q3 - HRA Facts Case Counts
+nnf6-km2a - Research Permits
+r2ng-2bhg - Functional Parkland Map
+4n2j-ut8i - 2009 - 2010 School Progress Report
+2jpd-hixn - 2020-2021 09212021 LL93 Student Discipline 2 Annual Report - All
+kw9y-h36n - Asset Management Parks System (AMPS) – Comments
+4y9q-t4wb - Broadway Curb Cut Survey Data
+53m8-jdtg - Parks Concessions
+udt3-taj7 - Municipal Parking Facilities (Staten Island)
+u97r-kgca - Domestic Violence Homicide Incidents in the Ten Largest U.S. Cities
+nja7-3m37 - Strategic Plan Progress Report
+85ty-ti6v - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - District - All Students
+iyka-7txw - POP for NYCHA Residents - Local Law 163
+mp8v-wjtf - Parks Inspection Program – Public Restroom Inspections
+9d6u-jzxb - 2001 - 2013 Graduation Outcomes
+6wy6-6agj - Broadband Adoption Basic Indicators
+egea-b8r5 - LL63 of 2011 Plan
+rmv8-86p4 - DOF: Condominium Comparable Rental Income – Brooklyn – FY 2008/2009
+tsy7-gcm8 - Court Liaison Contact Sheet
+s9d3-x4fz - 2017 Campaign Contributions
+tkdy-59zg - DOF: Condominium Comparable Rental Income – Staten Island – FY 2011/2012
+jq8m-ucqt - 2020-2021 09222021 LL93 Student Discipline Annual Report - ALL
+7xbp-cadr - 2014-2021 SHSAT OVERALL SUMMARY
+i99z-ad8n - 2006 - 2012 Math Test Results - School - SWD
+vimb-anc6 - 2015 2016 Local Law 60 Bathroom& Non- Instructional Space
+hcv4-fhfs - DOF: Summary of Neighborhood Sales in Queens for Class 1-, 2- and 3-Family homes - 2007
+cyvg-fsk8 - 2080s Mean Sea Level
+vdbc-pyc9 - 2006 - 2011 NYS Math Test Results By Grade - School Level - By Disability Status
+2eq2-nywg - 2020-2021 Suspension Report NYPD Contacts - All
+mzds-2cdc - 2100s Mean Monthly High Water
+dzvt-6g3v - 311 Interpreter Wait Time
+x4x8-m3ds - Summer Youth Employment Program (SYEP) for NYCHA Residents by Borough- Local Law 163
+2zbg-i8fx - DOF: Cooperative Comparable Rental Income – Staten Island – FY 2011/2012
+5fsv-ze7v - Public Design Commission Annual Report
+wmsu-5muw - 2020 Census Blocks - Tabular
+tyfh-9h2y - DOF: Cooperative Comparable Rental Income – Brooklyn – FY 2009/2010
+yeu7-rqiu - DOE Special Education City Council Report April 1, 2021
+ypbd-r4kg - NYC Independent Budget Office (IBO) Non- Tax Revenues FY 1980 - FY 2020
+i3si-qy6x - NYC School Survey 2014
+6ggx-itps - NYC Independent Budget Office (IBO) Debt Service Since FY 2000
+rn5p-vhac - 2005 - 2011 Graduation Outcomes - Citywide - Gender
+wd9h-xwk5 - Youth Engagement Summary
+2v2r-tx9r - Borough/Community District Report - MA Enrollees
+i5n2-q8ck - Parks Closure Status Due to COVID-19: Comfort Stations
+rkad-22be - Local Law 217 of 2017 Report
+vhtt-kpwy - DCLA Materials For The Arts - Donor Information
+vrn4-2abs - 2008 - 2009 School Progress Report
+22gm-5ceg - Shapefiles of BOA and Community Brownfield Planning Areas
+bqym-t9p9 - 2018-2019 Prelim Average Class Size School - Pupil to Teacher Ratio
+ewmy-2fww - Procurements by Size
+kcrr-myj9 - Pedestrian Zone Shapefile (Tabular)
+ntbr-wib6 - DOF: Summary of Neighborhood Sales for Staten Island for Class 1-, 2- and 3-Family homes - 2009
+qrz6-23fw - 2010 - 2011 Graduation Outcomes - School Level - Regents-based Math/ELA APM - Gender
+si9g-fztb - Street and Highway Capital Reconstruction Projects - Block (Map)
+jqq5-s6en - 2020-2021 School Quality Reports - District 75 Special Education
+xn3r-zk6y - 2020 Community District Tabulation Areas (CDTAs) - Tabular
+u42x-c94z - Demographic Profiles of ACS 5 Year Estimates at the New York City and Borough Level
+fx7a-24mf - Directory of Outdoor Swimming Pools
+wbtw-zkex - Appeals Closed In 2016
+mmnq-4hxa - 2005-2019 Graduation Rates Citywide - ALL
+a5ru-ygsr - 2016 NYC Open Data Plan: FOIL Summary Statistics
+h4jy-7dv7 - DOF: Summary of Neighborhood Sales in the Bronx for Class 1-, 2- and 3-Family homes - 2008
+nahe-je7c - Housing Database by 2020 Census Tract
+rps4-dwwk - Queens Community Board Members
+vr2i-c3qq - Citiwide Service Desk Statistics
+hdu7-ujt4 - DOF: Summary of Neighborhood Sales Citywide for Class 1-, 2- and 3-Family homes - 2007
+2hrw-qfsu - Detention Admissions by Community District
+yhfh-vyns - English Language Arts (ELA) Test Results 2006-2012 - District - All Students
+9qvi-kbpt - April_2021_89C_21-996 New York City School Bus Route Reporting
+ihup-vdhf - Math Test Results 2006-2012 - Borough - Ethnicity
+s6eb-zqd5 - 2019-2020 PSAL Report - (December 2020)
+wrhz-w8mn - 2006 - 2012 English Language Arts (ELA) Test Results- School - All Students
+eyb2-p5s8 - Bus Pad Tracking
+5284-7vfz - Local Law 19 of 1999 Report - Monthly Placements
+vibf-3qrq - Adult Protective Services - Ineligible Referral
+dv8j-yjt9 - 2018-2019 Demographic Snapshot by District
+6ewv-5j4c - 2021 City Council October Attendance
+kpjg-ubxi - Constituent Services - Historical
+eg59-gdqu - 2017 Diversity Report Admissions Methods
+en2c-j6tw - DOF: Condominium Comparable Rental Income – Bronx – FY 2008/2009
+ygpa-z7cr - Housing Maintenance Code Complaints and Problems
+wpqj-3buw - 2009-2012 Historical Daily Attendance By School
+f9xn-fiww - Community Boards Geographic Report
+8ztn-rmii - 2015-2016 School Zones
+cwqt-nvfg - Cancelled Projects
+s3zn-tf7c - DOF: Condominium comparable rental income – Queens - FY 2010/2011
+hphp-39kk - DOHMH and DEP Waterborne Disease Risk Assessment Program Annual Report Data: Cryptosporidiosis by race/ethnicity and age group.
+xqx4-kdvp - 2015-2016 SHSAT Admissions Test Offers By Sending School
+n2s5-fumm - DOF: Condominium Comparable Rental Income – Bronx – FY 2009/2010
+tmha-56pf - Office of Mediation and Conflict Resolution Cases
+uhw3-ky8e - A Foundation Report: Family Violence
+7vy4-ats6 - 2006 - 2012 Math Test Results - Borough - SWD
+3qgi-jrgw - Seating Locations - Map
+7equ-j2vi - State Senate Districts (water areas included)
+nekg-b6tw - Published Audit List
+xxjs-y9yk - Child Abuse Liaisons
+6wve-ubwx - Hi- Caps
+uv67-wxba - DYCD Participant Senate District Breakdowns
+yayv-apxh - 2007 - 2008 School Progress Report
+mebz-ditc - NYC Parks Districts
+hgx4-8ukb - Zoning Application Portal (ZAP) - Project Data
+ud5r-z5ws - School Progress Report
+qnwe-j5my - DOP Eligible Diversion Rate for Juveniles by Calendar Year
+idfb-y78n - Recreational Boating Permits
+xw3c-8982 - 2013 - 2015  NYC Results On The New York State Math Test With Math Regents Included
+24nr-gahi - Five Year Plan Summary by Capital Category
+mnkj-myjb - NYC Parks Events Listing – Event YouTube Links
+2bef-phhy - 2016 - 2017 Computer Science Report
+vzcf-ypyz - 2016-2017 Graduation Outcomes Borough
+7jbq-q7je - WalkNYC Overview BaseMap 2020
+g7ir-4pf8 - LAW Speeches
+8vbp-qzz2 - 2017-2018 Graduation Outcomes Borough
+gk9u-c3tv - DOP Adult Rearrest Rate (Monthly Average)
+weaz-wxw9 - 2006-07 Class Size - By Region
+vqix-8bak - English Language Arts (ELA) Test Results 2006-2012 - District - Ethnicity
+3spy-rjpw - Transportable Classroom Units- Buildings Only
+7a57-qgkz - COVID-19 DOE Active Testing Locations as of Feb 25
+asbw-cwm7 - Model Aircraft Fields
+8fje-7v4x - Demographic Profiles of ACS 5 Year Estimates at the Public Use Microdata Areas (PUMA) Level
+xwxx-rnki - 2006-2009 Historical Daily Attendance By School
+7xjx-2mhj - Added Projects
+dwzs-n5b9 - HRA Facts Rates
+w49k-mmkh - 2006-07 Class Size - Citywide Summary
+43qn-d6r8 - 2017- 2018 Class Size Report City Middle School And High School Core Average Class Size
+jtpv-nuuc - 2019-20 School Quality Guide Elementary Middle School
+d9fr-a56v - 2017-2018 Arts Data Report
+xs6e-ka4w - 3K Projects by School
+s6qk-qkvb - School Bus Route Reporting April2020_21_996 - July 1, - December 31, 2019
+ubv8-6n5w - 2005 - 2011 Graduation Outcomes - Citywide -  Total Cohort
+gyjk-fbss - 2019 -2020 Local Law 174 CTE Report
+wusu-mzmq - CUNY Community College Expenditures By Source
+fupk-24im - 2007 NYC School Survey
+jxmq-5dde - NYC Orthoimagery Tile Index
+r8mb-budb - Parks Inspection Program – Public Restroom Conditions & Hazards
+tzuk-eq2f - Cool It! NYC 2020 - Spray Showers
+rxj2-pb49 - 2020-2021 Local Law 231 Training Data
+fydx-dgvr - Directory of Requests for Telephonic Interpretation
+ujdf-5byz - Funded Capacity Seats and Additional Needs
+u9k7-x2z3 - 2013 - 2018 Demographic Snapshot
+fpfg-qx2w - Financial Plan Statements - Revenue and Obligation Forecast
+f2kq-825w - 2016 Orthoimagery Queens
+snck-inhz - Resident Economic Empowerment and Sustainability (REES) for NYCHA Residents - Borough - Local Law 163
+vve2-26rs - 2006 - 2012 Math Test Results - Citywide - Ethnicity
+xatq-cxeq - New York City Forecasts of Selected Economic Indicators
+rp8m-vm93 - DOF: Summary of Neighborhood Sales in Staten Island for Class 1-, 2- and 3-Family homes - 2008
+7uuj-b95m - 2016-17 Physical Education - Licensed PE Teachers
+pnbs-aynd - 2016-2017 Graduation Outcomes Citywide
+dy3p-ay2d - Office of The Comptroller: Police Retirement System Holdings Data
+ridc-7qqg - NYC Parks Events Listing – Event Links
+k7b3-4y4m - Historical Medallion Drivers – Passenger Assistance Trained 2014-2016
+vyxt-abab - 2009 Campaign Payments
+xip9-pe9k - Government Publications Listing
+uebm-cmjr - Pedestrian Space Added
+2iga-a6mk - Zoning Application Portal (ZAP) - BBL
+hv9n-xgy4 - Parks Signs
+mc8j-n5nw - VZV_Workshops locations
+n55z-cx8y - Single Use Parking Permit- On Street
+95aa-k2ka - Office of The Comptroller: Fire Department Retirement System Holdings Data
+s27g-2w3u - 2013 NYC School Survey
+cwx7-agsh - 2005 - 2017 Quality Review Ratings
+3ups-txji - Small Purchase Report
+ne9b-qgmm - Student COVID Vaccinations (2-22-2022)
+3kx3-7svp - Broadband Adoption and Infrastructure by Congressional District
+yjpx-srhp - Benefits and Programs Multilingual Dataset
+7c8x-xds8 - 2017-2018 School Quality Report - High School
+5zjm-4nny - 2009-2010 NYC High School Directory
+922w-z7da - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Physical Address)
+uxsm-hzx3 - Charter Mandated Quarterly Report on Provisionals
+ysc4-6xvu - Percentage of Households with 0-5 Internet Service Providers (ISPs) in New York City by NTA - Dec 2016
+vgqq-m7ux - 2018 - 2019 Students in Temporary Housing Citywide Report
+ahzi-mykc - NYC Parks Structures Map
+3vvi-fwjs - Tax Liability By AGI Range
+dfv3-jzjw - Pupil Transportation Count of Employees Bus Company - July 1, - December 31, 2021
+ckue-grzy - 2017 - 2018 November2017 Avg Class Size School K8 - Open Data Portal
+hein-emv8 - VZV_Outreach School
+acek-a5z6 - Summer Youth Employment Program (SYEP) for NYCHA Residents by NYCHA development- Local Law 163
+ugc2-6t2g - DOF: Summary of Neighborhood Sales Citywide for Class 1-, 2- and 3-Family homes - 2008
+i4ni-6qin - 2015 - 2016 School Locations
+a2nf-cvfm - 2006 - 2011 NYS Math Test Results By Grade - Boro - All Students
+acxz-h8b8 - 2018-2019 Prelim Average Class Size Borough - MS & HS
+ms66-xjfq - 2003 Campaign Payments
+g2t5-u7v8 - Financial Plan Statements - Revenue
+yj3u-pw36 - Borough Enrollment Centers (Additional Ways To Graduate)
+i8ys-e4pm - 2007-08 Class Size - School-level Detail
+jkiz-wt49 - 2005 - 2011 Graduation Outcomes - Citywide - SWD
+y9si-s7ab - Verified Locations for NYC City-Funded Social Service Contracts - Sites
+dq7m-xn5i - VZV_Hands-On Safety Demos
+8dhd-zvi6 - 2001 Campaign Payments
+8ecp-kw89 - 2014 - 2015 Teacher Survey Data
+4quv-6za7 - Prelim Average Class Size City- K-8TH
+augs-s4dd - Mayor's Office to End Domestic and Gender-Based Violence Annual Fact Sheet 2002-2020
+4epu-t832 - DOP Juvenile Cases Snapshot by Fiscal Year
+xmiz-qy72 - Parks Inspection Program – Public Restroom Feature Ratings
+pffu-gbfi - 2012 - 2015 Historical Daily Attendance By School
+9ddq-vbjj - Five Year Summary By Citywide Category
+sban-vuz2 - NYC Street Tree Map - Stewardship Groups
+9ibi-dfnm - Annual Overweight Load (AOL) Permits Stipulations
+mbym-vp3s - 2005 - 2011 Graduation Outcomes - Citywide - Ethnicity
+efsz-uj8v - Park Closure Notifications
+4kkh-qhtc - Jobs Plus for NYCHA Residents - Local Law 163
+iiu6-juu8 - 2017 - 2018 NYC School Survey Parent Data
+tzwr-vksx - New Capacity Program By Borough
+kuw6-zcm2 - Bus Delays April2020 994 - July 1, - December 31, 2019
+qs5h-jhhg - 2005 - 2011 Graduation Outcomes - Borough - ELL
+hm83-bdp7 - Department for the Aging (NYC Aging) - Senior Center Local Law 140 Client Data - FY 2020
+g5ah-i2sh - Internet Master Plan: Home Broadband and Mobile Broadband Adoption by PUMA
+jign-uhe6 - Arches Organization  Information
+38ib-pjw5 - 2005 - 2011 Graduation Outcomes - Citywide - ELL
+tn5h-i3e8 - 2006 - 2012 English Language Arts (ELA) Test Results - School - Ethnicity
+9b3x-yz6y - 2019 Fall Admission LL1486 Part II
+365g-7jtb - 2013 - 2019 New York State MATH Exam
+6xs6-cz7y - 2019 NYC Open Data Plan: Future Releases
+2jvr-j6ne - Parks Inspection Program – Element Tracking
+s52s-navf - Automations Dashboard
+tyv9-j3ti - Projected Citywide Energy Cost
+8z5h-tzdr - Queens Community Board District Managers and Chairs
+jf8f-zxb7 - April_2021_1173B_21-994 New York City School Bus Delays Report
+m59i-mqex - DOF: Condominium Comparable Rental Income – Queens – FY 2008/2009
+yuzm-c784 - 2006 - 2012 English Language Arts (ELA) Test Results - School - Gender
+ff9v-9yzg - DOP Juvenile Intakes by Fiscal Year
+cmni-fvnx - Restrictive Declaration Sites
+su6u-afcg - Family & Adult Court Contact Information
+ducj-28wv - 2006 - 2012 Math Test Results - District - SWD
+q663-gvx6 - Outcome of Preventive Cases Closed By Borough And CD (CY 2014)
+jzt2-2f7h - 2014-2015 VADIR INCIDENTS
+4fcz-jias - 2019 NYC School Survey - Parents
+2haw-rqv4 - Real Time Passenger Information Sign Locations - Map
+fn8u-htpz - 2020-2021 EMS Transport Full Year - Race, SWD, YOB
+ddpx-u5dz - Appeals Closed In 2017
+k72f-2ytm - DOP Adult Case Closings By Type
+7ree-jtaa - DOP Juvenile Intakes by Calendar Year
+kydh-ijhc - Replacement Projects by school
+qf92-qkjm - DOP Juvenile Violations of Probation Disposed by Calendar Year
+e2gu-mjqa - 2005-2015 Graduation Rates Public School - APM
+8vqd-3345 - 2018-2019 Career and Technical Education Report Law 174
+dbdt-5s7j - Housing Database by Community District
+thxi-frp3 - 2006 - 2012 English Language Arts (ELA) Test Results - School - ELL
+99gz-6gpw - 2017 School Allocation Memorandums
+74ah-8ukf - 2013-2019 Math Test Results School - SWD/Ethnicity/Gender/Economic Status/ELL/Total of All
+cxcv-mgtn - DOP Eligible Diversion Rate for Juveniles by Fiscal Year
+5e7z-xsdf - 2021 City Council June Attendance
+t4re-ksn6 - NYC Parks Sectors
+rrfc-w3w8 - 2021 City Council April Attendance
+hr2s-xdcw - Directory of Public Computer Resource Centers
+vxn4-gvgm - 2021 City Council February Attendance
+k9g3-nkxz - 2019 NYC Open Data Plan: Civic Engagements
+f72e-3i4c - Board of Standards and Appeals (BSA) Action Portal
+4xfc-mzbg - Financial Plan Statements - Capital Cashflow
+biv6-d9zt - 2019 School Food Report LL215
+j3uq-sh95 - New York City Tax Revenue Actuals
+ewg2-2vyd - 2015 2016 Student Discipline Annual Report - RACE
+qt4e-9a97 - Prompt Payment Interest Rates
+y8tr-23bj - Press Releases
+veqt-eu3t - Hazard Mitigation Plan - Mitigation Actions Database
+ftyx-fhnc - Work Progress Program (WPP) for NYCHA Residents - Local Law 163
+59b2-g9ij - Local Law 51 Spring Semester Final
+uwim-9338 - Parks Supervisor Inspections - Inspection Results
+gk83-aa6y - Update to Submitted State Aid Projects
+a5qt-5jpu - DOF: Condominium comparable rental income – Staten Island - FY 2010/2011
+rcz9-btkn - 2019 NYC Open Data Plan: FOIL Datasets
+9rxf-re6u - Public Wi-Fi in Pedestrian Corridors and Public Computer Centers
+qvdv-dru4 - 2017 - 2018 Graduation Outcomes  District
+f5cd-6fbs - 2018-2019 Prelim Average Class Size District - K-8th
+4zdr-zwdi - Pre-K Project Site Location
+84ax-hg3y - Full-Time and FTE Headcount including Covered Organizations
+yiqb-mq9h - Advanced Projects
+xjcm-e5uy - 2006 - 2011 English Language Arts (ELA) Test Results by Grade- Boro - by Race-Ethnicity
+bray-s6dc - OCDV Family Justice Center Foreign Born Report
+sefr-5pmx - DOP Juvenile Case Closings By Type
+k6b6-sdbz - NYC Recovery & Resiliency Projects Map - Lines
+mu2n-2qpd - 2006 - 2011 NYS Math Test Results by Grade - Citywide - by Disability Status
+r4s5-tb2g - DOF: Cooperative Comparable Rental Income – Queens – FY 2010/2011
+6ucq-tfej - 2021 City Council - September Attendance Report
+5gxs-yzxw - 2010 - 2011 Graduation Outcomes - School Level - Classes - Regents-based Math/ELA APM - SWD
+qd93-w582 - 2014-2015 School Closure Discharge Reporting - GPA
+bawj-6bgn - DOF: Condominium comparable rental income – Bronx - FY 2010/2011
+vxms-daea - 2016-2017 Student Discipline Annual Report - RPS TOTALS
+zpd4-gad8 - 2006 - 2011 NYS Math Test Results By Grade - Boro -  Proficiency Status
+emnd-d8ba - 2012 - 2013 School Locations
+j7wr-gf2w - 2006 - 2011 English Language Arts (ELA) Test Results by Grade- Citywide - by Gender
+q937-un2p - 2018 Orthoimagery Brooklyn
+mzy5-smmw - DOP Juvenile Violations of Probation Filed by Fiscal Year
+h2mm-eazk - 2006 - 2011 NYS Math Test Results By Grade - District - By English Proficiency Status
+4kse-vfnd - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - Boro - All Students
+qbce-2kcu - DOF: Cooperative Comparable Rental Income – Bronx – FY 2010/2011
+gi3h-3i8t - DOP Juvenile Violations of Probation Disposed by Fiscal Year
+htkc-b6ea - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - District - by Gender
+rjkp-yttg - 2021 Campaign Contributions
+szq8-b4uy - Housing Database by 2013 City Council
+bbtf-6p3c - Schoolyard to Playgrounds
+h5f7-3btz - Hurricane Sandy Expense and Capital Estimate by Agency
+ft5g-idx8 - School Age Ridership
+4s7y-vm5x - 2010-2011 Class Size - Citywide Distribution
+x4sg-2jca - PE Report
+95bz-ea2t - New York City Pension Expenses
+hv77-qnda - 2006 - 2011 NYS Math Test Results by Grade - Citywide - Proficiency Status
+cz36-mpdq - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - District - by Race-Ethnicity
+tqsy-2s6w - Block Pruning
+72db-huua - 2006 - 2012 English Language Arts (ELA) Test Results - Citywide - ELL
+sk7w-byju - 2017 - 2018 Demographic Snapshot 3- K For All
+gahm-hu5h - DOF: Cooperative Comparable Rental Income – Bronx – FY 2008/2009
+drss-6xix - Mayor's Office to Combat Domestic Violence Annual Fact Sheet 2018-2019
+44t3-dj6x - 2015 - 16 School Safety Report
+f42p-xqaa - DOF: Cooperative Comparable Rental Income – Brooklyn – FY 2010/2011
+rhtj-vttz - 2006 - 2011 NYS Math Test Results By Grade - Boro - By Disability Status
+xrfd-bjik - 2020 Community District Tabulation Areas (CDTAs) - Mapped
+pf9y-ef2p - Citywide Performance Reporting
+axb2-9jkb - 2018 - 2019 Class Size Pupil to Teacher Ratio
+fi59-268w - Capital Projects Database (CPDB) - Projects
+ev6t-jai6 - New York City Domestic Violence Fatality Review Committee Annual Report: 2006 - 2020
+n5e5-z493 - Government-Issued Personal Identification for Youth in Foster Care
+7vk6-9w2d - Internet Service Providers (ISPs) Offering Residential Broadband in New York City - Dec 2016
+3zy2-a8eg - Street and Highway Capital Reconstruction Projects - Intersection (Map)
+i2y3-sx2e - Curb Metal Data
+b37b-brfu - DOF: Cooperative Comparable Rental Income – Staten Island – FY 2010/2011
+y8bm-tzs3 - 2006 - 2012 Math Test Results - School - ELL
+jmr8-fdbz - DOP Adult Early Discharges by Calendar Year
+u4ef-3s9d - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Service)
+sxe3-hucm - Directory of Horseback Riding Trails
+k9j2-dgak - Housing Database by PUMA
+9tg9-e2ph - 2019- 2020 Submission MF LL231 7142020
+vk9f-gvzq - DOP Juvenile Investigations Assigned
+yeba-ynb5 - 2015 2016 Student Discipline Annual Report - D Code
+ieni-am9z - Middle School Zones (2017-2018)
+87y3-sqsx - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - District - by English Proficiency Status
+yahh-6yjc - 2013 - 2014 School Quality Reports
+ijwa-mn2v - Beaches
+n6ej-pebd - Capital Awards
+efiz-8kvg - VZV_Town Hall Meetings
+dfwh-7sqg - 2015-2016 Suspension Report NYPD Contacts - SWD
+bkui-39n8 - Adult Protective Services - Refer to Close
+rfck-7vkq - 2018-2019 Prelim Average Class Size City - MS & HS
+p3r6-jdne - 2016-2017 Monthly Attendance
+f9uc-f34g - Leaf Drop-Off Locations in NYC (Map)
+dte3-kvx7 - Adopted Highway Service Ratings (Adopt-a-Highway/Highway Cleanliness)
+cgwq-3ie6 - Broadband Adoption and Infrastructure by Council District
+qsh3-jj2w - Housing Database by 2020 Census Tract (Map)
+797j-9xvg - NYC Historical Vital Records: Index to Digitized Death Certificates
+mgfw-iixs - 18th Annual Report of the Commission
+6kks-jijx - Local Law 14 Health Data - HS School
+4e8h-wu86 - DOP Adult Early Discharges by Fiscal Year
+9mjx-v8ip - 2005 Campaign Payments
+34zp-q667 - 2021 - 2022 Class Size Distribution Citywide
+d84z-5kap - LAW Published Columns
+g4tm-nibn - 2017-18 Financial Services for NYCHA Residents - Local Law 163
+49kg-8sce - 2006 - 2012 English Language Arts (ELA) Test Results - District - Gender
+tybm-5xnx - 2016-2017 Arts Report
+9dtd-h5vj - 2010 - 2011 School Zones
+5ivh-r5ct - Housing Database Project Level Files (Map)
+xni9-ncns - 2018-2019 Diversity Report - Pre-Kindergarten, K-8 & Grades 9-12 District, Schools, Special Programs, Diversity Efforts, Admissions Methods
+9bjg-n96a - Broadband Adoption and Infrastructure by State Senate District
+x48i-xnrz - Preventive Services Utilization Report LL 11
+qnpk-nwm4 - School Bus Routing Report October_2021_89C_21-996
+ykx2-pdw8 - DOF: Cooperative Comparable Rental Income – Queens – FY 2009/2010
+vn2t-jh2b - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - Boro - by English Proficiency Status
+dacy-bab9 - 2021 - 2022 Average Class Size by District
+vck7-ujai - State of Good Repair Needs
+iuvu-z276 - 2015-16 Guidance Counselor Reporting - Demographic Data
+vvym-pu7g - DOP Adult Investigations by Fiscal Year
+9jkp-n57r - Capital Projects Database (CPDB) - Projects (Polygons)
+sibt-hnvk - 2006 - 2011 NYS Math Test Results By Grade- School Level - By English Proficiency Status
+cs9m-cz6f - 2006 - 2012 English Language Arts (ELA) Test Results - Citywide - Gender
+97iw-vtbx - DOF: Cooperative Comparable Rental Income – Staten Island – FY 2008/2009
+acdt-2zt9 - 2021 Open Data Plan: Future Releases
+mjux-q9d4 - 2011-2012 School Progress Report - All Schools
+w99a-xtai - Fall 2020 Admissions Report LL1486-A Part II
+hvdr-xc2s - 2013 - 2019 New York State ELA Exam
+fve3-eee8 - DOP Adult Violations of Probation Filed by Fiscal Year
+dtfq-bfpc - 2006 - 2011 NYS Math Test Results By Grade - Boro - By Gender
+ftpm-ey3k - 2015 2016  EMS Transport Final Students With Disabilities
+m6ag-gfcb - 2021 - 2022 Class Size Distribution by Borough
+vmkw-p55f - Parks Concession Transactions
+hphr-4k9z - Student Covid Vaccinations (3/18/22)
+fhs8-jstc - 2016 Orthoimagery Bronx
+fdgu-y9iy - Expense Budget--Miscellaneous Expense by Category
+wha7-46h5 - DOP Juvenile Case Closings By Reason
+f9a8-4jby - 2017 Diversity Report - Diversity Efforts
+xdqu-utzq - DOP Juvenile Supervision Intakes by Fiscal Year
+2h3w-9uj9 - 2014-15 - 2018-19 NYC Regents Exam - Public
+pf3n-zn2m - DYCD-funded Program Sites - Geocoded Data
+3mji-gpg5 - DOP Juvenile Investigations by Fiscal Year
+8gr8-ngjc - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Service At Location)
+uzg5-56gw - 2015 Child Health, Emotional Wellness, and Development Survey (CHEWDS)
+tmr6-dfvn - 2017 Public Data File Teacher
+d9fi-geci - 2017 - 2018 Diversity Report Admission Methods
+83z6-smyr - Capital Grant Awards 2016
+d7pv-3qwq - New York City Settlement Payments
+siju-6isf - 2006 - 2012 Math Test Results - District - ELL
+yunp-vs8g - 2019 Volunteers Count Report - Boroughs
+g8e6-y4ax - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - School level - by Race-Ethnicity
+arzb-yfdv - 2015-2016 Physical Education - PE Instruction - District Level
+cyfw-hfqk - DOF: Condominium Comparable Rental Income – Staten Island – FY 2008/2009
+xs9p-92b3 - 2018-2019 Prelim Average Class Size District - MS & HS
+wv4q-e75v - DOF: Condominium Comparable Rental Income –Staten Island – FY 2009/2010
+mpg8-b8s5 - Class Size Reduction Projects
+dmue-3nqk - NYC Street Tree Map - Tree Edit Suggestions
+g6v2-wcvk - 2017-2018 School Quality Reports - Elem, Middle & K-8
+uh2w-zjsn - 2018-2019 Demographic Snapshot by Borough
+45sb-srb5 - Forestry Tasks
+2c9f-2ta9 - Financial Services for NYCHA Residents by Borough - Local Law 163
+29fb-fum8 - Appeals Closed In 2019
+uzmq-2khh - 2019 NYC School Survey - Teachers
+8pnf-vysd - 2018 NYC Open Data Plan: Removed Datasets
+s67q-ee5u - Intimate Partner Elder Abuse in New York City
+fb6n-h22r - 2016 Public Data File Student
+b57i-ri22 - Staten Island Ferry Schedule-General Transit Feed Specification (GTFS)
+wcg2-rbkn - Watershed Water Quality - Keypoint
+e7es-jx5j - 2021 DOE Kindergarten Admissions Guide
+29ry-u5bf - 2017 Diversity Report K-8 - School
+hnf2-ds4u - 2005 - 2011 Graduation Outcomes - Borough - Classes of - SWD
+dc95-rgxd - Golf Courses
+7cvf-8q87 - 2018 - 2019 Gender and Sexuality Report
+nzih-r6xb - Procurement By Method
+9sfa-4geq - DOF: Cooperative Comparable Rental Income – Staten Island – FY 2009/2010
+utrx-wxe8 - Appeals Filed In 2019
+2a67-6eaq - Local Law 51 Fall Semester Final
+yv4m-nu6d - 3K Projects by Site Locations
+bia8-jpx6 - Open Storefronts Applications (Map)
+5yiz-8xar - 2019-2020 Co-Location Reporting
+k66c-pzws - Walk to a Park Service Area for CEQR Open Space Assessment
+38ik-3hib - 2016 NYC School Survey
+7ppc-iii7 - DEP Demand Management Projects
+36qa-cicj - News Coverage of Intimate Partner Homicides in New York City (2013-16)
+w5ew-m3sm - BOA and Community Brownfield Planning Areas - Designated BOAs
+pvwn-aqw2 - Prelim Percentage Class Size District - MS & HS
+vrku-2kif - 2008 - 2012 Historical Monthly Grade Level Attendance By School
+mtt6-ywt4 - Swim for Life
+e6t3-7z92 - 2016-2017 Student Discipline Annual Report - Students In Temporary Housing
+ctpn-f4h4 - District Resource Statement - CA Population
+izav-3bhy - 2017 - 2018 November2017 Avg Class Size School MSHS - Open Data Portal
+2emc-na4n - 2016-17 Physical Education - PE Instruction - School Level
+ww83-bcks - M/WBE Upcoming Procurements
+fxs2-faah - 2014 - 2015 School Locations
+zs4w-c9cd - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - School level - by Disability Status
+fc69-ufed - Parks Permit Areas Map
+nwet-nc6h - Tax Credits By Agi Range
+je36-bj3z - 2018-2019 Prelim Percentage Class Size City - MS & HS
+49mj-4gmb - NYC Planimetrics Historic (2004)
+su44-8gcn - 2001- 2013 Graduation Outcomes District- ALL STUDENTS,SWD,GENDER,ELL,ETHNICITY,EVER ELL
+qy3b-p2ms - 2017-2018 School Quality Report - District 75 Schools
+ix3t-6s7r - SY2021 Local Law 60 Annual Report
+6v28-b75u - Pupil Transportation Report April2020_21_995 - July 1, - December 31, 2019
+gu76-8i7h - 2013-2019 English Language Arts (ELA) Test Results School - SWD/Ethnicity/Gender/Economic Status/ELL
+vfk9-3uwk - 2006 - 2012 English Language Arts (ELA) Test Results - Borough - SWD
+8gg9-r4mt - 2018 - 2019  Average Class Size Report School K-8
+jtus-srrj - 2019 Public Data File - Parents
+ce3f-jkdg - 2011 - 2012 YABC Progress Report
+yz7z-iupz - 2006 - 2011 NYS Math Test Results By Grade - District - By Gender
+j39j-zq32 - 2016-17 Co-Location Reporting
+k2ic-km9j - 2005-2015 Graduation Rates Public - Borough
+3y4p-uusw - Watershed Water Quality - Limnology
+ecvp-uumu - Appeals Filed In 2015
+vtjm-ngnu - Outdoor Learning - Streets Locations (Historical)
+xkzc-675v - 2009 - 2010 School Zones
+pzt3-tne9 - 2013-2017 Charter School Math Results - All
+mc73-t4fs - 2020-2021 Demographic Snapshot District
+c72z-kzbi - 2006 - 2011 English Language Arts (ELA) Test Results by Grade- School level - by Gender
+7ynj-zrfs - 2018-2019 Prelim Percentage Class Size City - K-8TH
+twim-r7xp - Franchise and Concession Review Committee
+tbvj-mbps - 2006 - 2012 English Language Arts (ELA) Test Results - District - ELL
+xx92-6788 - 2013-2017 School Math Results - Ethnic
+9yid-w4y8 - Parks Inspection Program – Construction Information
+w6sr-ei44 - Automated External Defibrillator (AED) Inventory
+dapf-z62e - 2011 - 2012 School Zones
+7ztv-6rwb - 2018-2019 Prelim Average Class Size Borough - K-8TH
+curu-ytnp - 2015 - 2016 Students with Multiple Removals or Suspensions
+bj76-nbjg - 2008 NYC School Survey - - District 75
+752y-qk8b - NYC Parks Daily Tasks Cleaning Routes, Fiscal Year 2016
+xkzb-irtw - 2008 Public Data File Gen Ed
+x2qe-hcwt - Heat & Hot Water Violations by Status
+qiwn-t99b - Annual Procurement Indicator Report FY15
+bd8j-m46a - Debt Affordability Statement Schedules
+g6b7-t4s8 - 2021 - 2022 Average Class Size by Borough
+tre2-h8i2 - 2015-2016 Suspension Report NYPD Contacts - Race
+xk6g-r83g - FY2017 MMR Agency Services and Goals
+7k5d-rk33 - 2013-2017 School Math Results - SWD
+rek2-fjft - 2011-2012 NYC High School directory
+qcqw-kzj6 - NYC Benefits Screening API
+a6kg-wufg - Verified Locations for NYC City-Funded Social Service Contracts (Taxomony)
+dja4-zgtf - NYC Planimetrics Historic (2008)
+5atx-ibtu - April_2021_929B_21-995 New York City Office of Pupil Transportation Investigations Reporting
+6r8r-c474 - DOP Juvenile Supervision Passthrough by Calendar Year
+4fsz-s7id - DOP Adult Supervision Intakes by Fiscal Year
+6pv9-jmn5 - NYC Covered Building's List (2018)
+rq2f-42ua - 2006 - 2012 English Language Arts (ELA) Test Results - District - SWD
+ky6q-fvpr - 2018 - 2019 Students in Temporary Housing Additional Sections Report
+pcgw-s47c - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - Citywide - by Disability Status
+7wse-xesc - October_2020_21-996_Appendix New York City School Bus Route Reporting
+c4dx-tk4d - Historical Medallion Drivers – Passenger Assistance Trained 2017
+cvys-e4b6 - Highway Travel Permit- Annual
+tgqn-na2n - DOP Juvenile Supervision Intakes by Calendar Year
+8jzu-ady5 - 2019-20 Demograhic Snapshot - District
+usrf-za7k - Good Food Purchasing Data
+vza7-n6vi - 2006 - 2011 NYS Math Test Results By Grade - District - By Disability Status
+p5w7-g72z - 2006 - 2012 English Language Arts (ELA) Test Results - Citywide - Ethnicity
+xcwf-nw6v - 2020-2021 School Quality Reports - High School Transfer
+xprg-trsi - Quarterly Bond Update: Variable Bond Outstanding
+c6ph-pcpz - School Bus Delays Report October_2021_1173B_21-994
+s8x5-ashy - NYC DOT Pedestrian Plazas (Point Feature)
+7ii8-ytj7 - Beaches
+3av7-txd8 - DOP Adult Supervision Passthrough by Calendar Year
+qjvp-rnsx - Avenue NYC CFY17-CFY19
+4vdj-5ima - HRA Facts Case Value
+89di-hi4s - 2006 - 2012 English Language Arts (ELA) Test Results - Citywide - All Students
+65js-fhgz - DOP Juvenile Cases Snapshot by Calendar Year
+8dxm-n5ha - DOP Adult Cases Snapshot by Fiscal Year
+k5ws-xbkn - 2006 - 2012 English Language Arts (ELA) Test Results - Borough - All Students
+9ev8-8rz6 - DOP Adult Supervision Passthrough by Fiscal Year
+y3ea-en4q - Manhattan Community Award Program (MCAP) (2007-2017)
+npe5-sakb - Palantir Contract List (January 2011 to June 2017)
+bzs3-dh33 - Prelim Percentage Class Size District - K-8TH
+as9z-kwsh - Street Network Changes
+f3u3-q8ea - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - School level - by English Proficiency Status
+5ghg-dyn6 - Midday Trips
+bcsx-ch6m - Canine Waste Dispensers Map
+r2np-vamf - Performance Metrics for Workforce Development Programs
+c3ya-2ywy - 2015-16 Demographic Data - Pre- Kindergarten
+m64b-i6yz - 2018 Kindergarten Directory - Bronx
+h65x-gk9r - Resident Economic Empowerment and Sustainability (REES) for NYCHA Residents – Council District - Local Law 163
+hdpu-mku8 - 2014 - 2015 Parent School Survey Data
+q6p2-9srw - 2015-16 Multiple Removals - Race
+a6zp-tcs3 - FY 2017 PMMR Data Extract
+2234-9r2y - Hurricane Inundation by Evacuation Zone (Map)
+rycv-p85i - NYPD Neighborhood Coordination Officer (NCO) Directory
+8v7s-b663 - 2016 - 2017 School Based Expenditure Report
+dcjb-es8v - Headcount Actuals By Funding Source
+c5bg-9tzm - October_2020_21-993-Appendix Students Assigned to General Education Stop-to-School Routes by Vendor
+vpeq-ndkd - 9/11 Authorized Bus Parking Permit
+8as3-nzhd - 2018-2019 Prelim Percentage Class Size Borough - K-8TH
+h3zm-ta5h - 2006 - 2012 English Language Arts (ELA) Test Results - Borough - ELL
+cpqj-5zux - 2021_Prelim_Avg_ClassSize_District
+u42g-qjaj - Additional Costs Allocation
+mrnf-ezdm - 2011-2012 High School Progress Report
+dbs9-fgqs - 2015-16 Demographic Data - Admissions Methods
+nhtw-fjuj - Financial Plan Statements - Personal Service Expenditures
+j2sr-pm3b - 2006 - 2011 NYS Math Test Results by Grade - Citywide - All Students
+7dfh-3irt - 2015 For Hire Vehicle Trip Data
+4nxh-niuc - 2017 - 2018 Young Adult Borough Centers
+gqzy-vhwd - Brooklyn Borough President Meeting Requests
+ut65-is4f - Recovery Data Partnership (RDP) Data Partners
+m8qf-ycd5 - Housing Database by Community District (Map)
+m3tj-a2pb - 2021 Financial Analysis
+v575-87iz - 2014-15 Graduation Outcomes - Total
+9vgx-wa3i - 2013-2017 School Math Results - Economic
+t9iz-i583 - Over Dimensional Vehicle Permits (ODVP) - Permit Stipulations
+mvn6-575n - 2020 - 2021 Remote Learning Legislation Device Request
+25aa-q86c - 2015-16 Demographic Data - Grades K-8 School
+b9a3-rexv - 2021 City Council March Attendance
+h59m-jnyu - Contract Budget by Category
+cwg5-cqkm - DOF: Cooperative Comparable Rental Income – Queens – FY 2008/2009
+gnyq-kf2y - Permitted Nonpotable Wells
+wpnz-dpup - Total City, Transit and Housing Police Force Headcount
+g62n-cz6a - Annual Report on Family Justice Center Client Satisfaction Surveys
+h2ic-zdws - Capital Projects Database (CPDB) - Projects (Points)
+96te-xmyw - Three-Quarter Housing Report – Violations
+yfb6-h9dc - 2022 Open Data Plan: Website Data
+2x8v-d8nh - 2015-16 Student Discipline Annual Report - RACE
+viin-czfn - 2013-2019 Attendance Results - Borough
+hjjq-k984 - Financial Plan Statements - Obligation
+28et-rv7b - New York City Municipal Archives Data Collection: Digital Objects
+w9if-3pyn - 2016 Public Data File Teacher
+n2rw-tynt - 2017- 2018 Class Size Report District Middle And High School Class Size Distribution
+78sn-deuh - 2019 NYC Open Data Plan: FOIL Summary Statistics
+27h8-t3wt - 2013-2017 District Math Results - All
+mu2i-6maq - 2022 Open Data Plan: FOIL Datasets
+asdj-rj9b - CPAs
+qw7r-btyb - Report to City Council on Use of Psychiatric Medication for Youth in Foster Care
+s5q4-7ezf - 2006 - 2012 English Language Arts (ELA) Test Results - Borough - Ethnicity
+mi8r-ff2q - 2013-2017 ELA Test Results by Grade - Borough - All
+9wej-2kjy - 2018-2019 School Zones (Elementary)
+ny8v-zzzb - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - Boro - by Gender
+4ks2-3rz5 - 2013-2014 NYC High School Directory
+c3kh-heyp - Street Travel Permit
+r9z2-6j3f - 2018 - 2019 Career Technical Education Report
+az65-9z36 - DOP Adult Supervision Intakes by Calendar Year
+d68p-5js9 - 2006 - 2012 English Language Arts (ELA) Test Results - Charter Schools
+52b4-grs5 - 2014 - 2015 Student School Survey Data
+kpnf-sajf - New York City Quarterly Economic Update
+bv2b-gx8u - Sanitation Salvage Truck Violations
+jege-pgbz - NYC Business Solutions for NYCHA Residents by Borough - Local Law 163
+6yc2-gsz6 - 2013-2019 Attendance Results - District
+suzc-ps6g - 2018-2019 3K For All Demographic Snapshot
+4ynn-w9fk - 2015-16 Multiple Removals - SWD
+5c5x-3qz9 - 2006 - 2012 Math Test Results - Borough - ELL
+gnum-kz6r - 2017-2018 Computer Science Report LL177
+t7k8-wj6b - Hazard Mitigation Plan – Mitigation Actions Database (points)
+6dx8-h7s4 - 2010-2011 NYC High School Directory
+wag2-kf63 - Parks Supervisor Inspections - Feature Findings
+87hk-978a - 2015 2016 EMS Transports Final 6 Months
+h424-4zbv - 2015–2016 Report on Special Education
+ngbi-cq85 - 2006 - 2012 Math Test Results - Citywide - ELL
+s7k9-vr5b - Fiscal 2013 Appendices
+hcf7-jp2y - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - Boro - by Disability Status
+3dnj-u3x8 - Internet Service Providers (ISPs) Offering Commercial Broadband in New York City - Dec 2016
+bwhw-9jek - Verified Locations for NYC City-Funded Social Service Contracts FY2018 (Service Taxomony)
+9caw-yxsv - October_2020_21-994_Appendix Delays Reported by School Bus Company Resulting in Failure to Arrive at School
+hukm-2fri - 2021 City Council May Attendance
+cse5-enmd - Lower Density Growth Management Areas (Map)
+v55h-aeac - 2012 NYC District 75 Schools Survey
+egyb-4bz2 - 2020 Open Data Plan: FOIL Datasets
+5gq7-rgmv - NYC Historical Vital Records: Index to Digitized Birth Certificates
+apb4-ekij - 2005-2019 Graduation Rates District - All
+vrs9-g7kz - 2017 Diversity Report Pre-Kindergarten
+xqea-6ihi - 2018 - 2019 Co-Location Report
+3zh4-7hgk - Universal Solicitation of Broadband Target Neighborhoods (Map)
+qs4p-vs2w - Roadbed Pointer List (RPL)
+udss-6pus - 2017 Public Data File Student
+aqs7-v55z - Donations Received by City Agencies
+gxnb-ej7b - 2021 -2022 Average Class Size City
+it9k-rtx5 - Appeals Closed In 2015
+3f5y-5web - DOP Juvenile Supervision Passthrough by Fiscal Year
+e9xc-u3ds - 2017 Campaign Expenditures
+mju7-rqph - Heroes of the Month
+dtmw-avzj - Capacity Projects in Process Site Locations
+rmsj-k8gu - Watershed Water Quality - Wastewater Qualifiers
+dfr8-nudu - NYC Quarterly Bond Update: Debt Service by Fiscal Year
+69n5-r375 - 2015 - 2016 Arts Report
+ubuy-v2nw - Discretionary Contract Awards 2017-2018
+p5md-weyf - Hurricane Evacuation Centers
+5psr-sp96 - 2017 - 2018 Graduation Outcomes Citywide
+hdie-5bdv - Debt Burden
+xaa3-fatk - Verified Locations for NYC City-Funded Social Service Contracts (Address Verification)
+4utb-pisg - Capital Plan Funding Source
+sg72-pis5 - IBO Federal Stimulus Budget and Spending Tracker (ARPA and CRRSAA)
+74wj-s5ij - 2010 Yellow Taxi Trip Data
+f9wb-g8mb - NYC Cooling Tower System Inspection Results
+ynqa-y42e - 2005-2019 Graduation Rates Borough - All
+29bv-qqsy - 2015 2016 Student Discipline Annual Report - GRADE LEVEL
+44f4-mjxy - DVS Client Requests Received and Processed (Fiscal Year)
+rc2t-8fid - High School Equivalency (HSE) Diplomas Awarded to NYCHA Residents by Borough – Local Law 163
+d334-62hi - NYC Quarterly Bond Update: General Obligation, DASNY, and the NYCMW Rate Exchange Agreements
+r354-7m36 - 2021_Prelim_Distribution_ClassSize_District
+davn-rbxj - Veteran Peer Coordinator (VPC) Program Moves
+h6af-x63h - Outdoor Aquatics Programming
+ug3g-mdky - 2021 Open Data Plan: Website Data
+tukx-dsca - 2016-2017 School Quality Reports Results - Pre-K Programs
+kquf-ewd9 - 2015-2016 Demographic Data - Admissions Methods
+4wgu-f3yf - 2018 - 2019 Class Size Pct District MSHS
+9cz6-8qpz - 2013-2014 School Quality Reports Results For Elementary, Middle and K-8 Schools
+shus-qn78 - Watershed Water Quality - Hydrology Qualifiers
+dint-nfj5 - 2018 Orthoimagery Queens
+gnpd-qabs - 2004 Ortho Tile Index
+nr9n-yqxr - BP Appointments
+h28n-r45y - 2021_Prelim_Avg_ClassSize_City
+3t6s-yb67 - Verified Locations for NYC City-Funded Social Service Contracts - Programs
+mpw3-7xyh - Adult Protective Services - Refer to Close by Referral Source
+6wp7-y8uw - NYC Parks Sectors Map
+mwzy-r7b3 - Exclusive Pedestrian Signal (Barnes Dance) Locations - Map
+w5y2-8cs3 - 2006 - 2012 English Language Arts (ELA) Test Results - Borough - Gender
+cvse-perd - 2018 NYC Open Data Plan: FOIL Summary Statistics
+p2vv-pesb - Services for NYCHA Residents Local Law 163
+vrar-mb2u - October_2020_21-995_Appendix New York City Office of Pupil Transportation Investigations Reporting
+2qqs-crk2 - Universal Solicitation of Broadband Target Neighborhoods
+hpku-qnwm - 2001- 2013 Graduation Outcomes Citywide- ALL STUDENTS,SWD,GENDER,ELL,ETHNICITY,EVER ELL
+9e4i-rd56 - 2006 Ortho Tile Index
+sjy3-nf9e - 2014 Orthoimagery Queens - 1 of 2
+x882-mwt5 - Verified Locations for NYC City-Funded Social Service Contracts - Providers
+nrik-v7ws - Expense Actuals By Funding Source
+uhvm-6sct - Report to City Council on Demographics of Children and Parents at Steps in the Child Welfare System
+5zry-xenh - Pre-qualified Lists (PQLs)
+2ic6-4hrf - 2017-2018 SCHOOL LEVEL CLASS SIZE REPORT
+ex44-ct2x - 2017-2018 School Quality Report - Pre-K Programs
+cfnc-xfjw - 2013-2015 ELA Results - All
+nvm3-w2i6 - 2016 School Allocation Memorandum ( SAM)
+5jwd-xj5z - Preferred Source Procurements FY15
+uwmn-v7un - Golf Courses
+szn6-bbuk - 2017 - 2018 November2017 Avg Class Size School PTR - Open Data Portal
+3fes-huds - BP Assist Helpline Requests
+73rz-5b7x - Summer Youth Employment Program (SYEP) for NYCHA Residents by Council District - Local Law 163
+cpqg-u87g - 2018-2019 School Zones (High School)
+b3eu-nmy6 - Local Law 85 – Visitation Quarterly
+j62e-7maa - NYC Historical Vital Records: Index to Digitized Marriage Certificates
+pknx-dgka - 2015-16 Class Size Report - K To 8 Average
+fxdy-sbkv - 2022 Open Data Plan: Future Releases
+js7p-g9f6 - CDBG-DR Program Categories
+mcti-yg8i - MOIA In-person Interpretation Service Requests
+yjsf-89ae - 2006 - 2011  English Language Arts (ELA) Test Results by Grade - Citywide - by English Proficiency Status
+i6xf-7bqx - 2021_Prelim_Distribution_ClassSize_City
+c4vk-jvzy - 2015-2016 Arts Survey Data
+hjvj-jfc9 - NYC Business Solutions for NYCHA Residents by NYCHA Development - Local Law 163
+tcj7-bhry - 2020 DOE Gifted and Talented Admissions Guide
+3kav-a6u5 - 2013-2017 Charter School ELA Results - All
+9f5n-qdib - Evaluation and Monitoring Reports for Program Sites
+a5ez-s27s - Housing Database by PUMA (Map)
+3xsw-bpuy - 2013-2019 Math Test Results Charter - School
+e4ss-s2zn - 2017 NYC Open Data Plan: FOIL Summary Statistics
+dpfn-5ihn - Parks Syringe Disposal Kiosks Map
+uf8p-ervp - Legislation
+5hsa-dfq5 - Pre-Qualified List
+dk6a-w7f6 - Parks Inspection Program - All Sites (MAPPED) Map
+budf-qanm - 2014-2015 Arts Survey Data
+bzri-pz9j - 2010 Orthoimagery Queens - 1 of 2
+q7f5-jwds - BP Appointments - Brooklyn Public Library (BPL) Board
+nmzg-6q5g - Building Elevation and Subgrade (BES) - Map
+exez-mxv4 - Projection of Cash Source and Use
+f33j-ecpr - 2016 - 2017 Arts Survey data
+6ynm-g82n - A Foundation Report: Stalking
+iw4r-p85g - Expense Budget-Debt Service Agency OTPS Detail
+k84j-firu - Capital Grant Awards 2017
+yf4t-7qtx - 2021_Prelim_Distribution_ClassSize_Borough
+77u7-ptbn - 2014 - 2015 Demograpic Snapshot
+thjb-fm53 - 2015 2016 EMS Transports Final Student Race
+d72n-ivax - 2006 - 2012 English Language Arts (ELA) Test Results - Citywide - SWD
+gxhb-59kq - Temporary Parking Permit for People with Disabilities- On Street
+bgb4-7zjj - 2019 NYC Open Data Plan: Removed Datasets
+mz5e-yub2 - 2015 - 2016 School Quality Report Results for High School
+dw8c-pxy2 - 2012 - 2013 High School Progress Report
+myrx-addi - 2017 Diversity Report 9-12 - School
+smka-gz6w - 2020-2021 Demographic Snapshot Citywide
+qnv7-p7a2 - NYC Parks Drinking Fountains
+6ayi-8khd - Pre-Complaint Resolutions
+vxxs-iyt2 - 2015-16 Guidance Counselor Reporting - Social Worker Data
+ma5g-2458 - 2015-16 Student Discipline Annual Report - Students In Temporary Housing
+eqhe-kbrh - 2013-2019 Attendance Results - Citywide
+g9wv-7n2m - 2016-17 Physical Education - MTI All- Star Schools
+2bvn-ky2h - Verified Locations for NYC City-Funded Social Service Contracts - Contracts
+7vx2-ffkw - WalkNYC Focus BaseMap 2020
+ebu5-jrfz - 2017-2018 Health Data Report - HIV/AIDS Lessons
+wks3-66bn - 2011-2012 VADIR INCIDENTS
+g2j4-eudg - 2017-2018 Health Data Report - High School
+hywf-9b6t - NYC Clean Soil Bank Generating and Receiving Sites
+5sbz-5u89 - 2021 Open Data Plan: Completed Civic Engagements
+ckva-rq3b - 2021 Open Data Plan: FOIL Datasets
+pra5-xxvj - 2014-15 Graduation Outcomes - Gender
+u4hi-kt3x - 2010 Gen Ed Survey Data
+g4ux-eh4t - 2005-2015 Graduation Rates Public - Citywide
+5e7x-8jy6 - 2017 Public Data File Parents
+5brf-q9de - 2015-16 Guidance Counselor Reporting - Guidance Counselor Data
+u2m4-wh3s - Local Law 1 City Council Report FY 2015
+wxmz-2gii - ENDGBV In Focus: Survey Findings from the New York City Healthy Relationship Training Academy - Differences by Participant Age and Gender
+vquv-pjuh - 2020-2021 Demographic Snapshot Borough
+k63t-h76x - 2014-15 Graduation Outcomes - Ethnicity
+54rr-tdmz - 2016-2017 Student Discipline Annual Report - IEP
+qxzj-vkn2 - 2021 Campaign Expenditure
+a44d-m6ak - 2020 Open Data Plan: Completed Civic Engagements
+km68-5z64 - 2015-2016 Physical Education - PE Space - Borough Level
+p2q7-at72 - Environmentally Preferable Purchasing FY15 - Construction
+xdzg-dnpg - Asset Management Executive Summary - Agency Assets by Project Type and Class
+mmut-uup9 - Category Master File
+5x3g-g8de - 2017-2018 Students with Multiple Removals or Suspensions - RACE
+8sea-35e7 - Asset Management Executive Summary - State of Good Repair Needs (Expense)
+smui-k6ms - Local Law 51 - DL Final
+48dt-mn3z - Housing Database by 2020 CDTA
+uchs-jqh4 - 2015-16 Class Size Report - Pupil To Teacher Ratio
+9h97-fe3u - Cable Complaints
+hyht-buiu - 2017 -2018 Diversity Report 9 - 12 School
+hpzm-w4pt - 2016 - 2017 School Quality Report Results for Early Childhood
+6gre-fvg9 - 2013-2017 District Math Results - Gender
+8ufi-zgz6 - 2015-2016 Suspension Report NYPD Contacts - STH
+xirx-msjc - NYC Covered Building's List (2017)
+huq7-iui5 - 2015-16 Student Discipline Annual Report - IEP
+2wjv-he7c - 2020 Open Data Plan: Future Releases
+u3t3-74n4 - Outdoor Learning - Streets Locations Map (Historical)
+8xub-9477 - 2001-2017 Financial Analysis
+qves-4x9c - Highway Travel Permit- Single Use
+b9e9-2we4 - 2006 - 2011 English Language Arts (ELA) Test Results by Grade - District - by Disability Status
+fsmu-8tsy - 2015-2016 Suspension Report NYPD Contacts - Grade Level
+rh3d-kgz3 - The Five-System Asset Allocation Chart
+jvnx-z9de - 2010 Orthoimagery Brooklyn - 1 of 2
+vpdq-ktpr - 2013-2017 Borough Math Results - Economic
+szgz-ysuz - 2017 - 2018 School Quality Report - High School Transfer
+n6cw-dbdc - 2018-2019 School Zones (Middle School)
+ipsj-8mer - 2013-2017 Citywide Math Results - All
+hafw-ruje - 2015-2016 Suspension Report NYPD Contacts - Date Of Birth
+p5v2-fwzn - 2016-17 Physical Education - PE Instruction - Borough Level
+b84a-xy2t - Multi Agency Response to Community Hotspot (MARCH) Inspections
+bk7g-bhsz - New York City Municipal Archives Data Collection: Resources and Instances List
+76hw-72td - NYCgov Poverty Measure Data (2017)
+3u5q-ae5y - Community Development Block Grant (CDBG) Eligibility by Census Tract - FGDB
+ybdk-jmnn - NYC Veteran Owned Businesses
+2vha-97jm - 2016-17 Physical Education - PE Instruction - District Level
+yg8h-c8c7 - 2016 - 2017 Career Technical Education Report
+jkyj-m87c - 2017-2018 Class Size Report City K-8 Class Size Distribution
+m8nr-4ivu - 2013-2017 School ELA Results - Gender
+39qw-754y - Constituent Services
+atne-2dki - Supervised Release Dockets
+rghe-gkg2 - Annual Report on Outreach to and Training of Cosmetologists (Historical)
+vfdq-dvkf - 2013-2017 District Math Results - Economic
+38pn-tyf4 - CDBG-DR Reimbursements Over Time
+6e44-8i2s - 2009-2010 VADIR INCIDENTS
+x2sd-f2zp - 2020 Open Data Plan: Website Data
+w38c-pyzq - Police- Community Relations Awards 2016
+kivi-tmb3 - 2015-2016 Demographic Data - Grades 9-12 School
+imfa-v5pv - 2012-2013 VADIR INCIDENTS
+pjwi-qd2x - Broadband Adoption and Infrastructure by State Assembly District
+22rr-ujq3 - 2016-2017 Student Discipline Annual Report - ELL
+bbg6-wf44 - 2015-16 Student Discipline Annual Report - GENDER
+5mxw-kxpt - BP Appointments - Community Education Councils (CECs)
+cznr-hmrv - 2010-2011 VADIR INCIDENTS
+56t2-bzsy - 19th Annual Report of the Commission
+qem4-8xtj - 2015-16 Multiple Removals - Year of Birth
+kkng-ugna - 2019-20 School Quality Guide Early Childhood
+naib-xtez - 2017-2018 Student Discipline Annual Report - D Code
+i6ds-scnc - High School Equivalency (HSE) Diplomas Awarded to NYCHA Residents by Council District – Local Law 163
+qa4d-xc73 - 2015-16 Local Law 15 Health Data - Licensed Health Instructors
+7uw4-q8dg - Pseudo Lots (Map)
+869v-vr48 - Parking Violations Issued - Fiscal Year 2023
+dcpj-gxjy - 2017- 2018 Class Size Report City Middle And High School Class Size Distribution
+p7kk-jjry - Parks Signs Map
+vk6p-jwjf - Financial Services for NYCHA Residents by Council District - Local Law 163
+562y-zfbr - 2022 Open Data Plan: Completed Civic Engagements
+m46f-nmju - DOE Funding Sources
+4snd-in5m - 2015 2016 EMS Transports Final Student Date Of Birth
+ynau-kwze - 2013-2017 School ELA Results - Ethnic
+294z-97kb - Environmentally Preferable Procurements
+au8p-qz8c - 2017 - 2018 Diversity Report Pre-Kindergarten
+6vys-sfk5 - Open Streets Locations Map
+2a5m-z82r - 2014 Orthoimagery Manhattan
+b36s-tuqc - 2016-2017 Student Discipline Annual Report - TRANSFERS
+qd9w-yz23 - 2015-16 Demographic Data - Grades 9-12 School
+9tnu-6rdi - High School Equivalency (HSE) Diplomas Awarded to NYCHA Residents by NYCHA Development – Local Law 163
+5qbe-4vqd - 2017 Diversity Report K-8 - District
+ayph-gj7e - 2018 Orthoimagery Staten Island
+8zxg-9a5c - NYC Business Solutions for NYCHA Residents by City Council District - Local Law 163
+6gzn-qtm3 - 2018-2019 PK For All Demographic Snapshot
+7w73-8bcz - Leaning Bars (Map)
+pqbh-p6xe - 2015-2016 MTI All-Star Schools
+mq9d-au8i - 2013-2014 VADIR INCIDENTS
+fjb8-yxzv - 2015-2016 Suspension Report NYPD Contacts - Gender
+x3kb-2vbv - 2015-2016 Class Size Report - Pupil To Teacher Ratio
+xw44-6wmw - 2023 Open Data Plan: Civic Engagement Activities
+tu4y-7fre - District Resource Statement - MA Enrollees
+fb26-34vu - 2011-2012 Class Size Report Borough Level Detail
+3pzk-fyqp - 2015-16 Local Law 15 Health Data K-12 Health Instructor CCD
+eyk3-bhe9 - 2015-16 Local Law 15 Health Data - K-12 Health Instructors
+rf3p-853x - Extended Military Benefits Program – Agency Military Liaisons
+nntm-ht5m - 2017 - 2018 Diversity Report Diversity Efforts
+kiwq-bb5k - 2017 - 2018 Guidance Counselor Report
+ynaw-bmnm - Workforce 1 for NYCHA Residents by City Council District - Local Law 163
+n5y5-3ud3 - Food Scrap Drop-Off Locations - Map
+7c9t-ckpj - NYW Bond Issuance
+4tdt-h5f6 - 2017 - 2018 Co-Location Report
+ws4r-n9v4 - DOHMH and DEP Waterborne Disease Risk Assessment Program Annual Report Data: Percentage of interviewed cryptosporidiosis case-patients reporting selected potential risk exposures before disease onset, by Immune Status
+xfsg-qhaw - 2013 - 2018 District Math Results
+khqt-g67n - Independent Budget Office: NYC COVID 19 Cumulative Spending by Expense Type
+7scx-rfrp - 2017 Diversity Report K-8 - Special Programs
+jzdn-258f - FY2018 PMMR Agency Services and Goals
+pgun-i6u7 - 2015-16 Demographic Data - Grades K-8 Special Programs
+3qwy-zqtv - Watershed Water Quality - Keypoint Qualifiers
+nbdj-ya9f - 2008-2009 VADIR INCIDENTS
+wcpw-9chs - Asset Management Executive Summary - State of Good Repair Needs (Capital Eligible)
+cera-vfws - 2015-16 Multiple Removals - Gender
+imfq-nf3j - 2020 Census Tracts (water areas included) - Tabular
+29wz-ciej - Local Law 1 Plan
+cj2p-e3ej - Hazard Mitigation Plan - Mitigation Actions Database (Polygons)
+mfxb-aygx - Shapefiles of BOA and Community Brownfield Planning Areas - OER Community Grant Projects
+tsb8-3rct - Discretionary Contract Awards
+puec-8mer - 2018 - 2019 Average Class Size School MSHS
+5rx8-ct65 - Competitiveness
+xsmd-g5j6 - 2014-15 Graduation Outcomes - ELL
+c4xj-jp46 - 2019-2020 Local Law 231
+k5xr-vi4c - 2015-16 Guidance Counselor Reporting - Post Secondary Planning
+2zdm-jpub - 2017- 2018 Class Size Report City K-8 Average Class Size
+utpp-yxuj - Businesses Receiving Training Fund Awards
+4yay-s2us - Debt Service Major Indicators
+ywiv-5gyw - 2012 D75 School Survey Data
+w7kn-7zx2 - Demographic Profile of ACS 1 Year Estimates at the New York City and Borough level
+igsj-fxac - Restrictive Declaration Sites Map
+47g8-ngxw - 2018 - 2019 Average Class Size City K8
+af2s-4k4p - DVS Resource Map
+4e3j-75af - 2018-2019 Students in Temporary Housing - School
+reri-chf8 - 2017 Diversity Report 9-12 - District
+xkkx-md5q - 2013-2017 Borough ELA Results - Economic
+mmvm-mvi3 - 2015 2016 Local Law 60 Summary
+xx4a-msrm - 2015 - 2016 School Quality Report Results for PreK
+95u9-kyyu - BP Appointments - DYCD Neighborhood Advisory Board (NABS)
+herb-qubg - 2015 - 2016 Co-Location Reports
+7k2e-ht2j - 2017 - 2018 November2017 Avg Class Size District K8 - Open Data Portal
+scfi-iv96 - 2013-2017 ELA Test Results by Grade - Districts - All
+v6g5-uh5z - FY2018 MMR Agency Services and Goals
+n9yn-6q3f - 2015 2016 Student Discipline Annual Report - R P S TOTALS
+4jus-39vu - 2018 - 2019 Average Class Size District K8
+6wee-b7wf - Capital Grant Awards 2015
+pvxf-9irb - BP Appointments - BIDS
+qjx7-9mep - 2013-2017 Borough Math Results - All
+3pge-73vq - 2013-2017 District ELA Results - Economic
+mfz4-pj9t - RFP Summary by Agency and Fiscal Year
+xjtr-h2x2 - Historical Medallion Drivers – Passenger Assistance Trained 2018
+a2pm-dj2w - 2018 Local Law 163 TASC Report
+q7r2-64fm - 2015 2016 Student Discipline Annual Report - Students In Temporary Housing
+cah7-vgge - 2015 - 2016 School Closure Discharge By SWD
+2vr2-vcvz - NYC Covered Building's List (2010)
+u2su-gdc2 - 2013-2019 Math Test Results District - SWD/Ethnicity/Gender/Economic Status/ELL/Total of All
+avh4-h5hx - BP Appointments - HHC Community Advisory Boards (CAB)
+t5w8-y8xf - 2012 2013 Co- Location Memorandums
+u4es-gw3m - 2015 NYC School Survey
+u7tg-8kia - 2017 - 2018 Diversity Reports Special Programs K -8
+yqky-aebb - Jobs Created by Energy Cost Savings Program Savings for Businesses
+8fwe-y7ui - 2017 -2018 Diversity Report K - 8 School
+436j-ja87 - 2013-16 School ELA Data Files By Grade - Gender
+ybcb-4665 - 2013-2017 School ELA Results - SWD
+ke4t-kbpi - Lower Density Growth Management Areas
+s84u-yh9q - 2020 Census Blocks (water areas included) - Mapped
+6jjp-if35 - Housing Database by 2020 CDTA (Map)
+y6ds-67d5 - Brooklyn Borough President Office Requests for Assistance
+vgmz-py3h - 2015 - 2016 Local Law 60 Meal Periods
+wexi-2njw - 2018 Orthoimagery Bronx
+fm6n-5jvy - 2015-16 Demographic Data - Grades K-8 District
+7jzh-b7rq - 2012-2013 CLASS SIZE REPORT SCHOOL LEVEL DETAIL
+ywm2-wzzf - 2021 Open Data Plan: Removals
+pchn-eaxn - 2016 Public Data File Parent
+pjwn-nnx8 - 2015 - 2016 Career Technical Education Report
+rbwa-m4iy - BP Appointments - Solid Waste Advisory (SWAB)
+7jpv-q9e2 - 2013-2017 School ELA Results - Economic
+ezaf-3uhs - 2015-16 Class Size Report - MS And HS Average
+9btm-sxj3 - 2015 2016 Student Discipline Annual Report - IEP
+77zj-y2i9 - Expense Budget--Debt Service Statement II
+xagh-idmf - 2017 NYC Open Data Plan: Removed Datasets
+xk8i-qnua - NYC Office of The Comptroller: Cash Balance Projections
+kjpz-79mu - 2015-16 Student Discipline Annual Report - AGE
+djxg-kcfi - Capital Projects Database (CPDB) - Commitments
+5x7b-baa2 - 2014-2015 School Closure Discharge Reporting - All Boroughs
+87b8-3t9t - 2015-16 Demographic Data - Grades 9-12 District
+g6f6-qpfi - 2013-2017 Citywide Math Results - Gender
+s7cx-86ha - 2018 -2019 SQG EC
+9rim-7u4b - Human Services Plan
+54k3-2wtq - 2013-2017 Citywide ELA Results - Economic
+xs5m-jrpm - Parks Inspection Program - All Sites (UNMAPPED)
+shc3-rmhi - 2013 - 2018 Citywide Math Results
+jp5w-5njc - Survey Findings from the NYC Healthy Relationship Training Academy - TechnoLOVE Workshop
+6uh5-5j7x - Watershed Water Quality - Limnology Qualifiers
+c48v-p34c - Capital Projects Database (CPDB) - Projects (Polygons Maps)
+kxua-p5dg - 2015-2016 Related Service
+5hiy-kwc2 - 2013-2017 Borough ELA Results - Gender
+48ka-f6z6 - 2013-2017 Borough Math Results - Gender
+pkhy-wwga - 2017- 2018 Class Size Report District K-8 Average Class Size
+2p64-jbjs - 2013-2017 ELA Test Results by Grade - Citywide - All
+2jne-kr3f - 2014-2015 School Closure Discharge Reporting - Attendance
+eyee-wq88 - Open and Closed Request for Qualifications
+bdft-9t6c - Local Law 37/2011 - Temporary Housing Assistance Usage
+mib5-bwqy - 2013-2017 School ELA Results - EvELL
+bztk-4g6r - Shapefiles of BOA and Community Brownfield Planning Areas - OER Existing Conditions Studies
+wf8t-6cqt - Policymakers List
+pdk7-puui - FY2019 PMMR Agency Services and Goals
+jup5-7fik - DVS Assistance Requests
+9sji-jws4 - 2016-2017 Student Discipline Annual Report - GENDER
+bjfz-j45a - 2008 General Education School Survey
+6je4-4x7e - 2012 - 2013 Citywide Progress Report
+rsnp-rdyf - Quarterly Borrowing Schedule
+e544-259w - 2013-2017 District Math Results - Ethnic
+6wwu-giff - 2008-2009 NYC High School Director
+rqjq-29wc - 2013-2017 School Math Results - EvELL
+vacq-ce69 - 2015-2016 Suspension Report NYPD Contacts - ELL
+e7rh-dmb4 - 2013-2017 Citywide Math Results - Ethnic
+55yj-h64d - 2016 - 2017 Demographic Snapshot
+59qh-uc8y - 2023 Open Data Plan: Future Releases
+756x-9djt - FY20 NYCDOE OFNS Report to City Council
+qj7d-vb9s - BOA and Community Brownfield Planning Areas - BOA Studies
+n5n4-5k5r - Debt Issuance by Issuer
+3cyv-4ghv - 2017-2018 Students with Multiple Removals or Suspensions - GENDER
+hmw8-8is3 - 2015 NYC Open Data Plan: Scheduled Releases
+kut8-vibx - 2012 NYC School Survey
+3nw7-5vkw - 2013-2017 Citywide ELA Results - Ethnic
+4tnw-tspg - 2015-16 Social Worker Data
+63u4-2zc2 - 2015 - 2016 Computer Science Report
+5r8r-e7i6 - 2015 - 2016 School Closure Discharge Reporting District SWD
+np9k-hd4i - 2013-16 School ELA Data Files By Grade - SWD
+q4ia-5r85 - 2018- 2019 SQG EMS
+2ji4-fd5z - NYCgov Poverty Measure Data (2005)
+785g-7qf7 - 2015-16 Health Education HS Level
+qmc5-z72r - 2016 - 2017 School Quality Report Results for High School Transfer
+wnhn-bgpv - Shapefiles of BOA and Community Brownfield Planning Areas - EPA Area Wide Planning Areas
+jvqn-dyef - 2017 - 2018 November2017 Avg Class Size City MSHS - Open Data Portal
+7hpk-8zed - 2013 - 2018 District ELA Results
+q5hp-72f8 - 2014-15 Graduation Outcomes - SWD
+5qza-frfc - 2013-2017 District ELA Results - Gender
+kjey-zuvr - 2013-2017 Borough ELA Results - Ethnic
+kk22-kcb6 - 2017 NYC Open Data Plan: Timely Updates
+e555-uc5w - 2012 - 2013 D75 Progress Reports
+kg6x-kv5b - 2016-2017 Student Discipline Annual Report - GRADE LEVEL
+rdjw-z878 - CBO Expense Report
+exe6-f2vx - 2014 - 2015 Arts Reports
+nk42-j6hc - 2015-2016 Demographic Data - Grades K-8 District
+edx9-hxi8 - 2015-16 Student Discipline Annual Report - R P S TOTALS
+jt9i-9gxr - Environmentally Preferable Purchasing  FY15 - Goods
+2gcj-p28u - 2016-2017 Local Law 15 K-12 Health Data - Health Instructor
+vtsq-3d95 - Early Relationship Abuse Prevention Program (Early RAPP) Pre and Post Surveys
+f5zq-eacn - 2015 2016 Local Law 60 Room Detail
+9nyh-gsuu - 2017- 2018   Class Size Report Borough Middle And High School
+kmix-7hhj - 2013-16 School ELA Data Files By Grade - All Students
+xfkn-vsp9 - 2015-16 Multiple Removals - Grade Level
+9eun-chvy - 2015 - 2016 School Closure Discharge Reporting Borough AGE
+ajh7-4wqg - Cornerstone Award 2017
+y4pq-zdn5 - NYC Floating Rate Exposure
+ytju-73hj - 2015-16 Multiple Removals - ELL
+gf2p-d6pi - Housing Database by 2013 City Council (Map)
+dp2s-vccd - 2017 - 2018 November2017 Pct Class Size City K8  - Open Data Portal
+yjnr-kh6n - 2015-16 Student Discipline Annual Report - Transfers
+9h95-gife - 2015 2016 Student Discipline Annual Report - GENDER
+4mvr-i7nd - 2020 Census Tracts (water areas included) - Mapped
+ctq9-j8y9 - 2012 - 2013 Transfer High School Progress Report
+kpv8-upnp - Historical Medallion Drivers – Passenger Assistance Trained 2019-2020
+pd6g-yghw - 2017 -2018 District Diversity Report 9 - 12
+jpib-dv6s - 2002 Orthoimagery Queens
+qhsy-qpq5 - 2017-2018 Students with Multiple Removals or Suspensions - Year of Birth
+2uk5-v8da - 2013-2017 Citywide ELA Results - EvELL
+qgga-62ej - 2013-2017 Citywide Math Results - Economic
+fbkk-n4e3 - Doing Business Contributions Summary
+aejp-3ws7 - Local Law 22 of 2015 Worker Cooperative Reports
+9cvd-uyw6 - 2015-16 Student Discipline Annual Report - ELL
+ffzt-rdkr - 2013-2017 District Math Results - EvELL
+2s75-2b3b - 2015 - 2016 Demographic Data - Pre-Kindergarten
+wrzv-t2c4 - 2020 Census Blocks (water areas included) - Tabular
+ii2w-6fne - 2013 - 2018 Borough Math Results
+7gvw-m7zn - 2013-16 School ELA Data Files By Grade - ELL
+hrn4-5ast - 2018 Kindergarten Directory - Staten Island
+xdd4-2y5h - Survey Findings from the NYC Mayor's Office to End Domestic and Gender Based Violence (ENDGBV) Training Team's Intimate Partner Violence (IPV) Trainings with the New York City Department of Homeless Services (DHS) Employees (2017-2019)
+brxp-zcjz - 2015-16 Health Education HS Level - School District
+7w9p-j93r - 2011-2012 School Closure Discharge Reporting - Discharge Code
+kewp-r7r7 - 2016-2017 Local Law 14 Health Data
+basd-2jwn - Official Fundraising by City Agencies
+7iqp-pbne - 2015 - 2016 School Closure Discharge Reporting District Ethnicity
+narn-kyx4 - 2013-2017 District ELA Results - Ethnic
+bmhe-urrg - 2015 2016 Student Discipline Annual Report - ELL
+8532-9v5k - 2020 DOE Kindergarten Admissions Guide
+xijd-ubiu - 2012 NYC Community Schools Survey
+pu45-qynj - NYC Covered Building's List (2016)
+767e-4ijc - 2015 NYC Open Data Plan: Removed Datasets
+j8i7-ptfe - 2007 NYC School Survey
+gsjx-zx9n - 2017- 2018 Class Size Report District K-8 Class Size Distribution
+93kn-fhqt - 2023 Open Data Plan: FOIL Datasets
+e6ph-9uv7 - Brooklyn Borough President's Office Legislation - Passed
+xne4-4v8f - 2011 - 2012 Citywide Progress Report
+sgjd-xi99 - 2013-2019 English Language Arts (ELA) Test Results Charter - School
+2qb3-8eu4 - 2017-2018 Suspension Report NYPD Contacts - RACE
+6x2x-mkuy - 2013-2019 English Language Arts (ELA) Test Results District - All/SWD/Ethnicity/Gender/Economic Status/ELL
+ca93-s2tg - 2015 - 2016 School Closure Discharge By Age
+276h-y36a - 2017 - 2018 November2017 Avg Class Size Borough K8 - Open Data Portal
+h5j6-bv4u - 2013 - 2014 Arts Report
+q7kr-hyux - 2001 Staten Island Orthoimagery
+cbfr-z7aj - 2015-2016 School Quality Report - Elem, Middle & K-8 Schools
+fiag-ac7u - Financial Services for NYCHA Residents by Development - Local Law 163
+63bz-5n3b - NYC Covered Building's List (2012)
+4y63-yw9e - 2006 - 2013 Citywide Progress Report
+wtqm-fd2z - 2017 - 2018 November2017 Pct Class Size Borough K8 - Open Data Portal
+4axi-di9c - 2013-2017 District ELA Results - EvELL
+9ddu-fvnv - 2016-2017 Student Discipline Annual Report - LENGTH IN DAYS
+wstu-wcnw - 2017 - 2018 November2017 Avg Class Size Borough MSHS - Open Data Portal
+hm4n-kxfu - 2014-2015 School Closure Discharge Reporting - To School
+2p3a-y7d4 - Human Services Annual Plan
+kdpk-qekk - 2013-2017 Citywide ELA Results - Gender
+i3ez-z58g - 2017 - 2018 Pct Class Size Borough MSHS - Open Data Portal
+pnpe-ubtz - Citywide Hard to Reach Know Your Rights Engagements
+eu48-ehkz - 2015-2016 Physical Education - PE Space - School Level
+rzd6-qsmn - 2013-16 School ELA Data Files By Grade - Ethnicity
+4ynw-b9aj - 2013-2017 District ELA Results - SWD
+vm3f-2n7x - 2010-2011 School Closure Discharge Reporting GPA
+2anc-iydk - 2015-16 Health Education HS Data - City Council District
+mx2v-5myb - 2001 Orthoimagery Manhattan
+fqrp-y4d2 - 2015 - 2016 School Closure Discharge By Ethnicity
+c4p6-rvjs - NYC Covered Building's List (2014)
+4hbx-ab3c - NYC Covered Building's List (2015)
+9c56-46pu - 2015 - 2016 School Closure Discharge By Gender
+gdpi-hegk - 2011 - 2012 D75 Progress Report
+gsak-mt7t - 2015-16 Student Discipline Annual Report - LENGTH IN DAYS
+egnf-uyp9 - 2017-2018 EMS Transport Final Race
+53jv-eiur - 2015-2016 Physical Education - PE Space - Supplemental Programs
+p9cr-nt9j - 2015-16 Student Discipline Annual Report - GRADE LEVEL
+q45m-5vk4 - 2018-19 Guidance Counselor Report - Demographic Data
+7ffu-t6bw - 2001-2017 Intermediaries
+tq7f-w2f5 - 2015 - 2016 Annual Report on Special Education
+k4xi-fxp5 - 2013-2017 Borough Math Results - SWD
+9add-idv3 - 2015 - 2016 School Closure Discharge Reporting Borough Ethnicity
+evir-bydt - 2018-2019 Students, Applications, Admissions & Offers LL72
+tph5-57et - 2013-2017 Borough Math Results - Ethnic
+vz7h-p6wa - 2014-2015 School Closure Discharge Reporting - Credit Recovery
+sg6c-6sse - 2015 - 2016 School Closure Discharge Reporting District Gender
+5tdj-xqd5 - 2013 - 2018 Borough ELA Results
+gj2m-sgjc - 2013 - 2018 Citywide ELA Results
+kfrx-hgf8 - 2010 D75 Survey Data
+6qaj-niew - 2013-2017 Citywide ELA Results - SWD
+ws6q-gv6r - Capital Projects Database (CPDB) - Projects (Points Map)
+wmn9-zjsc - 2015 - 2016 Guidance Counselor Report
+sfvn-y3wd - High School Virtual Recruitment URLs Posted on MySchools - 2020-2021 School Year
+yiet-hu2w - 2013-2017 Borough ELA Results - SWD
+dx24-9ef7 - Pseudo Lots
+f4zj-z3db - 2019-20 School Quality Guide High School Transfer
+u69g-mvrb - 2017 Public Funds Payments
+89bd-raqa - 2016-2017 EMS Transport Final - 6 Month/Date of Birth/Race/IEP
+ynsf-rr5f - 2002 Orthoimagery Brooklyn
+wf9c-gupx - NYC Covered Building's List (2011)
+tcwb-nry3 - 2021 Intermediaries
+45nu-yrf2 - 2016-2017 Student Discipline Annual Report - AGE
+qe6k-pu9t - FY2019 MMR Agency Services and Goals
+rzp5-dkki - 2023 Open Data Plan: Website Data
+d8dr-nyhw - NYC Historical Vital Records: Index to Digitized Marriage Licenses
+hg3k-2w6h - 2015 2016 Student Discipline Annual Report - Transfers
+garv-x8q8 - 2015 - 2016 School Closure Discharge By ELL
+nenq-ccpd - 2009 GenEd Survey Data
+88m5-5vz3 - FY2020 MMR Agency Services and Goals
+h5de-ndty - 2013-2017 Borough ELA Results - EvELL
+3wyv-kxab - 2011-2012 School Closure Discharge Reporting - GPA
+t446-jbtd - 2014-2015 School Closure Discharge Reporting - SWD
+5g59-fxev - 2014-2015 School Closure Discharge Reporting - Discharge Code
+cteu-mj4k - 2014–2015 Report on Special Education
+pbc8-mmb4 - 2016 - 2017 School Quality Report Results for D75 Schools
+9a6i-gcns - Street Direction Change Requests (2019-Present)
+4ysd-hagc - 2016 - 2017 Students With Multiple Removals Or Suspensions
+hqhh-iv7p - Hazard Mitigation Plan - Mitigation Actions Database (Lines)
+kx6j-f3vm - NYCgov Poverty Measure Data (2007)
+rcf4-4vq6 - 2021 Open Data Plan: FOIL Metrics
+ghht-zbsp - 2016 - 2017 School Quality Report Results for YABC
+35qr-3ykq - 2018 - 2019 Average Class Size City MSHS
+ecej-79ys - 2015-16 Multiple Removals - STH
+eg75-mh9k - 2015-2016 Demographic Data - Grades 9-12 District
+k4nw-2tdw - 2020 Open Data Plan: FOIL Metrics
+2gjq-v9z9 - 2013-2017 Citywide Math Results - EvELL
+kt29-ab5k - 2013-2017 Borough Math Results - EvELL
+u8dp-jhsx - 2011-2012 School Closure Discharge Reporting Gender - School
+cgkc-y6tk - Middle School Virtual Recruitment URLs Posted on MySchools - 2020-2021 School Year
+g54d-49wm - 2011-2012 School Closure Discharge Reporting SWD - School
+4edb-7rb7 - 2015 - 2016 Final Class Size Report - K to 8 Average
+af3x-y3y3 - 2015 - 2016 School Closure Discharge By Grade
+wg5a-mubp - NYC Covered Building's List (2013)
+wmi7-dkwa - 2013-2017 District Math Results - SWD
+rk35-5hwy - 2015 - 2016 School Closure Discharge Reporting District Grade
+wspa-cuqk - 2015 - 2016 Demographic Snapshot
+khci-nhn2 - 2018-19 Guidance Counselor Report - Guidance Counselor
+rk6w-n3dw - 2011-2012 School Closure Discharge Reporting Gender - District
+qc36-ccxk - 2015 - 2016 School Closure Discharge Reporting District AGE
+2ay5-tqqe - 2015-2016 Local Law 14 Health Data - MS District
+bx2w-sb84 - 2018 Diversity Report - Grades 9-12 School
+pgtq-ht5f - 2011-2012 CLASS SIZE REPORT SCHOOL LEVEL DETAIL
+gc8d-bnmn - Parking Permit for People with Disabilities (PPPD) - City
+g2dh-zf5t - Child Support Caseload and Collections
+qtw2-wfsy - 2017-2018 Student Discipline Annual Report - RACE
+7ggc-ypzi - 2013-2017 Citywide Math Results - SWD
+2mvk-c2ha - 2018-19 Guidance Counselor Report - Social Worker
+mpbx-6c9k - Mayor's Office to End Domestic and Gender-Based Violence Annual  Report on Outreach to Cosmetologists
+b8z5-673p - 2012-2013 School Closure Discharge Reporting - Citywide
+jipi-drdu - Cornerstone Award 2015
+2rh9-5vsi - FY2020 PMMR Agency Services and Goals
+sydm-hizh - Cornerstone Award 2016
+yibg-6r2q - 2014 - 2015 School Quality Report Results for Early Childhood
+gix2-d8at - 2011-12 Discharge Reporting by Code - HS
+p5yk-zjsc - 2015 - 2016 Discharge Reporting by Code - HS
+sybh-s59s - 2014-2015 Class Size Report School Level Detail Summary
+hjqb-2g4j - 2014-2015 School Closure Discharge Reporting Citywide
+apih-xnk4 - 2017-2018 Students with Multiple Removals or Suspensions - Grade Level
+nwjy-fdec - 2015-2016 Physical Education - PE Space - Certified PE Teachers
+am74-3pnv - 2017 - 2018 Avg Class Size Borough MSHS
+snt7-jkiu - 2014 Orthoimagery Bronx
+pdpg-nn8i - 2013-2014 Class Size Report School Level Detail Final
+mumm-6t9n - 2017 - 2018 November2017 Avg Class Size City K8 - Open Data Portal
+xy48-7s3d - 2015-16 Health Education K-12 - Licensed Health Instructors
+5ytq-4m2r - 2015-2016 Discharge Reporting By Code - HS
+r5j3-b762 - 2014 Orthoimagery Brooklyn
+adqm-qibj - 2012-2013 School Closure Discharge Reporting - All Districts
+ynhu-u9id - 2014-15 Discharge Reporting for Students with Disabilities - MS
+5u4m-9udf - 2010-11 Discharge Reporting by School - HS
+g52i-ijbe - 2009 District 75 Survey Data
+twu4-tp2g - 2017-2018 November2017 Pct Class Size District MSHS - Open Data Portal
+mvab-8uw7 - 2015 - 2016 School Closure Discharge Reporting District ELL
+c38p-gtif - 2019-20 School Quality Guide Citywide Distict 75
+nhak-36my - 2015-16 Health Education K-12 - Health Instructors
+3ftn-akuh - 2010-2011 School Closure Discharge Reporting Grade - District
+pmj5-4bsh - 2010-2011 School Closure Discharge Reporting Ethnicity - District
+wyhw-ykq2 - 17th Annual Report of the Commission
+2ewp-sa7t - 2013-2019 English Language Arts (ELA) Test Results Borough - All/SWD/Ethnicity/Gender/Economic Status/ELL
+x2z9-ihqe - 2013-2014 School Closure Discharge Reporting - All Boroughs
+bhst-9d3f - 2023 Open Data Plan: Removals
+pexc-kg7n - 2010-11 Discharge Reporting for Students with Disabilities - MS
+bwx8-3rf4 - 2015-2016 Local Law 14 Health Data - MS City Council District
+sejx-2gn3 - Citywide Public Computer Centers
+is5y-7g3y - 2017-2018 Physical Education - PE Space
+efdc-dxuz - BP Appointments - Miscellaneous Boards
+d4mz-3bq9 - 2014 - 15 Guidance Counselor Reporting - Social Worker Data
+deqx-mzd7 - 2014 -15 Discharge Reporting by HS
+xi6w-cfy5 - 2011-2012 School Closure Discharge Reporting Ethnicity - District
+h8ar-pcmr - 2017 School Food Report LL215
+bjx5-4p7w - 2018 - 2019 Class Size Pupil to Teacher Ratio
+5kru-rjmf - 2014 - 2015 Guidance Counselor Report
+5cd6-v74i - 2014 - 15 Guidance Counselor Bill Demographic Data
+ppub-hbwx - 2011-2012 School Closure Discharge Reporting Grade - Borough
+ahcp-vck8 - NYCgov Poverty Measure Data (2015)
+qqba-8akg - 2014 - 2015 School Quality Report Results for YABC
+esep-hmvs - 2017 - 2018 November2017 Pct Class Size District K8 - Open Data Portal
+tqh4-y786 - 2002 Bronx, Brooklyn, Queens Orthoimagery Tile Index
+phqd-xav8 - 2014-2015  CoLocation Reporting
+deah-gjrv - 2015 - 2016  High School Discharges
+r4dz-wduq - 2017 - 2018 November2017 Pct Class Size City MSHS - Open Data Portal
+xy5n-i6mb - 2015 - 2016 School Quality Report Results for Early Childhood
+vv3n-5y3z - 2012 - 2013 YABC Progress Report
+t79c-x4dw - FY20 Local Law 16 Final Report
+v8i9-yfpr - Adding Chemicals to Water Supply Permits
+ya22-5bh7 - NYCgov Poverty Measure Data (2010)
+hti8-xb6u - 2015 2016 Student Discipline Annual Report - LENGTH IN DAYS
+chzg-3b9u - 2010 Orthos Tile Index
+xt7f-mv4x - 2019 Fall Admissions LL1486
+73qb-dcc3 - Persons Removed from Doing Business Database
+8qnk-un3c - 2017 - 2018 School Quality Report Results for  YABC
+rej3-v4c3 - 2010-2011 School Closure Discharge Reporting SWD - School
+9f25-223x - 2017 - 2018 November2017 Avg Class Size District MSHS - Open Data Portal
+ipf4-pzub - 2010-2011 School Closure Discharge Reporting Gender - School
+b22r-9izv - 2017-2018 Students in Temporary Housing - School
+jkk2-3xzd - 2015-2016 Discharge Reporting School Level - HS
+fnf8-c7wx - 2011-2012 School Closure Discharge Reporting Ethnicity - School
+wugy-h4kt - 2010-2011 School Closure Discharge Reporting Credit Recovery
+2vk5-6yq6 - 2015-16 Health Education MS Level - School District
+y7zq-uvuj - 2022 Open Data Plan: FOIL Metrics
+a8si-arxu - 2017-2018 Student Discipline Annual Report - ELL
+f5y3-uf2u - 2010-2011 School Closure Discharge Reporting Grade - School
+ge56-g6yt - 2011-2012 School Closure Discharge Reporting Age - Borough
+i8qp-5mwu - 2015 - 16 Health Education Instructor Report
+4qii-5cz9 - 2013-2014 Class Size Report Borough Level Distribution Summary
+duk5-k5fk - NYC COVID 19 Spending by Agency by Expense Description
+bvd8-5483 - 2011-2012 School Closure Discharge Reporting ELL - Borough
+m9yq-6n44 - 2015-2016 Local Law 15 Health Data - K-12 Health Instructor District
+wr2n-ag8h - ENDGBV: Family Justice Centers: Supporting Our Foreign Born Clients Report
+8knn-wq9b - 2015 - 2016 School Closure Discharge Reporting Borough ELL
+6zvj-sek6 - 2014 - 2015 School Quality Report Results for D75 Schools
+tuie-py5h - 2010-2011 School Closure Discharge Reporting SWD - District
+dve9-92na - 2010 Orthoimagery Manhattan
+c5ft-upv9 - 2017-2018 Health Data Report - Middle School
+igkm-n3xt - 2014 School Survey
+nawr-fbpn - 2010-11 Discharge Reporting by Code - MS
+d5g5-kttt - 2013-14 Discharge Reporting for Students with Disabilities - MS
+ccgt-mp8e - 2015-2016 Physical Education - PE Instruction Borough
+cgcg-w2ys - Off Year Special Elections Campaign Expenditure
+fyb8-mmde - 2013-2019 English Language Arts (ELA) Test Results Citywide - All/SWD/Ethnicity/Gender/Economic Status/ELL
+jht3-w4hh - 2010-2011 School Closure Discharge Reporting Attendance - City
+bha8-nbrn - 2010-2011 School Closure Discharge Reporting Age - School
+kz72-dump - 2013-2014 Class Size Report City Level Detail Final
+2cxm-sdq3 - 2012 Orthoimagery Staten Island
+6i5e-7v2f - 2011 School Survey
+uz9h-5uv2 - 2015 - 2016 School Closure Discharge Reporting Borough Gender
+uqgd-pt5w - 2018 - 2019 Average Class Size Boro K8
+mdcr-pn8p - 2012 Orthoimagery Manhattan
+ke49-x9wf - 2015 - 2016 School Closure Discharge Reporting Borough Grade
+tsbd-7yyy - 2020 Open Data Plan: Removals
+nxrs-2ci5 - Department for the Aging (NYC Aging) - Budgeted Services
+f4ux-qw5u - 2011-2012 School Closure Discharge Reporting - ToSchool
+3zjh-awfv - 2008 Orthoimagery Manhattan
+sfvr-tcdy - 2018 - 2019 Class Size Pct District K8
+cnnp-j87w - 2015-2016 Local Law 14 Health Data - HS District
+bbj7-8idq - Holiday Construction Embargo- Block (Map)
+9wwd-tgzc - 2016 - 2017 Health Education Instructor Report
+myhg-kfw9 - 2012-2013 School Closure Discharge Reporting - All Boroughs
+6s4s-6czd - 2022 Open Data Plan: Removals
+xeg2-veq2 - 2017-2018 Student Discipline Annual Report - R-P-S TOTALS
+j8sx-ccsq - 2011-12 Discharge Reporting for Students with Disabilities - MS
+hnb3-32fi - 2012-2013 School Closure Discharge Reporting - All Schools
+yg5a-hytu - 2014-2015 Class Size Report City Level Distribution
+2ujk-6z7u - Late/Missing Disclosure Statements
+fuzi-xuv4 - 2010-11 Discharge Reporting by Code - HS
+r5p4-2qap - 2015 - 2016 Student Discipline Annual Report- AGE
+dhsk-pig8 - 2010-2011 School Closure Discharge Reporting ELL District
+6ypq-ih9a - 2013-2014 Class Size Report District Level Distribution Final
+d2bw-3fid - 2001 Manhattan Orthoimagery Tile Index
+q7yn-jhqw - 2017-2018 EMS Transport Final Students With Disabilities
+gne4-pga9 - 2010-2011 School Closure Discharge Reporting ELL - Borough
+igad-psu6 - 2011-2012 School Closure Discharge Reporting Gender  - Borough
+v4se-2t5p - 2017-2018 Career and Technical Report LL174
+5nz7-hh6t - 2013-2014 Class Size Report Borough Level Detail Summary
+fi8f-t673 - 2012-2013 CLASS SIZE REPORT DISTRICT LEVEL DISTRIBUTION
+byvd-5eau - 2017-2018 Suspension Report NYPD Contacts - GENDER
+gxt2-i5qe - 2018-2019 Prelim Percentage Class Size Borough - MS & HS
+h49x-6v6r - 2008 Orthoimagery Queens
+ub9e-s7ai - 2014-2015 Class Size Report District Level Distribution Summary
+cusf-jxh5 - 2015 - 2016 School Quality Report Results for YABC
+yqhh-93zq - Off Year Special Elections Intermediary
+pshf-uxpw - 2016 School Survey
+en96-iuwi - 2012-2013 Early Childhood Progress Report
+bmxv-h8uk - 2016 - 2017 Suspension Report NYPD Contact
+nkb3-sy3i - 2013-2019 Math Test Results Citywide - SWD/Ethnicity/Gender/Economic Status/ELL/Total of All
+5e8d-k9md - 2014 - 2015 School Quality Report Results for High School Transfer
+qdim-r2ma - 2017 - 2018 Biannual Report July
+j7tw-gms7 - 2015 - 2016 School Quality Report Results for D75 Schools
+n88k-5bs4 - 2017-2018 Student Discipline Annual Report - Students in Temporary Housing
+wq7m-7i29 - 2017-2018 Suspension Report NYPD Contacts - GRADE
+n8b9-ghux - 2015 - 2016 School Quality Report Results for High School Transfer
+chb2-ipkr - 2013-14 Discharge Reporting By Code - HS
+eidg-3v2p - 2011-2012 School Closure Discharge Reporting Age - District
+2vv4-3iny - 2012-2013 CLASS SIZE REPORT BOROUGH LEVEL DETAIL
+cirn-n726 - 2012-2013 Discharge Local Law 42 Report - School Level - Middle School
+3aka-ggej - 2014-2015 Class Size Report Borough Level Distribution
+aqy4-qgvz - 2010-2011 School Closure Discharge Reporting Discharge Code
+6sqr-c995 - 2014-15 Transfer or Discharge Code - Grades 9-12
+kgzj-pjna - Off Year Special Elections Contribution
+ue2f-z6i6 - Annual On-Street Parking Permit (AOSPP)
+w23u-4th9 - 2010-2011 School Closure Discharge Reporting Ethnicity - Borough
+8ruf-3bq8 - 2014 -15 Discharge Reporting for Students with Disabilities - HS
+hxff-kzzc - 2010 Orthoimagery Staten Island
+dhgx-p2ue - 2015-2016 Local Law 14 Health Data - HS City Council District
+9wui-eigp - 2001 Staten Island Orthoimagery Tile Index
+8fgk-qysk - 2011-2012 School Closure Discharge Reporting ELL- School
+4hiy-398i - 2014-2015 Class Size Report District Level Detail Summary
+nnyy-27fp - 2012-2013 CLASS SIZE REPORT CITY LEVEL DETAIL
+4te8-9n3p - Holiday Construction Embargo- Block
+xr5s-zsn6 - 2016 - 2017 Guidance Counselor Report
+t6a9-nby7 - 2010-11 Discharge Reporting by School - MS
+ce34-mm33 - 2002 Orthoimagery Bronx
+5hb6-gnie - 2013-14 Discharge Reporting for Students with Disabilities - HS
+xy43-qc25 - 2004 Orthoimagery Queens
+g4zf-s85y - 2014 - 2015 Co-Location Report
+wryt-jaa6 - 2011-2012 School Closure Discharge Reporting Grade - District
+tpt8-yikk - NYCgov Poverty Measure Data (2016)
+hqb2-y6mu - 2015 - 2016 Discharge Reporting by Code -MS
+7vxz-zmfj - 2017-2018 Student Discipline Annual Report - Transfers
+9txq-dagp - 2010-2011 School Closure Discharge Reporting Age - Borough
+dji6-v57p - 2011-2012 School Closure Discharge Reporting - Attendance
+qsxn-jchj - 2013-2019 Math Test Results Borough - SWD/Ethnicity/Gender/Economic Status/ELL/Total of All
+uep6-mri2 - 2017 - 2018 Diversity Report K-8 District
+w297-q7jn - 2010-2011 School Closure Discharge Reporting ELL - School
+c5d8-ajrd - 2017-2018 Suspension Report NYPD Contacts - DOB
+pxzj-y6s8 - Historical Medallion Drivers – Passenger Assistance Trained 2021
+e9ah-8qv4 - 2015 - 2016 School Closure Discharge Reporting Borough SWD
+fbmg-vwgd - 2004 Orthoimagery Manhattan
+gez6-674h - 2011-2012 CLASS SIZE REPORT DISTRICT LEVEL DETAIL
+by8q-dp62 - 2018 -2019 Average Class Size K8 Borough
+x77w-bjx9 - 2015 - 2016 Discharge Reporting by SWD - MS
+vxah-4hdw - 2017-2018 Students with Multiple Removals or Suspensions - SWD
+5ri2-49bt - FY2021 PMMR Agency Services and Goals
+qf2u-z2br - 2016-2017 Diversity Report - Pre-Kindergarten, K-8 & Grades 9-12 District, Schools, Special Programs, Diversity Efforts, Admissions Methods
+k2da-5ijm - 2015 - 2016 Middle School Discharges
+b225-hg9m - 2014-15 Discharge Reporting for All Students - MS
+4rz2-mrsh - NYCgov Poverty Measure Data (2008)
+jpe4-9hh5 - 2012-13 Discharge Reporting for All Students - HS
+ips9-qxk8 - 2013-2014 School Closure Discharge Reporting  Citywide
+7pi4-r8u2 - 2014 - 15 Guidance Counselor Data
+njqj-g8fv - 2012-13 Discharge Reporting by Code - HS
+a2ei-5yi4 - 2014 Orthoimagery Staten Island - 1 of 2
+n5xa-24cw - 2013-14 Discharge Reporting for All Students - HS
+y86q-g4pf - 2013-14 Discharge Reporting By Code - MS
+f3h8-59sn - 2015 School Survey
+ru7q-zr7g - 2014-15 Discharge Reporting by Code - MS
+a6bb-tgvr - 2018 Diversity Report - Grades K-8 District
+kvfi-kxcq - 2008 Orthoimagery Bronx
+knq4-3kz9 - 2015-16 Guidance Counselor Post Secondary Planning
+d4cb-8mwj - 2018 - 2019 Average Class Size Boro MSHS
+at6p-rk97 - 2008 Orthoimagery Staten Island
+3r4q-36zy - 2014 Orthoimagery Staten Island - 2 of 2
+2ps2-dsjr - 2017-2018 Student Discipline Annual Report - Grade Level
+tiwv-ukz3 - 2018 - 2019 Average Class Size District MSHS
+5hcy-6f3q - 2015-2016 Discharge Reporting School Level - MS
+uinz-vc7n - 2010-11 Discharge Reporting for Students with Disabilities - HS
+xkuq-9uzf - 2018 - 2019 Class Size Pct City K8
+6irv-e4ks - 2015-16 Health Education MS Level - City Council District
+mw3t-6kth - 2011-12 Discharge Reporting for Students with Disabilities - HS
+8i43-kna8 - 2011-2012 CLASS SIZE REPORT CITY LEVEL DISTRIBUTION
+qm58-9mub - 2012 Orthoimagery Queens
+kybr-br4u - 2015-2016 Local Law 14 Health Data - MS School
+smkj-7vb5 - 2011-2012 School Closure Discharge Reporting Grade - School
+fhj3-55ah - 2006 Orthoimagery Staten Island
+exaw-9qnu - Department for the Aging (NYC Aging) - Reported Service Units
+pfwf-dpwc - 2013 School Survey
+tsps-ttpz - 2015-16 Guidance Counselor Bill Demographic Data
+k8in-e8bh - 2010-2011 School Closure Discharge Reporting Gender - District
+a345-26ab - 2014-2015 Diversity Report - K-8 & Grades 9-12 District, Schools, Special Programs, Diversity Efforts
+er9e-qz8i - 2010-11 Transfer or Discharge Code - Grades 9-12
+hc32-b4uk - 2011-2012 School Closure Discharge Reporting Ethnicity - Borough
+fb4j-itwb - 2011-2012 School Closure Discharge Reporting Age - School
+crc3-tcnm - 2011-2012 CLASS SIZE REPORT DISTRICT LEVEL DISTRIBUTION
+j49e-erz3 - 2004 Orthoimagery Tile Index
+uk6z-hem9 - 2011-12 Discharge Reporting by Code - MS
+edai-t99u - 2012-2013 CLASS SIZE REPORT CITY LEVEL DISTRIBUTION
+5fgn-pgqe - 2017-2018 EMS Transports Final 6 Months
+tsny-wwsu - 2006 Orthoimagery Bronx
+ymc8-mg8s - Local Law 68 - Billy's Law Reporting
+qcwe-qqie - 2015 - 2016 Discharge Reporting by SWD - HS
+g3s7-2g3d - 2010-2011 School Closure Discharge Reporting Grade Borough
+ph9e-sw9u - 2010-2011 School Closure Discharge Reporting To School
+jr6f-nsuv - Holiday Construction Embargo- Intersection
+vbcn-wn88 - 2014-15 Discharge Reporting for All Students - HS
+dsif-42wj - 2017-2018 Suspension Report NYPD Contacts - ELL
+v3am-k46r - 2012 Orthoimagery Bronx
+4e9g-bgra - 2017-2018 Student Discipline Annual Report - Students In Temporary Housing
+mhpm-4ekb - 2015-16 Health Education MS Level
+ek6b-5n74 - 2011-12 Transfer or Discharge Code - Grades 9-12
+rw6k-9v7e - 2011-2012 School Closure Discharge Reporting - Credit Recovery
+j4wk-mndk - 2012-13 Discharge Reporting By Code - MS
+a8cg-cxa6 - Agency Business Parking Permit (ABPP)
+95ii-vcsx - 2018 -2019 Class Size Pct City MSHS
+ajgi-hpq9 - 2013-2014 Class Size Report District Level Detail Final
+66ry-raij - 2018 Diversity Report - Grades K-8 Special Programs
+tk57-ks48 - 2010-2011 School Closure Discharge Reporting Gender - Borough
+d3pp-cj56 - TLC Driver Exam Testing Center Locations (Map)
+ipu7-kigb - ENDGBV in Focus: Outreach Campaigns and Activities, 2018-2019
+wn79-er9p - 2014 -15 Guidance Counselor Reporting - Post Secondary Planning
+xpy2-cyxg - 2012-13 Discharge Reporting for Students with Disabilities - HS
+7ej9-npzm - 2017-2018 Student Discipline Annual Report - GENDER
+bk4j-3hk5 - 2011-12 Discharge Reporting by School - HS
+efzr-wfp2 - 2017-2018 Student Discipline Annual Report - IEP
+f7qh-bcr5 - 2011-2012 CLASS SIZE REPORT CITY LEVEL DETAIL
+j2dd-88mm - 2011-2012 School Closure Discharge Reporting SWD - District
+9q3s-ajq8 - 2010-2011 School Closure Discharge Reporting - SWD
+yrnt-txti - 2018-19 Guidance Counselor Report - Post Secondary Planning
+i6ky-n2wd - 2017-2018 Student Discipline Annual Report - Length In Days
+e33f-d2gn - 2004 Orthoimagery Brooklyn
+urc8-8bjy - 2012-2013 CLASS SIZE REPORT DISTRICT LEVEL DETAIL
+t6ia-5tin - 2004 Orthoimagery Bronx
+utu8-j8sk - 2018 - 2019 Average Class Size Report School K-8
+mqk5-vp9c - 2015-2016 Diversity Report - K-8 & Grades 9-12 District, Schools, Special Programs, Diversity Efforts, Admissions Methods
+g6pg-qint - Cash Assistance and SNAP Cases Rejections
+mmdw-rxy8 - 2010-2011 School Closure Discharge Reporting Age - District
+uvbr-fk6w - 2004 Orthoimagery Staten Island
+rcdb-6tdq - 2010-2011 School Closure Discharge Reporting SWD Borough
+vwxi-2r5k - 2011-2012 CLASS SIZE REPORT BOROUGH LEVEL DISTRIBUTION
+tt8e-a9vn - Department for the Aging (NYC Aging) - Reported Expenditures
+wssh-seqa - 2015-16 Guidance Counselor SW&GC - Data
+ckaz-6gaa - NYC Parks Spray Showers
+ngew-r755 - 2010 Orthoimagery Bronx
+ifnn-4w9d - 2010-2011 School Closure Discharge Reporting Ethnicity - School
+xrcf-rh2g - TLC Authorized Wheelchair Passenger Assistance Training Providers (Map)
+dazy-4wwv - 2014-15 Discharge Reporting By Code - HS
+ajin-fesn - 2017-2018 Physical Education - Licensed Teachers
+rcdu-fcaw - Pupil Transportation Investigations Reporting October_2021_929B_21-995
+w3w9-rtaj - 2018 Diversity Report - Pre-Kindergarten
+gms8-qcv5 - Parking Permit for People with Disabilities (PPPD) - State
+bf74-7bnx - 2013 Public Funds Payments
+c5u8-5c47 - 2011 NYC District 75 School Survey
+hkqp-x7p9 - 2013-14 Discharge Reporting School Level - MS
+hntz-vujg - 2011-2012 School Closure Discharge Reporting - SWD
+e76w-s8gb - 2010 Orthoimagery Brooklyn - 2 of 2
+u845-acue - Department for the Aging (NYC Aging) - Bottom Line Budget
+qiyv-ty5u - 2017-2018 Physical Education Instruction - District Level
+eevf-vb98 - 2017-2018 Suspension Report NYPD Contacts - STH
+6dju-qj67 - 2012 Orthoimagery Brooklyn
+ytjm-yias - 2013-2014 Class Size Report City Level Distribution Final
+6etc-vpfd - 2008 District 75 School Survey
+nieh-77cs - 2006 Orthoimagery Manhattan
+3kj6-hxzd - 2016-2017 Discharge Reporting by School Level - MS
+tdhn-vze8 - HHS Invoice Cycle Time
+fw5m-2rb3 - 2014 Orthoimagery Queens - 2 of 2
+dy62-2n2g - 2008 Orthos Tile  Index
+ehji-3xy2 - 2018-2019 Class Size Report District K-8 Class Size Distribution
+gmhi-8qzt - 2017-2018 Suspension Report NYPD Contacts - SWD
+qusa-igsv - 2014-2015 Class Size Report Borough Level Detail Summary
+ixe9-9fcq - 2009 School Survey
+qjzt-ytn9 - Annual City Council Report on Eligible List Utilization (Local Law 50 of 2004)
+tars-scr5 - 2010 Orthoimagery Queens - 2 of 2
+9b8z-mk7h - 2018 Diversity Report - Grades 9-12 District
+k8hv-44tq - 2017-2018 Students with Multiple Removals or Suspensions - ELL
+x79z-q7y2 - 2011-2012 School Closure Discharge Reporting SWD - Borough
+xhmm-58fn - 2011-2012 School Closure Discharge Reporting ELL- District
+aajk-7hbr - 2012 Orthoimagery Tile Index
+9fxq-tpip - 2012-13 Discharge Reporting Students with Disabilities - MS
+2bs8-z87y - 2017-2018 Physical Education Instruction - School Level
+ptkq-bbd4 - 2018-2019 Class Size Report Borough K-8 Class Size Distribution
+stv3-xtpf - 2006 Orthoimagery Queens
+4p3u-pfnp - 2017-2018 Students with Multiple Removals or Suspensions - STH
+fk5e-4bf4 - 2016-2017 Elem MS Quality Reports
+v2hd-uwxx - 2011-12 Discharge Reporting by School - MS
+xgcb-9jsr - 2017-2018 Student Discipline Annual Report - AGE
+ew6u-9hb3 - NYCgov Poverty Measure Data (2012)
+3c9q-94ad - 2018 - 2019 Class Size Pct Boro MSHS
+se9y-csnn - 2016-2017 Discharge Reporting by Code - HS
+meug-f4mb - 2006 Orthoimagery Brooklyn
+vc9v-wg6y - 2018 Diversity Report - Grades K-8 School
+vn74-s6rt - 2018-2019 Average Class Size Borough - Middle & High School
+u5vp-yxq8 - 2015 NYC School Survey
+vfa7-chs9 - New York City Municipal Archives Data Collection: Acquisitions / Accessions List
+9k6z-7hxf - 2019-2020 Preschool Education Report LL21
+kr87-pum9 - 2018-2019 Average Class Size District - K-8
+sas9-vd86 - 2018-2019 Average Class Size District - Middle & High School
+irg8-quqm - 2017- 2018 EMS Transports Final Student Date Of Birth
+xy2j-nm7j - 2017-2018 Local Law Licensed Health Instructor - School
+wcmg-48ep - 2014-2015 Class Size Report City Level Detail Summary
+vqu8-xef9 - Taxi and  For Hire Vehicle (FHV) Relief Stands
+dy9m-dvf2 - 2008 Orthoimagery Brooklyn
+graj-69em - Department of Youth and Community Development (DYCD) Contracts
+nhq5-jx6b - 2018-2019 Average Class Size City - Middle & High School
+yhck-bxbs - NYCgov Poverty Measure Data (2013)
+x4hu-rz9v - 2011-2012 Early Childhood Progress Report
+5fs5-yi3e - Cash Assistance and SNAP Cases Closed
+5mrk-xb95 - 2016-2017 Discharge Reporting by SWD - HS
+r9ax-4va4 - Waiting List Applications for Midtown Core Zone Vending License
+x7pf-vzed - 2018-2019 Class Size Report City K-8 Class Size Distribution
+vmfm-wic2 - Early Learn Project Sites
+dyta-z6sk - 2017-2018 School Closure Discharge Report Citywide - Age/ELL/SWD/Gender/Grade/Ethnicity
+2ith-35wn - 2016-2017 Discharge Reporting by SWD - MS
+kd8f-uxui - 2017-2018 Physical Education - Supplemental Programs
+vmbc-b9fa - 2017-2018 Physical Education Instruction - Borough Level
+k7ur-6x2q - 2021_Prelim_Avg_ClassSize_Borough
+ap68-7a8h - 2017-2018 School Closure Discharge Report Borough - Age/ELL/SWD/Gender/Grade/Ethnicity
+dh83-nwj8 - 2009 Public Data File Students
+7yda-ws2j - 2018-2019 Average Class Size Borough - K-8
+9igb-ny64 - 2018-2019 Class Size Report City Middle & High School Class Size Distribution
+sx36-djm7 - 2017-2018 School Closure Discharge Report School - Age/ELL/SWD/Gender/Grade/Ethnicity
+xiht-rtn7 - Billy's Law Reporting Local Law 68 - February 1, 2019
+mthv-t59m - 2006 Orthoimagery Tile Index
+i85y-pwpn - NYCgov Poverty Measure Data (2006)
+fzwc-6vqf - 2018-2019 Class Size Report Borough Middle & High School Class Size Distribution
+hpp2-afag - Top 5 Responsibility Determination Cycle Time
+s57c-tzcg - 2021 LL51 Spring Semester DL FINAL REDACT
+nmtq-hr8h - 2015-2016 Elem MS School Quality Reports
+wqh5-zjte - 2016-2017 Discharge Reporting by Code - MS
+nk37-cvvv - 2017-2018 School Closure Discharge Report District - Age/ELL/SWD/Gender/Grade/Ethnicity
+87fc-zpp6 - 2016 - 2017 Biannual Report January
+j9we-9a43 - NYCgov Poverty Measure Data (2009)
+mi4r-ama5 - 2018-2019 Class Size Report District Middle & High School Class Size Distribution
+py32-wyad - NYCgov Poverty Measure Data (2011)
+engv-gkbr - 2018-2019 Average Class Size City - K-8
+b9jq-x9q5 - 2017-2018 Discharge Reporting By School - HS
+udk9-t2yf - Taxi and For Hire Vehicle (FHV) Relief Stands (Map)
+33mm-wzxh - 2023 Open Data Plan: FOIL Metrics
+yeut-b48d - 2013-2014 Elem EMS School Quality Reports
+t9nb-zfe4 - 2011 D75 School Surveys
+uk5i-vjzr - 2012-2013 Elem MS K-8
+24ts-hbqj - 2018-2019 Local Law 120 Public School Athletic League
+dmuj-yrxd - 2017-2018 Health Education Report MS (54) -  City Council District
+q48k-6suv - 2017 - 2018 Biannual Report January
+jt4k-7qty - 2011 NYC Community Schools Survey
+4mud-hg2j - 2011-2012 Elem MS K-8
+5s8t-db6q - 2011 Community School
+kknj-ey22 - 2012 Community School Survey
+ms9y-qe37 - 2009 Public Data File Students D75
+t3w8-49gp - 2015 - 2016 Biannual Report July
+mdg8-aa3x - 2015-2016 Biannual Report January
+puvm-vtnz - 2017-2018 Discharge Reporting By SWD-HS
+ndgr-9drd - 2016 - 2017 Biannual Report July
+ihu4-ncc7 - 2017-2018 Local Law 15 Health Instructor - Professional
+36j9-c8ka - 2017-2018 Local Law 15 Health Instructor - Community School District
+rb33-zusf - 2011-2012 Transfer High School Progress Report
+5uf6-jjmy - Cash Assistance and SNAP Cases Reopenings
+32rn-zwi7 - Capacity Supporting Transportable Classroom Units (TCU) Removals
+pkey-4ytr - Holiday Construction Embargo- Intersection (Map)
+urz8-dybm - SY2017-2018 Local Law 60 Annual Report
+shsq-aapc - 2017-2018 Local Law 15 Health Instructor - City Council District
+wrvm-32h2 - 2016 - 2017 Local Law 60 Bathroom& Non- Instructional Space
+28gm-7ump - Cash Assistance and SNAP Cases Reopenings with a Missed Benefits Cycle
+x3s5-f49v - 2011 NYC Community Schools Survey
+gk67-cwwz - 2017-2018 Health Education Report MS (54) -  School
+csbm-damb - Untitled Visualization - Based on Open Article 7 Petitions
+2jrp-puwz - Mayor's Management Report Spending and Budget
+ayx3-dixq - Pedicab Registration Plate Lottery Applications
+gsyv-em48 - 2017-2018 Health Education Report MS (54) -  District
+t5h2-b6ki - 2017-2018 Discharge Reporting by SWD - MS
+nvzu-6t9y - Preliminary Mayor's Management Report Agency Resources
+wutj-3rsj - 2017-2018 Discharge Report By Code - MS
+u42f-se8e - Lottery Applications for Tobacco Retail Dealer (TRD) and Electronic Cigarette Dealer Licenses (ECD)
+j4gs-ge7j - HS_Zones_2013-2014
+6azk-jzjq - 2017-2018 Discharge Reporting By School - MS
+4qmi-txnk - Mayor's Management Report Agency Resources
+cfz5-6fvh - City of New York Municipal Solar-Readiness Assessment (Local Law 24 of 2016) data
+is7e-8exf - NYPD Historic Arrests - Summary Dashboard
+95kh-h6zc - Dewatered Solids and Biosolids Allocations per Biosolids Management Practice Site
+vfid-uain - NYPD YTD Arrests - Summary Dashboard
+6c4k-4mp6 - NYPD YTD Criminal Summons - Summary Dashboard
+giz4-dbkg - ES_Zones_2013-2014
+w4ne-9ea9 - Preliminary Mayor's Management Report Spending and Budget
+awbp-qqq3 - MS_Zones_2013-2014
+t7xz-mxnb - NYPD Historic Criminal Summons - Summary Dashboard
+bxpq-t33g - 2015 For Hire Vehicle Trip Data
+xi2p-xyn2 - CB 1 Month Lookahead (All Agencies)

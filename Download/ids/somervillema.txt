@@ -1,0 +1,37 @@
+ezmv-8wys - Motor Vehicle Crash Reports
+uzdd-gyjv - Buildings
+vxgw-vmky - Permits
+qu9x-4xq5 - Bicycle & Pedestrian Counts 2010-2016 (See Description)
+bi8e-5vw8 - Somerville Happiness Survey Responses
+62z4-avqc - Quality Of Life Incidents
+4pyi-uqq6 - 311 Service, Information, and Feedback Requests
+9wbi-ck3z - Criminal Incidents
+xavb-4s9w - City of Somerville Parking Permits
+crrw-ex2a - Zoning & Overlay Districts
+n5md-vqta - Neighborhoods
+pz4k-wh6e - City Limits
+cmth-mghs - Motor Vehicle Citations
+ym5n-phxd - Wards
+wz6k-gm5k - Capital Investment Plan Projects FY16-26
+8r94-vs2v - Traffic Enforcement Incidents
+754v-8e35 - Website Analytics
+7jtq-qmnf - Streets
+9i64-4hby - Open Space
+6x35-pz53 - 2015 Solar Survey Responses
+i28f-q9cg - Contours 1 Ft
+acxq-esku - Assessor's Parcels
+jich-f4v9 - Parking Meters
+5ebe-mbbc - 2015 MassOrtho Aerial Image
+yswj-3fdd - Impervious Surfaces
+y6ii-trws - Place Names
+bpsf-vg2d - Trash Receptacles
+6j4n-batb - Bicycle Counts
+vjwd-26r7 - Fire Stations
+da4y-vuae - Precincts
+9xw5-tezf - Polling Places
+hm5m-dtda - Fire Response Districts
+9yqy-rex4 - Police Stations
+3ms3-ngki - Pedestrian Counts
+3qxw-3aiy - Infectious Illness Dashboard
+9nxx-bgz3 - Criminal Incidents Per Year
+qsv6-v7hu - Somerville Public School Staff MBTA Pass Pilot - Travel & Survey Data
