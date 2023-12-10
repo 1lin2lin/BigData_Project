@@ -12,7 +12,7 @@ data.somervillema.gov somervillema
 data.cityofboston.gov boston
 data.slcgov.com slc
 data.oaklandnet.com oaklandnet
-data.cityofmadison.com  madison
+data.cityofmadison.com madison
 data.kcmo.org kcmo
 data.raleighnc.gov raleigh
 data.redmond.gov redmond
