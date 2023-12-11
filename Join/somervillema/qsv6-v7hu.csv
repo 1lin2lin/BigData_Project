@@ -1,0 +1,17 @@
+group_no,unique_cards_tapped_this_month,total_fares,total_trips,validations,bus_validations,redline_validations,orangeline_validation,greenline_validations,blueline_validations,sunrise_validations,early_am_validations,am_peak_validations,midday_base_validations,midday_school_validations,pm_peak_validations,evening_validations,late_evening_validations,night_validations,transit_frequency_reported,school_group,intake_survey_responses,intake_survey_commute_by_bus,intake_survey_commute_by_subway,intake_survey_commute_by_driving,intake_survey_commute_by_activemodes
+1,21,4369.7,2100,2466,1324,250,257,617,18,53,200,511,323,614,427,229,92,17,Every day,Central Hill,21,18,15,1,4
+2,25,5472.3,2891,3658,2821,331,338,160,8,9,186,771,875,717,735,208,151,6,Every day,Quarter Mile,26,25,16,1,5
+3,44,10395.1,5157,6677,4333,964,629,384,367,102,360,1382,1200,1476,1496,519,112,30,Every day,All else,47,42,31,2,18
+4,13,797.4,334,473,145,85,232,10,1,0,63,158,13,122,107,7,3,0,Less than one day per month,Central Hill,19,1,1,17,2
+5,9,634.3,271,280,32,167,73,8,0,0,5,59,105,15,78,11,6,1,Less than one day per month,Quarter Mile,18,1,1,17,1
+6,29,555.8,267,283,135,22,95,25,6,0,5,84,59,49,64,17,5,0,Less than one day per month,All else,45,2,1,43,5
+7,35,3602.3,1828,2182,1478,230,238,208,28,69,221,203,419,568,484,185,33,0,Multiple days per week,Central Hill,38,25,19,20,18
+8,43,2084.2,974,1075,464,228,140,231,12,2,77,139,181,198,313,140,19,6,Multiple days per week,Quarter Mile,49,22,18,31,25
+9,64,7962.6,3736,4552,2252,999,751,397,153,13,199,867,999,881,945,455,179,14,Multiple days per week,All else,72,43,38,40,33
+11,11,609.1,292,389,230,71,83,5,0,19,52,7,95,97,88,26,5,0,Never,All,17,1,2,15,2
+13,29,1723.2,774,908,331,185,148,155,89,2,46,113,224,182,198,108,28,7,One day per week,Central Hill,32,6,9,26,15
+14,20,1511.5,656,870,297,69,446,54,4,3,197,98,77,96,127,144,127,1,One day per week,Quarter Mile,29,4,7,25,7
+15,46,2451.3,1088,1228,388,334,221,277,8,1,81,248,269,197,291,111,25,5,One day per week,All else,49,14,14,38,18
+16,41,1051.2,480,532,205,70,92,160,5,1,30,45,115,128,120,63,28,2,One or two days per month,Central Hill,50,6,8,42,12
+17,36,947.6,438,497,207,101,102,83,4,1,127,65,79,58,115,33,16,3,One or two days per month,Quarter Mile,57,6,8,50,12
+18,57,2739.8,1304,1653,918,324,267,121,23,106,91,253,310,280,398,165,48,2,One or two days per month,All else,73,6,5,61,16
